@@ -1,19 +1,10 @@
 /*
-  IMPORTANT:
-  Demo mode keeps the temporary class passkeys in this public file so the app can
-  be tested before Google Apps Script is connected. Do not publish this version
-  for student use. After the Apps Script endpoint is ready:
-    1. Set demoMode to false.
-    2. Enter the deployed Apps Script URL in submissionEndpoint.
-    3. Remove the demoPasskeys object if desired.
+  Public app configuration.
+  The real class passkeys are stored in Google Apps Script properties, not here.
 */
 window.APP_CONFIG = {
-  demoMode: true,
-  submissionEndpoint: "",
-  demoPasskeys: {
-    EAP: "1111",
-    FL: "2222"
-  },
+  demoMode: false,
+  submissionEndpoint: "https://script.google.com/macros/s/AKfycbzqt8iuNGciqXZLHrJvcCvpLWp1K3ZdSqgIUXKrrBChw16m55X3VTuXcrriQgz3W04H/exec",
   scoreThresholds: {
     threeStars: 13,
     twoStars: 10,
