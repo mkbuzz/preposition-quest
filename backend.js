@@ -3,39 +3,29 @@
 /*
   Google Apps Script bridge for GitHub Pages.
 
-  Apps Script web apps do not expose a normal cross-origin JSON response to a
-  static site in every browser. Passkey checks and submission confirmations use
-  JSONP, while result data is sent with a no-CORS POST and then confirmed by its
-  unique submission ID.
+  Passkeys are checked locally against SHA-256 hashes so Google multi-account
+  routing cannot block class entry. Exercise results are still sent to the
+  private Google Apps Script receiver and confirmed by submission ID.
 */
 
 (() => {
-  const originalValidateClassPasskey = window.validateClassPasskey;
   const originalSendResultToBackend = window.sendResultToBackend;
   const originalFlushPendingSubmissions = window.flushPendingSubmissions;
 
   window.validateClassPasskey = async function validateClassPasskeyConnected(classId, passkey) {
-    if (config.demoMode) {
-      return originalValidateClassPasskey(classId, passkey);
+    const expectedHash = config.passkeyHashes && config.passkeyHashes[classId];
+    if (!expectedHash) {
+      throw new Error("No passkey hash is configured for this class.");
     }
 
-    if (!config.submissionEndpoint) {
-      throw new Error("The Google Apps Script endpoint is not configured.");
-    }
-
-    const result = await jsonpRequest(config.submissionEndpoint, {
-      action: "validateClass",
-      classCode: classId,
-      passkey
-    });
-
-    return Boolean(result && result.success === true);
+    const actualHash = await sha256(`prepositionQuest:${classId}:${passkey}`);
+    return actualHash === expectedHash;
   };
 
   window.sendResultToBackend = async function sendResultToBackendConnected(result) {
     const status = document.getElementById("submission-status");
 
-    if (config.demoMode || !config.submissionEndpoint) {
+    if (!config.submissionEndpoint) {
       return originalSendResultToBackend(result);
     }
 
@@ -63,7 +53,7 @@
   };
 
   window.flushPendingSubmissions = async function flushPendingSubmissionsConnected() {
-    if (config.demoMode || !config.submissionEndpoint) {
+    if (!config.submissionEndpoint) {
       return originalFlushPendingSubmissions();
     }
 
@@ -126,6 +116,14 @@
     }
 
     return false;
+  }
+
+  async function sha256(text) {
+    const data = new TextEncoder().encode(text);
+    const digest = await crypto.subtle.digest("SHA-256", data);
+    return Array.from(new Uint8Array(digest))
+      .map((byte) => byte.toString(16).padStart(2, "0"))
+      .join("");
   }
 
   function jsonpRequest(endpoint, parameters, timeoutMilliseconds = 10000) {
