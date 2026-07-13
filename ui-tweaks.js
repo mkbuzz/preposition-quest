@@ -4,6 +4,57 @@
 
 (() => {
   const originalStartExercise = window.startExercise;
+  const originalRenderExercise = window.renderExercise;
+
+  const STUDENT_NAMES = {
+    E001: "Maia",
+    E002: "Kensuke",
+    E003: "Sayaka",
+    E004: "Rena",
+    E005: "Hinako",
+    E006: "Haru",
+    E007: "Anri",
+    E008: "Kakeru",
+    E009: "Mihiro",
+    E010: "Aika",
+    E011: "Sora",
+    E012: "Ryota",
+    E013: "Mio",
+    E014: "Yu",
+    E015: "Natsuki",
+    E016: "Tenyu",
+    E017: "Rina",
+    E018: "Momoka",
+    E019: "Kotone",
+    E020: "Kaede",
+    E021: "Yuna",
+    E022: "Yui",
+    F001: "Nodoka",
+    F002: "Rion",
+    F003: "Senri",
+    F004: "Mimi",
+    F005: "Hiyori",
+    F006: "Kazuma",
+    F007: "Komachi",
+    F008: "Miu",
+    F009: "Taiga",
+    F010: "Reo",
+    F011: "Akira",
+    F012: "Yusaku",
+    F013: "Haruka",
+    F014: "Koyuki",
+    F015: "Yuga",
+    F016: "Marin",
+    F017: "Ayane",
+    F018: "Karen",
+    F019: "Sana",
+    F020: "Nanako",
+    F021: "Towa"
+  };
+
+  function getStudentName(studentId) {
+    return STUDENT_NAMES[studentId] || studentId || "";
+  }
 
   const style = document.createElement("style");
   style.textContent = `
@@ -121,9 +172,68 @@
   `;
   document.head.appendChild(style);
 
+  window.renderStudentSelect = function renderStudentSelectWithNames() {
+    const classInfo = getClass(state.selectedClass);
+    const ids = getStudentIds(classInfo);
+
+    app.innerHTML = `
+      <main class="page">
+        <div class="topbar">
+          <button class="btn btn-ghost" id="back-passkey">← Back</button>
+          <span class="identity-chip">Class: ${escapeHtml(classInfo.label)}</span>
+        </div>
+
+        <section class="panel">
+          <h1 class="section-heading">Choose your name</h1>
+          <p class="section-note">Select your own name, then confirm your choice.</p>
+          <div class="student-grid">
+            ${ids.map((id) => `
+              <button class="student-button ${state.selectedStudent === id ? "selected" : ""}" data-student-id="${escapeAttribute(id)}">
+                ${escapeHtml(getStudentName(id))}
+              </button>
+            `).join("")}
+          </div>
+          <div class="button-row">
+            <button class="btn btn-primary" id="confirm-student" ${state.selectedStudent ? "" : "disabled"}>
+              ${state.selectedStudent ? `Continue as ${escapeHtml(getStudentName(state.selectedStudent))}` : "Choose a name"}
+            </button>
+          </div>
+          ${state.selectedStudent ? `<div class="message info">You selected <strong>${escapeHtml(getStudentName(state.selectedStudent))}</strong>. Confirm that this is your own name.</div>` : ""}
+        </section>
+      </main>`;
+
+    document.getElementById("back-passkey").addEventListener("click", () => {
+      state.selectedStudent = null;
+      state.view = "passkey";
+      render();
+    });
+
+    document.querySelectorAll("[data-student-id]").forEach((button) => {
+      button.addEventListener("click", () => {
+        state.selectedStudent = button.dataset.studentId;
+        renderStudentSelect();
+      });
+    });
+
+    document.getElementById("confirm-student").addEventListener("click", () => {
+      if (!state.selectedStudent) return;
+      saveSession();
+      state.view = "dashboard";
+      render();
+    });
+  };
+
   window.startExercise = function startExerciseWithHistoryReset(setId, exerciseId) {
     state.viewingHistory = false;
     return originalStartExercise(setId, exerciseId);
+  };
+
+  window.renderExercise = function renderExerciseWithStudentName(options = {}) {
+    originalRenderExercise(options);
+    const identityChip = document.querySelector(".exercise-page .identity-chip");
+    if (identityChip) {
+      identityChip.textContent = `${state.selectedClass} · ${getStudentName(state.selectedStudent)}`;
+    }
   };
 
   window.renderIdentityTopbar = function renderIdentityTopbarSimplified() {
@@ -131,12 +241,50 @@
       <div class="topbar">
         <div class="topbar-left">
           <span class="identity-chip">Class: ${escapeHtml(state.selectedClass)}</span>
-          <span class="identity-chip">Student: ${escapeHtml(state.selectedStudent)}</span>
+          <span class="identity-chip">Student: ${escapeHtml(getStudentName(state.selectedStudent))}</span>
         </div>
       </div>`;
   };
 
   window.bindIdentityTopbar = function bindIdentityTopbarSimplified() {};
+
+  window.renderDashboard = function renderDashboardWithStudentName() {
+    const progress = getCurrentStudentProgress();
+    const enabledExercises = state.data.sets.flatMap((set) => set.exercises.filter((exercise) => exercise.enabled));
+    const completed = enabledExercises.filter((exercise) => progress[exercise.id]).length;
+    const completionRate = enabledExercises.length ? Math.round((completed / enabledExercises.length) * 100) : 0;
+
+    app.innerHTML = `
+      <main class="page">
+        ${renderIdentityTopbar()}
+        <section class="hero">
+          <p class="hero-kicker">Student dashboard</p>
+          <h1>${escapeHtml(state.data.appTitle)}</h1>
+          <p>Choose a set. Your best scores are saved on this browser for ${escapeHtml(getStudentName(state.selectedStudent))}.</p>
+          <div class="progress-wrap">
+            <div class="progress-row"><span>Overall completion</span><span>${completed}/${enabledExercises.length}</span></div>
+            <div class="progress-track"><div class="progress-fill" style="width:${completionRate}%"></div></div>
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2 class="section-heading">Choose a set</h2>
+          <p class="section-note">Each set has its own word bank. Additional exercises can be added through the JSON data file.</p>
+          <div class="set-grid">
+            ${state.data.sets.map((set) => renderSetCard(set, progress)).join("")}
+          </div>
+        </section>
+      </main>`;
+
+    bindIdentityTopbar();
+    document.querySelectorAll("[data-open-set]").forEach((button) => {
+      button.addEventListener("click", () => {
+        state.currentSetId = button.dataset.openSet;
+        state.view = "set";
+        render();
+      });
+    });
+  };
 
   window.renderSetCard = function renderSetCardWithProminentScores(set, progress) {
     const enabled = set.exercises.filter((exercise) => exercise.enabled);
@@ -175,7 +323,7 @@
         <div class="topbar">
           <div class="topbar-left">
             <button class="btn btn-ghost" id="back-dashboard">← All Sets</button>
-            <span class="identity-chip">${escapeHtml(state.selectedClass)} · ${escapeHtml(state.selectedStudent)}</span>
+            <span class="identity-chip">${escapeHtml(state.selectedClass)} · ${escapeHtml(getStudentName(state.selectedStudent))}</span>
           </div>
         </div>
 
