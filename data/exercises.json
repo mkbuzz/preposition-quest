@@ -1,0 +1,822 @@
+{
+  "appTitle": "Preposition Quest",
+  "appSubtitle": "Choose a class, select your student ID, and challenge six preposition sets.",
+  "classes": [
+    {
+      "id": "EAP",
+      "label": "EAP",
+      "description": "English for Academic Purposes",
+      "studentIdPrefix": "E",
+      "studentIdStart": 1,
+      "studentIdEnd": 22
+    },
+    {
+      "id": "FL",
+      "label": "FL",
+      "description": "Foundational Literacies",
+      "studentIdPrefix": "F",
+      "studentIdStart": 1,
+      "studentIdEnd": 21
+    }
+  ],
+  "sets": [
+    {
+      "id": "set1",
+      "number": 1,
+      "title": "Time Prepositions",
+      "shortTitle": "Time",
+      "description": "Practice prepositions used for time, dates, duration, deadlines, and sequence.",
+      "wordBank": [
+        "after",
+        "at",
+        "before",
+        "by",
+        "during",
+        "for",
+        "in",
+        "on",
+        "since",
+        "until"
+      ],
+      "exercises": [
+        {
+          "id": "set1-ex1",
+          "title": "Exercise 1",
+          "version": "2026-07-13-1",
+          "enabled": true,
+          "questions": [
+            {
+              "id": "set1-ex1-q1",
+              "sentence": "My first class starts ___ 9:00.",
+              "answer": "at",
+              "japanese": "最初の授業は9時に始まる。"
+            },
+            {
+              "id": "set1-ex1-q2",
+              "sentence": "We have a vocabulary quiz ___ Monday.",
+              "answer": "on",
+              "japanese": "月曜日に単語の小テストがある。"
+            },
+            {
+              "id": "set1-ex1-q3",
+              "sentence": "The university festival is ___ November.",
+              "answer": "in",
+              "japanese": "大学祭は11月に行われる。"
+            },
+            {
+              "id": "set1-ex1-q4",
+              "sentence": "Upload the assignment ___ 11:59 p.m. on Friday.",
+              "answer": "by",
+              "japanese": "金曜日の午後11時59分までに課題をアップロードすること。"
+            },
+            {
+              "id": "set1-ex1-q5",
+              "sentence": "I stayed ___ the library closed.",
+              "answer": "until",
+              "japanese": "図書館が閉まるまで残っていた。"
+            },
+            {
+              "id": "set1-ex1-q6",
+              "sentence": "We practiced ___ two hours.",
+              "answer": "for",
+              "japanese": "2時間練習した。"
+            },
+            {
+              "id": "set1-ex1-q7",
+              "sentence": "Aya has played tennis ___ 2024.",
+              "answer": "since",
+              "japanese": "アヤは2024年からテニスをしている。"
+            },
+            {
+              "id": "set1-ex1-q8",
+              "sentence": "Students may not talk ___ the exam.",
+              "answer": "during",
+              "japanese": "試験中は話してはいけない。"
+            },
+            {
+              "id": "set1-ex1-q9",
+              "sentence": "We ate lunch ___ class.",
+              "answer": "after",
+              "japanese": "授業後に昼食を食べた。"
+            },
+            {
+              "id": "set1-ex1-q10",
+              "sentence": "Turn off your phone ___ class.",
+              "answer": "before",
+              "japanese": "授業前に携帯電話の電源を切ること。"
+            },
+            {
+              "id": "set1-ex1-q11",
+              "sentence": "Let’s meet ___ noon.",
+              "answer": "at",
+              "japanese": "正午に会いましょう。"
+            },
+            {
+              "id": "set1-ex1-q12",
+              "sentence": "The presentation is ___ April 15.",
+              "answer": "on",
+              "japanese": "発表日は4月15日である。"
+            },
+            {
+              "id": "set1-ex1-q13",
+              "sentence": "The library opened ___ 2025.",
+              "answer": "in",
+              "japanese": "図書館は2025年に開館した。"
+            },
+            {
+              "id": "set1-ex1-q14",
+              "sentence": "Return the book ___ Friday.",
+              "answer": "by",
+              "japanese": "金曜日までに本を返すこと。"
+            },
+            {
+              "id": "set1-ex1-q15",
+              "sentence": "We waited ___ the bus arrived.",
+              "answer": "until",
+              "japanese": "バスが来るまで待った。"
+            }
+          ]
+        },
+        {
+          "id": "set1-ex2",
+          "title": "Exercise 2",
+          "version": "draft",
+          "enabled": false,
+          "questions": []
+        },
+        {
+          "id": "set1-ex3",
+          "title": "Exercise 3",
+          "version": "draft",
+          "enabled": false,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": "set2",
+      "number": 2,
+      "title": "Place and Movement",
+      "shortTitle": "Place & Movement",
+      "description": "Practice position, direction, and movement through physical spaces.",
+      "wordBank": [
+        "above",
+        "across",
+        "along",
+        "behind",
+        "below",
+        "beside",
+        "between",
+        "into",
+        "near",
+        "under"
+      ],
+      "exercises": [
+        {
+          "id": "set2-ex1",
+          "title": "Exercise 1",
+          "version": "2026-07-13-1",
+          "enabled": true,
+          "questions": [
+            {
+              "id": "set2-ex1-q1",
+              "sentence": "The café is ___ the station.",
+              "answer": "near",
+              "japanese": "カフェは駅の近くにある。"
+            },
+            {
+              "id": "set2-ex1-q2",
+              "sentence": "The answer is ___ the two examples.",
+              "answer": "between",
+              "japanese": "答えは二つの例の間にある。"
+            },
+            {
+              "id": "set2-ex1-q3",
+              "sentence": "My bag is ___ the chair.",
+              "answer": "under",
+              "japanese": "私のかばんは椅子の下にある。"
+            },
+            {
+              "id": "set2-ex1-q4",
+              "sentence": "A clock hangs ___ the door.",
+              "answer": "above",
+              "japanese": "時計がドアの上に掛かっている。"
+            },
+            {
+              "id": "set2-ex1-q5",
+              "sentence": "The bicycle is ___ the library.",
+              "answer": "behind",
+              "japanese": "自転車は図書館の後ろにある。"
+            },
+            {
+              "id": "set2-ex1-q6",
+              "sentence": "We walked ___ the river.",
+              "answer": "along",
+              "japanese": "川に沿って歩いた。"
+            },
+            {
+              "id": "set2-ex1-q7",
+              "sentence": "They ran ___ the street.",
+              "answer": "across",
+              "japanese": "彼らは道路を走って横切った。"
+            },
+            {
+              "id": "set2-ex1-q8",
+              "sentence": "Put the worksheets ___ the folder.",
+              "answer": "into",
+              "japanese": "ワークシートをフォルダーの中に入れること。"
+            },
+            {
+              "id": "set2-ex1-q9",
+              "sentence": "The temperature fell ___ zero.",
+              "answer": "below",
+              "japanese": "気温が0度を下回った。"
+            },
+            {
+              "id": "set2-ex1-q10",
+              "sentence": "I sat ___ my friend.",
+              "answer": "beside",
+              "japanese": "友達の隣に座った。"
+            },
+            {
+              "id": "set2-ex1-q11",
+              "sentence": "The cat jumped ___ the box.",
+              "answer": "into",
+              "japanese": "猫が箱の中に飛び込んだ。"
+            },
+            {
+              "id": "set2-ex1-q12",
+              "sentence": "A bridge goes ___ the road.",
+              "answer": "across",
+              "japanese": "橋が道路を横切って架かっている。"
+            },
+            {
+              "id": "set2-ex1-q13",
+              "sentence": "Her score was ___ average.",
+              "answer": "below",
+              "japanese": "彼女の点数は平均以下だった。"
+            },
+            {
+              "id": "set2-ex1-q14",
+              "sentence": "The parking lot is ___ the two buildings.",
+              "answer": "between",
+              "japanese": "駐車場は二つの建物の間にある。"
+            },
+            {
+              "id": "set2-ex1-q15",
+              "sentence": "We walked ___ the beach.",
+              "answer": "along",
+              "japanese": "海岸に沿って歩いた。"
+            }
+          ]
+        },
+        {
+          "id": "set2-ex2",
+          "title": "Exercise 2",
+          "version": "draft",
+          "enabled": false,
+          "questions": []
+        },
+        {
+          "id": "set2-ex3",
+          "title": "Exercise 3",
+          "version": "draft",
+          "enabled": false,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": "set3",
+      "number": 3,
+      "title": "Source and Relationships",
+      "shortTitle": "Relationships",
+      "description": "Practice source, connection, topic, direction, and movement through an area.",
+      "wordBank": [
+        "about",
+        "against",
+        "among",
+        "around",
+        "from",
+        "of",
+        "over",
+        "through",
+        "to",
+        "with"
+      ],
+      "exercises": [
+        {
+          "id": "set3-ex1",
+          "title": "Exercise 1",
+          "version": "2026-07-13-1",
+          "enabled": true,
+          "questions": [
+            {
+              "id": "set3-ex1-q1",
+              "sentence": "I got an email ___ my professor.",
+              "answer": "from",
+              "japanese": "教授からメールを受け取った。"
+            },
+            {
+              "id": "set3-ex1-q2",
+              "sentence": "We talked ___ the project.",
+              "answer": "about",
+              "japanese": "プロジェクトについて話した。"
+            },
+            {
+              "id": "set3-ex1-q3",
+              "sentence": "The desk is made ___ wood.",
+              "answer": "of",
+              "japanese": "その机は木でできている。"
+            },
+            {
+              "id": "set3-ex1-q4",
+              "sentence": "Give the report ___ the teacher.",
+              "answer": "to",
+              "japanese": "レポートを先生に渡すこと。"
+            },
+            {
+              "id": "set3-ex1-q5",
+              "sentence": "I worked ___ two classmates.",
+              "answer": "with",
+              "japanese": "二人のクラスメートと作業した。"
+            },
+            {
+              "id": "set3-ex1-q6",
+              "sentence": "The council voted ___ the rule.",
+              "answer": "against",
+              "japanese": "学生会はその規則に反対票を投じた。"
+            },
+            {
+              "id": "set3-ex1-q7",
+              "sentence": "The teacher walked ___ the room.",
+              "answer": "around",
+              "japanese": "先生は教室内を歩き回った。"
+            },
+            {
+              "id": "set3-ex1-q8",
+              "sentence": "The train passed ___ a tunnel.",
+              "answer": "through",
+              "japanese": "列車はトンネルを通り抜けた。"
+            },
+            {
+              "id": "set3-ex1-q9",
+              "sentence": "A helicopter flew ___ the stadium.",
+              "answer": "over",
+              "japanese": "ヘリコプターがスタジアムの上空を飛んだ。"
+            },
+            {
+              "id": "set3-ex1-q10",
+              "sentence": "Emi stood ___ her classmates.",
+              "answer": "among",
+              "japanese": "エミはクラスメートたちの中に立っていた。"
+            },
+            {
+              "id": "set3-ex1-q11",
+              "sentence": "Cheese is made ___ milk.",
+              "answer": "from",
+              "japanese": "チーズは牛乳から作られる。"
+            },
+            {
+              "id": "set3-ex1-q12",
+              "sentence": "The title ___ the article was unclear.",
+              "answer": "of",
+              "japanese": "その記事の題名は分かりにくかった。"
+            },
+            {
+              "id": "set3-ex1-q13",
+              "sentence": "We walked ___ the crowd.",
+              "answer": "through",
+              "japanese": "人混みの中を通り抜けた。"
+            },
+            {
+              "id": "set3-ex1-q14",
+              "sentence": "The professor spoke ___ sleep.",
+              "answer": "about",
+              "japanese": "教授は睡眠について話した。"
+            },
+            {
+              "id": "set3-ex1-q15",
+              "sentence": "Send the schedule ___ everyone.",
+              "answer": "to",
+              "japanese": "予定表を全員に送ること。"
+            }
+          ]
+        },
+        {
+          "id": "set3-ex2",
+          "title": "Exercise 2",
+          "version": "draft",
+          "enabled": false,
+          "questions": []
+        },
+        {
+          "id": "set3-ex3",
+          "title": "Exercise 3",
+          "version": "draft",
+          "enabled": false,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": "set4",
+      "number": 4,
+      "title": "Roles, Exceptions, and Limits",
+      "shortTitle": "Roles & Limits",
+      "description": "Practice roles, exceptions, contrast, movement, limits, and absence.",
+      "wordBank": [
+        "as",
+        "despite",
+        "except",
+        "like",
+        "off",
+        "onto",
+        "throughout",
+        "toward",
+        "within",
+        "without"
+      ],
+      "exercises": [
+        {
+          "id": "set4-ex1",
+          "title": "Exercise 1",
+          "version": "2026-07-13-1",
+          "enabled": true,
+          "questions": [
+            {
+              "id": "set4-ex1-q1",
+              "sentence": "Mika worked ___ a guide.",
+              "answer": "as",
+              "japanese": "ミカはガイドとして働いた。"
+            },
+            {
+              "id": "set4-ex1-q2",
+              "sentence": "___ the rain, the game continued.",
+              "answer": "despite",
+              "japanese": "雨にもかかわらず、試合は続いた。"
+            },
+            {
+              "id": "set4-ex1-q3",
+              "sentence": "Everyone ___ Hiro submitted the assignment.",
+              "answer": "except",
+              "japanese": "ヒロ以外は全員課題を提出した。"
+            },
+            {
+              "id": "set4-ex1-q4",
+              "sentence": "The cloud looks ___ a bird.",
+              "answer": "like",
+              "japanese": "その雲は鳥のように見える。"
+            },
+            {
+              "id": "set4-ex1-q5",
+              "sentence": "My notebook fell ___ the desk.",
+              "answer": "off",
+              "japanese": "私のノートが机から落ちた。"
+            },
+            {
+              "id": "set4-ex1-q6",
+              "sentence": "The cat jumped ___ the table.",
+              "answer": "onto",
+              "japanese": "猫がテーブルの上に飛び乗った。"
+            },
+            {
+              "id": "set4-ex1-q7",
+              "sentence": "The students stayed quiet ___ the presentation.",
+              "answer": "throughout",
+              "japanese": "学生たちは発表中ずっと静かにしていた。"
+            },
+            {
+              "id": "set4-ex1-q8",
+              "sentence": "We walked ___ the station.",
+              "answer": "toward",
+              "japanese": "駅の方へ歩いた。"
+            },
+            {
+              "id": "set4-ex1-q9",
+              "sentence": "Finish the quiz ___ 30 minutes.",
+              "answer": "within",
+              "japanese": "30分以内に小テストを終えること。"
+            },
+            {
+              "id": "set4-ex1-q10",
+              "sentence": "I left ___ my umbrella.",
+              "answer": "without",
+              "japanese": "傘を持たずに家を出た。"
+            },
+            {
+              "id": "set4-ex1-q11",
+              "sentence": "We used the classroom ___ a meeting room.",
+              "answer": "as",
+              "japanese": "教室を会議室として使った。"
+            },
+            {
+              "id": "set4-ex1-q12",
+              "sentence": "___ being tired, Yuki attended class.",
+              "answer": "despite",
+              "japanese": "疲れていたにもかかわらず、ユキは授業に出席した。"
+            },
+            {
+              "id": "set4-ex1-q13",
+              "sentence": "The cafeteria is open every day ___ Sunday.",
+              "answer": "except",
+              "japanese": "学生食堂は日曜日以外、毎日開いている。"
+            },
+            {
+              "id": "set4-ex1-q14",
+              "sentence": "They carried the chairs ___ the stage.",
+              "answer": "onto",
+              "japanese": "彼らは椅子をステージの上へ運んだ。"
+            },
+            {
+              "id": "set4-ex1-q15",
+              "sentence": "You cannot enter ___ an ID card.",
+              "answer": "without",
+              "japanese": "学生証なしでは入れない。"
+            }
+          ]
+        },
+        {
+          "id": "set4-ex2",
+          "title": "Exercise 2",
+          "version": "draft",
+          "enabled": false,
+          "questions": []
+        },
+        {
+          "id": "set4-ex3",
+          "title": "Exercise 3",
+          "version": "draft",
+          "enabled": false,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": "set5",
+      "number": 5,
+      "title": "Position, Direction, and Addition",
+      "shortTitle": "Direction & Addition",
+      "description": "Practice position, routes, direction, addition, and value.",
+      "wordBank": [
+        "besides",
+        "beyond",
+        "down",
+        "inside",
+        "outside",
+        "past",
+        "underneath",
+        "up",
+        "via",
+        "worth"
+      ],
+      "exercises": [
+        {
+          "id": "set5-ex1",
+          "title": "Exercise 1",
+          "version": "2026-07-13-1",
+          "enabled": true,
+          "questions": [
+            {
+              "id": "set5-ex1-q1",
+              "sentence": "The town is ___ the hills.",
+              "answer": "beyond",
+              "japanese": "その町は丘の向こうにある。"
+            },
+            {
+              "id": "set5-ex1-q2",
+              "sentence": "Tears ran ___ her face.",
+              "answer": "down",
+              "japanese": "涙が彼女の顔を伝って流れ落ちた。"
+            },
+            {
+              "id": "set5-ex1-q3",
+              "sentence": "Wait ___ the classroom.",
+              "answer": "inside",
+              "japanese": "教室の中で待つこと。"
+            },
+            {
+              "id": "set5-ex1-q4",
+              "sentence": "My father waited ___ the store.",
+              "answer": "outside",
+              "japanese": "父は店の外で待っていた。"
+            },
+            {
+              "id": "set5-ex1-q5",
+              "sentence": "We walked ___ the bank.",
+              "answer": "past",
+              "japanese": "銀行の前を通り過ぎた。"
+            },
+            {
+              "id": "set5-ex1-q6",
+              "sentence": "The bag is ___ the seat.",
+              "answer": "underneath",
+              "japanese": "かばんは座席の真下にある。"
+            },
+            {
+              "id": "set5-ex1-q7",
+              "sentence": "They climbed ___ the stairs.",
+              "answer": "up",
+              "japanese": "彼らは階段を上った。"
+            },
+            {
+              "id": "set5-ex1-q8",
+              "sentence": "We flew to Paris ___ Seoul.",
+              "answer": "via",
+              "japanese": "ソウル経由でパリへ飛んだ。"
+            },
+            {
+              "id": "set5-ex1-q9",
+              "sentence": "The film is ___ watching.",
+              "answer": "worth",
+              "japanese": "その映画は見る価値がある。"
+            },
+            {
+              "id": "set5-ex1-q10",
+              "sentence": "___ math, she studies English.",
+              "answer": "besides",
+              "japanese": "彼女は数学のほかに英語も勉強している。"
+            },
+            {
+              "id": "set5-ex1-q11",
+              "sentence": "The dog ran ___ the house.",
+              "answer": "inside",
+              "japanese": "犬は家の中へ走って入った。"
+            },
+            {
+              "id": "set5-ex1-q12",
+              "sentence": "A taxi waited ___ the hotel.",
+              "answer": "outside",
+              "japanese": "タクシーがホテルの外で待っていた。"
+            },
+            {
+              "id": "set5-ex1-q13",
+              "sentence": "The bus went ___ our stop.",
+              "answer": "past",
+              "japanese": "バスは私たちの停留所を通り過ぎた。"
+            },
+            {
+              "id": "set5-ex1-q14",
+              "sentence": "We walked ___ the hill.",
+              "answer": "up",
+              "japanese": "丘を歩いて上った。"
+            },
+            {
+              "id": "set5-ex1-q15",
+              "sentence": "The museum is ___ visiting.",
+              "answer": "worth",
+              "japanese": "その博物館は訪れる価値がある。"
+            }
+          ]
+        },
+        {
+          "id": "set5-ex2",
+          "title": "Exercise 2",
+          "version": "draft",
+          "enabled": false,
+          "questions": []
+        },
+        {
+          "id": "set5-ex3",
+          "title": "Exercise 3",
+          "version": "draft",
+          "enabled": false,
+          "questions": []
+        }
+      ]
+    },
+    {
+      "id": "set6",
+      "number": 6,
+      "title": "Multiword Prepositions",
+      "shortTitle": "Multiword Forms",
+      "description": "Practice common multiword prepositions used for source, location, contrast, and cause.",
+      "wordBank": [
+        "according to",
+        "close to",
+        "far from",
+        "in front of",
+        "in spite of",
+        "instead of",
+        "next to",
+        "out of",
+        "regardless of",
+        "thanks to"
+      ],
+      "exercises": [
+        {
+          "id": "set6-ex1",
+          "title": "Exercise 1",
+          "version": "2026-07-13-1",
+          "enabled": true,
+          "questions": [
+            {
+              "id": "set6-ex1-q1",
+              "sentence": "___ the map, the station is north of here.",
+              "answer": "according to",
+              "japanese": "地図によると、駅はここから北にある。"
+            },
+            {
+              "id": "set6-ex1-q2",
+              "sentence": "The school is ___ the station.",
+              "answer": "close to",
+              "japanese": "学校は駅の近くにある。"
+            },
+            {
+              "id": "set6-ex1-q3",
+              "sentence": "His answer was ___ correct.",
+              "answer": "far from",
+              "japanese": "彼の答えは正解にはほど遠かった。"
+            },
+            {
+              "id": "set6-ex1-q4",
+              "sentence": "I walked ___ taking the bus.",
+              "answer": "instead of",
+              "japanese": "バスに乗らず、歩いた。"
+            },
+            {
+              "id": "set6-ex1-q5",
+              "sentence": "The bank is ___ the post office.",
+              "answer": "next to",
+              "japanese": "銀行は郵便局の隣にある。"
+            },
+            {
+              "id": "set6-ex1-q6",
+              "sentence": "She took a book ___ her bag.",
+              "answer": "out of",
+              "japanese": "彼女はかばんから本を取り出した。"
+            },
+            {
+              "id": "set6-ex1-q7",
+              "sentence": "He finished the race ___ the pain.",
+              "answer": "regardless of",
+              "japanese": "彼は痛みを気にせずレースを完走した。"
+            },
+            {
+              "id": "set6-ex1-q8",
+              "sentence": "We arrived early ___ the fast train.",
+              "answer": "thanks to",
+              "japanese": "速い電車のおかげで早く着いた。"
+            },
+            {
+              "id": "set6-ex1-q9",
+              "sentence": "A taxi stopped ___ the hotel.",
+              "answer": "in front of",
+              "japanese": "タクシーがホテルの前に止まった。"
+            },
+            {
+              "id": "set6-ex1-q10",
+              "sentence": "___ the rain, the game continued.",
+              "answer": "in spite of",
+              "japanese": "雨にもかかわらず、試合は続いた。"
+            },
+            {
+              "id": "set6-ex1-q11",
+              "sentence": "___ the schedule, class ends at noon.",
+              "answer": "according to",
+              "japanese": "予定表によると、授業は正午に終わる。"
+            },
+            {
+              "id": "set6-ex1-q12",
+              "sentence": "Our classroom is ___ the library.",
+              "answer": "close to",
+              "japanese": "私たちの教室は図書館の近くにある。"
+            },
+            {
+              "id": "set6-ex1-q13",
+              "sentence": "I chose tea ___ coffee.",
+              "answer": "instead of",
+              "japanese": "コーヒーの代わりに紅茶を選んだ。"
+            },
+            {
+              "id": "set6-ex1-q14",
+              "sentence": "The dog ran ___ the house.",
+              "answer": "out of",
+              "japanese": "犬は家の外へ走り出た。"
+            },
+            {
+              "id": "set6-ex1-q15",
+              "sentence": "The lamp is ___ the bed.",
+              "answer": "next to",
+              "japanese": "ランプはベッドの隣にある。"
+            }
+          ]
+        },
+        {
+          "id": "set6-ex2",
+          "title": "Exercise 2",
+          "version": "draft",
+          "enabled": false,
+          "questions": []
+        },
+        {
+          "id": "set6-ex3",
+          "title": "Exercise 3",
+          "version": "draft",
+          "enabled": false,
+          "questions": []
+        }
+      ]
+    }
+  ]
+}
