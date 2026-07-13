@@ -79,7 +79,7 @@
     button.href = url;
     button.target = "_blank";
     button.rel = "noopener noreferrer";
-    button.textContent = config.customGptButtonLabel || "前置詞アウトプット練習へ";
+    button.textContent = config.customGptButtonLabel || "アウトプット練習へGO!";
     button.setAttribute("aria-label", "前置詞のアウトプット練習を新しいタブで開く");
     button.classList.toggle("exercise-context", Boolean(document.querySelector(".exercise-page")));
 
