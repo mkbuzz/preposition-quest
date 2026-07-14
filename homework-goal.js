@@ -4,13 +4,13 @@
   Homework mode:
   - Keeps the assignment goal visible after a student signs in.
   - Hides correct answers on result pages.
-  - Encourages retries until the two-star exercise target is reached.
+  - Requires three stars on every enabled exercise.
   - Celebrates first-time exercise and full-assignment achievements.
 */
 
 (() => {
-  const TWO_STAR_SCORE = Number(config.scoreThresholds?.twoStars ?? 10);
-  const ACHIEVEMENT_KEY = "prepositionQuest.homeworkAchievements.v1";
+  const THREE_STAR_SCORE = Number(config.scoreThresholds?.threeStars ?? 13);
+  const ACHIEVEMENT_KEY = "prepositionQuest.homeworkAchievements.v2";
   const MODAL_ID = "homework-achievement-modal";
 
   const baseRenderDashboard = window.renderDashboard;
@@ -156,17 +156,16 @@
   document.head.appendChild(style);
 
   window.renderResultQuestion = function renderResultQuestionWithoutAnswers(item) {
+    const [before, after = ""] = String(item.sentence || "").split("___");
     return `
       <article class="question-card ${item.correct ? "correct" : "incorrect"}">
         <p class="question-english">
           <span class="question-number">${item.questionNumber}</span>
-          ${escapeHtml(item.sentence)}
+          ${escapeHtml(before)}<strong class="result-blank">___</strong>${escapeHtml(after)}
         </p>
         <p class="question-japanese" lang="ja">${escapeHtml(item.japanese)}</p>
         <div class="answer-feedback ${item.correct ? "correct" : "incorrect"}">
-          ${item.correct
-            ? "✓ Correct"
-            : "✗ Incorrect — review this item and try again."}
+          ${item.correct ? "✓ Correct" : "✗ Incorrect — review this item and try again."}
         </div>
       </article>`;
   };
@@ -198,21 +197,18 @@
     const enabledExercises = state.data.sets.flatMap((set) =>
       set.exercises.filter((exercise) => exercise.enabled)
     );
-    const completedExercises = enabledExercises.filter((exercise) => Boolean(progress[exercise.id])).length;
-    const setsMeetingGoal = state.data.sets.filter((set) =>
-      set.exercises
-        .filter((exercise) => exercise.enabled)
-        .some((exercise) => Number(progress[exercise.id]?.bestScore) >= TWO_STAR_SCORE)
+    const attemptedExercises = enabledExercises.filter((exercise) => Boolean(progress[exercise.id])).length;
+    const exercisesMeetingGoal = enabledExercises.filter(
+      (exercise) => Number(progress[exercise.id]?.bestScore) >= THREE_STAR_SCORE
     ).length;
 
     return {
-      completedExercises,
+      attemptedExercises,
+      exercisesMeetingGoal,
       totalExercises: enabledExercises.length,
-      setsMeetingGoal,
-      totalSets: state.data.sets.length,
       assignmentComplete:
-        completedExercises === enabledExercises.length &&
-        setsMeetingGoal === state.data.sets.length
+        enabledExercises.length > 0 &&
+        exercisesMeetingGoal === enabledExercises.length
     };
   }
 
@@ -229,10 +225,10 @@
     banner.innerHTML = `
       <div>
         <span class="homework-goal-title">${progress.assignmentComplete ? "Homework requirement achieved" : "Homework goal"}</span>
-        <span>Complete all ${progress.totalExercises} exercises and earn at least 2 stars in every set. Two stars = ${TWO_STAR_SCORE}/15 or higher.</span>
+        <span>Complete every exercise and earn 3 stars on each one. Three stars = ${THREE_STAR_SCORE}/15 or higher.</span>
       </div>
       <span class="homework-goal-progress">
-        ${progress.completedExercises}/${progress.totalExercises} exercises · ${progress.setsMeetingGoal}/${progress.totalSets} sets at 2+ stars
+        ${progress.exercisesMeetingGoal}/${progress.totalExercises} exercises at 3 stars · ${progress.attemptedExercises}/${progress.totalExercises} attempted
       </span>`;
 
     main.prepend(banner);
@@ -246,12 +242,12 @@
     if (!scorePanel || app.querySelector(".exercise-goal-strip")) return;
 
     const bestScore = Number(getCurrentStudentProgress()[result.exerciseId]?.bestScore ?? result.score);
-    const achieved = bestScore >= TWO_STAR_SCORE;
+    const achieved = bestScore >= THREE_STAR_SCORE;
     const strip = document.createElement("div");
     strip.className = `exercise-goal-strip ${achieved ? "achieved" : "retry"}`;
     strip.textContent = achieved
-      ? `Exercise goal achieved: your best score is ${bestScore}/${result.total} (2 or more stars).`
-      : `Exercise goal: score ${TWO_STAR_SCORE}/${result.total} or higher. Review the red questions and try again.`;
+      ? `Exercise goal achieved: your best score is ${bestScore}/${result.total} (3 stars).`
+      : `Exercise goal: score ${THREE_STAR_SCORE}/${result.total} or higher for 3 stars. Review the red questions and try again.`;
     scorePanel.insertAdjacentElement("afterend", strip);
   }
 
@@ -273,7 +269,7 @@
       return;
     }
 
-    if (Number(result.score) >= TWO_STAR_SCORE && !studentRecord.exercises[result.exerciseId]) {
+    if (Number(result.score) >= THREE_STAR_SCORE && !studentRecord.exercises[result.exerciseId]) {
       studentRecord.exercises[result.exerciseId] = true;
       records[studentKey] = studentRecord;
       saveAchievementRecords(records);
@@ -307,11 +303,11 @@
       <div class="achievement-dialog">
         <div class="achievement-icon" aria-hidden="true">✓</div>
         <h2 id="achievement-title">${assignment ? "Homework requirement achieved!" : "Exercise goal achieved!"}</h2>
-        <div class="achievement-stars" aria-hidden="true">★★☆</div>
+        <div class="achievement-stars" aria-hidden="true">★★★</div>
         <p>
           ${assignment
-            ? "You completed every exercise and earned at least two stars in all six sets. The minimum requirement for this assignment has been achieved."
-            : `You scored ${result.score}/${result.total} on Set ${result.setNumber}, ${escapeHtml(result.exerciseTitle)}. You have achieved the minimum goal of two stars for this exercise.`}
+            ? "You earned three stars on every exercise. The minimum requirement for this homework assignment has been achieved."
+            : `You scored ${result.score}/${result.total} on Set ${result.setNumber}, ${escapeHtml(result.exerciseTitle)}. You have achieved the three-star goal for this exercise.`}
         </p>
         <button class="btn btn-primary" type="button" id="close-achievement-modal">
           ${assignment ? "Great — View My Results" : "Continue"}
