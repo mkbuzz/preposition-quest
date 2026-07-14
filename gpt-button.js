@@ -1,12 +1,14 @@
 "use strict";
 
 /*
-  Shows a floating link to the custom GPT after the current student has
-  completed at least one enabled exercise in every set.
+  Shows a floating link to the custom GPT after the current student has earned
+  three stars on every enabled exercise. The completion preview also displays
+  the link without changing saved progress.
 */
 
 (() => {
   const BUTTON_ID = "custom-gpt-button";
+  const THREE_STAR_SCORE = Number(config.scoreThresholds?.threeStars ?? 13);
 
   const style = document.createElement("style");
   style.textContent = `
@@ -53,21 +55,29 @@
   `;
   document.head.appendChild(style);
 
-  function hasCompletedOneExerciseInEverySet() {
+  function hasAchievedHomeworkRequirement() {
     if (!state?.data || !state.selectedClass || !state.selectedStudent) return false;
 
     const progress = getCurrentStudentProgress();
+    const enabledExercises = state.data.sets.flatMap((set) =>
+      set.exercises.filter((exercise) => exercise.enabled)
+    );
 
-    return state.data.sets.every((set) => {
-      const enabledExercises = set.exercises.filter((exercise) => exercise.enabled);
-      return enabledExercises.some((exercise) => Boolean(progress[exercise.id]));
-    });
+    return enabledExercises.length > 0 && enabledExercises.every(
+      (exercise) => Number(progress[exercise.id]?.bestScore) >= THREE_STAR_SCORE
+    );
+  }
+
+  function isCompletionPreview() {
+    const parameters = new URLSearchParams(window.location.search);
+    const developerMode = parameters.get("test") === "1" || parameters.get("admin") === "1";
+    return developerMode && parameters.get("preview") === "complete";
   }
 
   function updateCustomGptButton() {
     const existing = document.getElementById(BUTTON_ID);
     const url = String(config.customGptUrl || "").trim();
-    const shouldShow = Boolean(url) && hasCompletedOneExerciseInEverySet();
+    const shouldShow = Boolean(url) && (hasAchievedHomeworkRequirement() || isCompletionPreview());
 
     if (!shouldShow) {
       existing?.remove();
