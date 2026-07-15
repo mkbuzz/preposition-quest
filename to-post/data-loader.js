@@ -2,142 +2,117 @@
 
 (() => {
   const nativeFetch = window.fetch.bind(window);
-  const additionalDataPath = "data/additional-sets.json";
-  const BUILD_VERSION = "6";
-  const MAX_ATTEMPTS = 4;
-  const CHUNK_PATHS = [
-    "data/chunks/part-1.txt",
-    "data/chunks/part-2.txt",
-    "data/chunks/part-3.txt",
-    "data/chunks/part-4.txt",
-    "data/chunks/part-5.txt",
-    "data/chunks/part-6.txt"
-  ];
+  const BUILD_VERSION = "7";
+  const LIVE_TARGET = new URL("../data/exercises.json", window.location.href);
+  const ADDITIONAL_TARGET = new URL("data/additional-sets.json", window.location.href);
+
+  const REPOSITORY_RAW =
+    "https://raw.githubusercontent.com/mkbuzz/preposition-quest/main/";
+  const REPOSITORY_CDN =
+    "https://cdn.jsdelivr.net/gh/mkbuzz/preposition-quest@main/";
 
   const wait = (milliseconds) =>
     new Promise((resolve) => window.setTimeout(resolve, milliseconds));
 
-  function exposeLoadError(message) {
-    window.TO_POST_LOAD_ERROR = message;
-    window.setTimeout(() => {
-      const note = document.querySelector("#app .section-note");
-      if (note && /TO-POST exercise data \(500\)/.test(note.textContent || "")) {
-        note.textContent = message;
+  async function fetchTextWithTimeout(url, timeoutMs = 15000) {
+    const controller = new AbortController();
+    const timer = window.setTimeout(() => controller.abort(), timeoutMs);
+
+    try {
+      const response = await nativeFetch(url, {
+        cache: "no-store",
+        signal: controller.signal
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
       }
-    }, 0);
+
+      return await response.text();
+    } finally {
+      window.clearTimeout(timer);
+    }
   }
 
-  async function fetchWithRetry(input, init = {}, label = "resource") {
-    let lastError = null;
+  async function loadJson(label, candidates) {
+    const failures = [];
 
-    for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt += 1) {
-      try {
-        const response = await nativeFetch(input, {
-          ...init,
-          cache: "no-store"
-        });
-
-        if (response.ok || (response.status !== 404 && response.status < 500)) {
-          return response;
+    for (const candidate of candidates) {
+      for (let attempt = 1; attempt <= 2; attempt += 1) {
+        try {
+          const text = await fetchTextWithTimeout(candidate);
+          const parsed = JSON.parse(text);
+          return parsed;
+        } catch (error) {
+          const source = new URL(candidate, window.location.href).hostname;
+          failures.push(`${source}: ${error?.message || "request failed"}`);
+          if (attempt < 2) await wait(300);
         }
-
-        lastError = new Error(`${label} returned ${response.status}.`);
-      } catch (error) {
-        lastError = error;
-      }
-
-      if (attempt < MAX_ATTEMPTS) {
-        await wait(300 * attempt);
       }
     }
 
     throw new Error(
-      `Could not load ${label} after ${MAX_ATTEMPTS} attempts. ${lastError?.message || "Network request failed."}`
+      `Could not load ${label}. Tried the staging site and two GitHub mirrors. ${failures.join(" | ")}`
     );
+  }
+
+  function jsonResponse(value) {
+    return new Response(JSON.stringify(value), {
+      status: 200,
+      headers: {
+        "Content-Type": "application/json; charset=utf-8",
+        "Cache-Control": "no-store"
+      }
+    });
+  }
+
+  async function loadLiveData() {
+    const localUrl = new URL(`../data/exercises.json?build=${BUILD_VERSION}`, window.location.href).href;
+    const rawUrl = `${REPOSITORY_RAW}data/exercises.json?build=${BUILD_VERSION}`;
+    const cdnUrl = `${REPOSITORY_CDN}data/exercises.json?build=${BUILD_VERSION}`;
+
+    const data = await loadJson("the current Sets 1–6 data", [localUrl, rawUrl, cdnUrl]);
+    if (!data || !Array.isArray(data.sets)) {
+      throw new Error("The current Sets 1–6 data has an invalid structure.");
+    }
+    return data;
+  }
+
+  async function loadAdditionalData() {
+    const sets = [];
+
+    for (let setNumber = 7; setNumber <= 16; setNumber += 1) {
+      const relativePath = `to-post/data/sets/set${setNumber}.json`;
+      const localUrl = new URL(`data/sets/set${setNumber}.json?build=${BUILD_VERSION}`, window.location.href).href;
+      const rawUrl = `${REPOSITORY_RAW}${relativePath}?build=${BUILD_VERSION}`;
+      const cdnUrl = `${REPOSITORY_CDN}${relativePath}?build=${BUILD_VERSION}`;
+
+      const set = await loadJson(`TO-POST Set ${setNumber}`, [localUrl, rawUrl, cdnUrl]);
+      if (!set || set.number !== setNumber || !Array.isArray(set.exercises)) {
+        throw new Error(`TO-POST Set ${setNumber} has an invalid structure.`);
+      }
+      sets.push(set);
+    }
+
+    return {
+      schemaVersion: "to-post-direct-json-v1",
+      label: "TO-POST",
+      sets
+    };
   }
 
   window.fetch = async function toPostFetch(input, init) {
     const requestUrl = typeof input === "string" ? input : input?.url || "";
     const normalizedUrl = new URL(requestUrl, window.location.href);
-    const targetUrl = new URL(additionalDataPath, window.location.href);
 
-    if (normalizedUrl.pathname !== targetUrl.pathname) {
-      return fetchWithRetry(input, init, normalizedUrl.pathname || "requested resource");
+    if (normalizedUrl.pathname === LIVE_TARGET.pathname) {
+      return jsonResponse(await loadLiveData());
     }
 
-    try {
-      const chunkResponses = await Promise.all(
-        CHUNK_PATHS.map((path, index) =>
-          fetchWithRetry(
-            `${path}?build=${BUILD_VERSION}`,
-            init,
-            `TO-POST data part ${index + 1}`
-          )
-        )
-      );
-
-      const failedIndex = chunkResponses.findIndex((response) => !response.ok);
-      if (failedIndex !== -1) {
-        throw new Error(
-          `TO-POST data part ${failedIndex + 1} returned ${chunkResponses[failedIndex].status}.`
-        );
-      }
-
-      const chunks = await Promise.all(
-        chunkResponses.map(async (response, index) => {
-          const text = (await response.text()).replace(/\s+/g, "");
-          if (text.length < 1000) {
-            throw new Error(`TO-POST data part ${index + 1} is incomplete (${text.length} characters).`);
-          }
-          return text;
-        })
-      );
-
-      const base64 = chunks.join("");
-      if (base64.length % 4 !== 0) {
-        throw new Error(`The combined TO-POST data has an invalid Base64 length (${base64.length}).`);
-      }
-
-      const binary = atob(base64);
-      const compressed = Uint8Array.from(
-        binary,
-        (character) => character.charCodeAt(0)
-      );
-
-      if (typeof DecompressionStream !== "function") {
-        throw new Error("This browser does not support the required gzip decompression feature.");
-      }
-
-      const stream = new Blob([compressed])
-        .stream()
-        .pipeThrough(new DecompressionStream("gzip"));
-      const jsonText = await new Response(stream).text();
-      const parsed = JSON.parse(jsonText);
-
-      if (!parsed || !Array.isArray(parsed.sets) || parsed.sets.length !== 10) {
-        throw new Error(
-          `The TO-POST data package is incomplete (${parsed?.sets?.length ?? 0} of 10 additional sets found).`
-        );
-      }
-
-      return new Response(jsonText, {
-        status: 200,
-        headers: {
-          "Content-Type": "application/json; charset=utf-8",
-          "Cache-Control": "no-store"
-        }
-      });
-    } catch (error) {
-      const message = error?.message || "Could not load TO-POST exercise data.";
-      console.error("TO-POST data loading failed", error);
-      exposeLoadError(message);
-      return new Response(
-        JSON.stringify({ error: message }),
-        {
-          status: 500,
-          headers: { "Content-Type": "application/json; charset=utf-8" }
-        }
-      );
+    if (normalizedUrl.pathname === ADDITIONAL_TARGET.pathname) {
+      return jsonResponse(await loadAdditionalData());
     }
+
+    return nativeFetch(input, init);
   };
 })();
