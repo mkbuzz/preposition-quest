@@ -2,7 +2,7 @@
 
 (() => {
   const nativeFetch = window.fetch.bind(window);
-  const BUILD_VERSION = "7";
+  const BUILD_VERSION = "8";
   const LIVE_TARGET = new URL("../data/exercises.json", window.location.href);
   const ADDITIONAL_TARGET = new URL("data/additional-sets.json", window.location.href);
 
