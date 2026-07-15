@@ -3,8 +3,9 @@
 (() => {
   const nativeFetch = window.fetch.bind(window);
   const additionalDataPath = "data/additional-sets.json";
-  const BUILD_VERSION = "3";
-  const MAX_ATTEMPTS = 5;
+  const BUILD_VERSION = "4";
+  const MAX_ATTEMPTS = 4;
+  const setFiles = Array.from({ length: 10 }, (_, index) => `data/sets/set${index + 7}.json`);
 
   const wait = (milliseconds) =>
     new Promise((resolve) => window.setTimeout(resolve, milliseconds));
@@ -29,7 +30,7 @@
       }
 
       if (attempt < MAX_ATTEMPTS) {
-        await wait(350 * attempt);
+        await wait(300 * attempt);
       }
     }
 
@@ -47,73 +48,45 @@
       return fetchWithRetry(input, init, normalizedUrl.pathname || "requested resource");
     }
 
-    const manifestResponse = await fetchWithRetry(
-      `data/manifest.json?v=${BUILD_VERSION}`,
-      init,
-      "the TO-POST data manifest"
-    );
-
-    if (!manifestResponse.ok) {
-      return new Response(
-        JSON.stringify({ error: `Could not load the TO-POST data manifest (${manifestResponse.status}).` }),
-        { status: manifestResponse.status, headers: { "Content-Type": "application/json" } }
-      );
-    }
-
-    const manifest = await manifestResponse.json();
-    if (
-      !manifest ||
-      manifest.encoding !== "gzip-base64" ||
-      !Array.isArray(manifest.chunks) ||
-      manifest.chunks.length === 0
-    ) {
-      return new Response(
-        JSON.stringify({ error: "The TO-POST data manifest is invalid." }),
-        { status: 500, headers: { "Content-Type": "application/json" } }
-      );
-    }
-
-    if (typeof DecompressionStream !== "function") {
-      return new Response(
-        JSON.stringify({ error: "This browser cannot open the compressed TO-POST data. Use a current browser." }),
-        { status: 500, headers: { "Content-Type": "application/json" } }
-      );
-    }
-
-    const chunkResponses = await Promise.all(
-      manifest.chunks.map((path, index) =>
-        fetchWithRetry(
-          `data/${path}?v=${BUILD_VERSION}`,
-          init,
-          `TO-POST data part ${index + 1}`
+    try {
+      const responses = await Promise.all(
+        setFiles.map((path, index) =>
+          fetchWithRetry(
+            `${path}?v=${BUILD_VERSION}`,
+            init,
+            `Set ${index + 7} data`
+          )
         )
-      )
-    );
+      );
 
-    const failedIndex = chunkResponses.findIndex((response) => !response.ok);
-    if (failedIndex !== -1) {
-      const failedResponse = chunkResponses[failedIndex];
+      const failedIndex = responses.findIndex((response) => !response.ok);
+      if (failedIndex !== -1) {
+        const failedResponse = responses[failedIndex];
+        throw new Error(`Set ${failedIndex + 7} data returned ${failedResponse.status}.`);
+      }
+
+      const sets = await Promise.all(responses.map((response) => response.json()));
+
+      return new Response(JSON.stringify({
+        schemaVersion: "to-post-direct-v1",
+        label: "TO-POST",
+        sets
+      }), {
+        status: 200,
+        headers: {
+          "Content-Type": "application/json; charset=utf-8",
+          "Cache-Control": "no-store"
+        }
+      });
+    } catch (error) {
+      console.error("TO-POST data loading failed", error);
       return new Response(
-        JSON.stringify({ error: `Could not load TO-POST data part ${failedIndex + 1} (${failedResponse.status}).` }),
-        { status: failedResponse.status, headers: { "Content-Type": "application/json" } }
+        JSON.stringify({ error: error?.message || "Could not load TO-POST set data." }),
+        {
+          status: 500,
+          headers: { "Content-Type": "application/json; charset=utf-8" }
+        }
       );
     }
-
-    const chunks = await Promise.all(chunkResponses.map((response) => response.text()));
-    const base64 = chunks.join("").replace(/\s+/g, "");
-    const binary = atob(base64);
-    const compressed = Uint8Array.from(binary, (character) => character.charCodeAt(0));
-    const stream = new Blob([compressed])
-      .stream()
-      .pipeThrough(new DecompressionStream("gzip"));
-    const jsonText = await new Response(stream).text();
-
-    return new Response(jsonText, {
-      status: 200,
-      headers: {
-        "Content-Type": "application/json; charset=utf-8",
-        "Cache-Control": "no-store"
-      }
-    });
   };
 })();
