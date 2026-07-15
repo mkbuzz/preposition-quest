@@ -1,9 +1,6 @@
 "use strict";
 
-/*
-  Keeps the homework requirement visible during an exercise without allowing it
-  to compete with the questions and word bank for attention.
-*/
+/* Keeps the homework requirement visible during an exercise without competing with the task. */
 
 (() => {
   const THREE_STAR_SCORE = Number(config.scoreThresholds?.threeStars ?? 13);
@@ -15,39 +12,35 @@
       z-index: auto;
       align-items: center;
       flex-direction: row;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
       justify-content: space-between;
-      gap: 0.35rem 0.65rem;
-      margin: 0 0 0.55rem;
-      padding: 0.38rem 0.62rem;
-      border-radius: 0.65rem;
-      box-shadow: 0 3px 10px rgba(30, 64, 175, 0.08);
+      gap: 0.45rem;
+      margin: 0 0 0.35rem;
+      padding: 0.26rem 0.5rem;
+      border-radius: 0.52rem;
+      box-shadow: none;
       backdrop-filter: none;
-      font-size: 0.78rem;
-      line-height: 1.2;
+      font-size: 0.72rem;
+      line-height: 1.1;
     }
 
     .exercise-page > .homework-goal-banner.exercise-compact .homework-goal-title {
       display: inline;
       margin: 0;
-      font-size: 0.8rem;
+      font-size: 0.74rem;
+      white-space: nowrap;
     }
 
     .exercise-page > .homework-goal-banner.exercise-compact .homework-goal-progress {
-      padding: 0.22rem 0.48rem;
-      font-size: 0.72rem;
-      line-height: 1.1;
+      padding: 0.18rem 0.4rem;
+      font-size: 0.66rem;
+      line-height: 1;
+      white-space: nowrap;
     }
 
     @media (max-width: 620px) {
       .exercise-page > .homework-goal-banner.exercise-compact {
-        align-items: center;
-        flex-direction: row;
-        padding: 0.34rem 0.52rem;
-      }
-
-      .exercise-page > .homework-goal-banner.exercise-compact .homework-goal-progress {
-        white-space: nowrap;
+        padding: 0.24rem 0.42rem;
       }
     }
   `;
@@ -76,7 +69,7 @@
     );
     banner.innerHTML = `
       <span class="homework-goal-title">
-        ${complete ? "Homework complete" : `Goal: 3 stars (${THREE_STAR_SCORE}/15)`}
+        ${complete ? "Homework complete" : `Goal: ★★★ (${THREE_STAR_SCORE}/15)`}
       </span>
       <span class="homework-goal-progress">${achieved}/${total} achieved</span>`;
   }
