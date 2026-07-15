@@ -1,1 +1,13 @@
-{"schemaVersion":"to-post-v1","label":"TO-POST","files":["sets/set7.json","sets/set8.json","sets/set9.json","sets/set10.json","sets/set11.json","sets/set12.json","sets/set13.json","sets/set14.json","sets/set15.json","sets/set16.json"]}
+{
+  "schemaVersion": "to-post-gzip-v1",
+  "label": "TO-POST",
+  "encoding": "gzip-base64",
+  "chunks": [
+    "chunks/part-1.txt",
+    "chunks/part-2.txt",
+    "chunks/part-3.txt",
+    "chunks/part-4.txt",
+    "chunks/part-5.txt",
+    "chunks/part-6.txt"
+  ]
+}
