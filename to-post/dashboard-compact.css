@@ -1,0 +1,31 @@
+/* Compact the 16-set TO-POST dashboard without changing set pages. */
+
+.set-grid.to-post-grid {
+  gap: 12px;
+}
+
+.set-grid.to-post-grid .set-card {
+  min-height: 138px;
+  padding: 17px;
+}
+
+.set-grid.to-post-grid .set-card .card-description {
+  display: none;
+}
+
+.set-grid.to-post-grid .set-card h2 {
+  margin: 13px 0 6px;
+  line-height: 1.15;
+}
+
+.set-grid.to-post-grid .set-card .card-meta {
+  margin-top: 8px;
+  line-height: 1.4;
+}
+
+@media (max-width: 720px) {
+  .set-grid.to-post-grid .set-card {
+    min-height: 0;
+    padding: 16px;
+  }
+}
