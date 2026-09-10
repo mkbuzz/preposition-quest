@@ -2,7 +2,7 @@
 
 (() => {
   const nativeFetch = window.fetch.bind(window);
-  const BUILD_VERSION = "9";
+  const BUILD_VERSION = "11";
   const LIVE_TARGET = new URL("../data/exercises.json", window.location.href);
   const ADDITIONAL_TARGET = new URL("data/additional-sets.json", window.location.href);
 
@@ -67,15 +67,26 @@
   }
 
   async function loadLiveData() {
-    const localUrl = new URL(`../data/exercises.json?build=${BUILD_VERSION}`, window.location.href).href;
-    const rawUrl = `${REPOSITORY_RAW}data/exercises.json?build=${BUILD_VERSION}`;
-    const cdnUrl = `${REPOSITORY_CDN}data/exercises.json?build=${BUILD_VERSION}`;
+    const sets = [];
 
-    const data = await loadJson("the current Sets 1–6 data", [localUrl, rawUrl, cdnUrl]);
-    if (!data || !Array.isArray(data.sets)) {
-      throw new Error("The current Sets 1–6 data has an invalid structure.");
+    for (let setNumber = 1; setNumber <= 6; setNumber += 1) {
+      const relativePath = `to-post/data/sets/set${setNumber}.json`;
+      const localUrl = new URL(`data/sets/set${setNumber}.json?build=${BUILD_VERSION}`, window.location.href).href;
+      const rawUrl = `${REPOSITORY_RAW}${relativePath}?build=${BUILD_VERSION}`;
+      const cdnUrl = `${REPOSITORY_CDN}${relativePath}?build=${BUILD_VERSION}`;
+
+      const set = await loadJson(`TO-POST Set ${setNumber}`, [localUrl, rawUrl, cdnUrl]);
+      if (!set || set.number !== setNumber || !Array.isArray(set.exercises)) {
+        throw new Error(`TO-POST Set ${setNumber} has an invalid structure.`);
+      }
+      sets.push(set);
     }
-    return data;
+
+    return {
+      schemaVersion: "to-post-direct-json-v2",
+      label: "TO-POST",
+      sets
+    };
   }
 
   async function loadAdditionalData() {
@@ -95,7 +106,7 @@
     }
 
     return {
-      schemaVersion: "to-post-direct-json-v1",
+      schemaVersion: "to-post-direct-json-v2",
       label: "TO-POST",
       sets
     };

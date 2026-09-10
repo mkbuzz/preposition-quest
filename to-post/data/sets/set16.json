@@ -1,1 +1,865 @@
-{"id":"set16","number":16,"title":"Mixed with Multiword Prepositions","shortTitle":"Multiword Mix","description":"Practice one preposition from Sets 1–5 together with one multiword preposition from Set 6.","sourceSets":[1,2,3,4,5,6],"allowedPrepositions":["about","above","according to","across","after","against","along","among","around","as","at","before","behind","below","beside","besides","between","beyond","by","close to","despite","down","during","except","far from","for","from","in","in front of","in spite of","inside","instead of","into","like","near","next to","of","off","on","onto","out of","outside","over","past","regardless of","since","thanks to","through","throughout","to","toward","under","underneath","until","up","via","with","within","without","worth"],"wordBankStrategy":"exercise-specific","exercises":[{"id":"set16-ex1","title":"Exercise 1","version":"draft-2026-07-15-1","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":30,"starThresholds":{"threeStars":26,"twoStars":20,"oneStar":14},"wordBank":["according to","after","at","beyond","close to","during","far from","in front of","in spite of","inside","instead of","into","near","next to","out of","regardless of","thanks to","toward","until","with"],"questions":[{"id":"set16-ex1-q1","sentence":"We waited ___ noon ___ the station.","answers":["until","in front of"],"completedSentence":"We waited until noon in front of the station.","japanese":"駅の前で正午まで待った。","points":2},{"id":"set16-ex1-q2","sentence":"___ the schedule, the meeting starts ___ 2:00.","answers":["according to","at"],"completedSentence":"according to the schedule, the meeting starts at 2:00.","japanese":"予定表によると、会議は2時に始まる。","points":2},{"id":"set16-ex1-q3","sentence":"The café is ___ the bank ___ the station.","answers":["next to","near"],"completedSentence":"The café is next to the bank near the station.","japanese":"そのカフェは駅の近くで銀行の隣にある。","points":2},{"id":"set16-ex1-q4","sentence":"She worked ___ the afternoon ___ the rain.","answers":["during","in spite of"],"completedSentence":"She worked during the afternoon in spite of the rain.","japanese":"雨にもかかわらず、彼女は午後に働いた。","points":2},{"id":"set16-ex1-q5","sentence":"We walked ___ the station ___ the park.","answers":["toward","instead of"],"completedSentence":"We walked toward the station instead of the park.","japanese":"公園ではなく駅の方へ歩いた。","points":2},{"id":"set16-ex1-q6","sentence":"We arrived ___ noon ___ the express train.","answers":["at","thanks to"],"completedSentence":"We arrived at noon thanks to the express train.","japanese":"急行列車のおかげで正午に到着した。","points":2},{"id":"set16-ex1-q7","sentence":"The hotel lies ___ the river ___ the airport.","answers":["beyond","far from"],"completedSentence":"The hotel lies beyond the river far from the airport.","japanese":"そのホテルは空港から遠く、川の向こうにある。","points":2},{"id":"set16-ex1-q8","sentence":"He spoke ___ confidence ___ the criticism.","answers":["with","regardless of"],"completedSentence":"He spoke with confidence regardless of the criticism.","japanese":"批判に関係なく、彼は自信を持って話した。","points":2},{"id":"set16-ex1-q9","sentence":"The puppy ran ___ the kitchen ___ the yard.","answers":["out of","into"],"completedSentence":"The puppy ran out of the kitchen into the yard.","japanese":"子犬は台所から出て庭へ走り込んだ。","points":2},{"id":"set16-ex1-q10","sentence":"The library is ___ campus ___ the cafeteria.","answers":["close to","near"],"completedSentence":"The library is close to campus near the cafeteria.","japanese":"図書館は大学の近くで学生食堂のそばにある。","points":2},{"id":"set16-ex1-q11","sentence":"We stayed ___ ___ the storm.","answers":["inside","in spite of"],"completedSentence":"We stayed inside in spite of the storm.","japanese":"嵐にもかかわらず、私たちは屋内にいた。","points":2},{"id":"set16-ex1-q12","sentence":"___ the map, the village is ___ the hills.","answers":["according to","beyond"],"completedSentence":"according to the map, the village is beyond the hills.","japanese":"地図によると、その村は丘の向こうにある。","points":2},{"id":"set16-ex1-q13","sentence":"She chose tea ___ coffee ___ lunch.","answers":["instead of","after"],"completedSentence":"She chose tea instead of coffee after lunch.","japanese":"昼食後、コーヒーではなく紅茶を選んだ。","points":2},{"id":"set16-ex1-q14","sentence":"The event succeeded ___ the volunteers ___ the evening.","answers":["thanks to","during"],"completedSentence":"The event succeeded thanks to the volunteers during the evening.","japanese":"ボランティアのおかげで、行事は夕方に成功した。","points":2},{"id":"set16-ex1-q15","sentence":"We took seats ___ the window ___ the door.","answers":["next to","near"],"completedSentence":"We took seats next to the window near the door.","japanese":"ドアの近くで窓の隣の席に座った。","points":2}]},{"id":"set16-ex2","title":"Exercise 2","version":"draft-2026-07-15-2","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":30,"starThresholds":{"threeStars":26,"twoStars":20,"oneStar":14},"wordBank":["according to","across","at","beyond","close to","during","far from","in front of","in spite of","instead of","near","next to","onto","out of","outside","regardless of","thanks to","until","within"],"questions":[{"id":"set16-ex2-q1","sentence":"The train stopped ___ the station ___ a signal problem.","answers":["in front of","during"],"completedSentence":"The train stopped in front of the station during a signal problem.","japanese":"列車は信号の問題が起きている間、駅の前で止まった。","points":2},{"id":"set16-ex2-q2","sentence":"___ the weather report, the game begins ___ noon.","answers":["according to","at"],"completedSentence":"according to the weather report, the game begins at noon.","japanese":"天気予報によると、試合は正午に始まる。","points":2},{"id":"set16-ex2-q3","sentence":"Our hotel is ___ the beach ___ the city.","answers":["close to","outside"],"completedSentence":"Our hotel is close to the beach outside the city.","japanese":"私たちのホテルは町の外で海岸の近くにある。","points":2},{"id":"set16-ex2-q4","sentence":"The cabin is ___ the village ___ the river.","answers":["far from","beyond"],"completedSentence":"The cabin is far from the village beyond the river.","japanese":"その小屋は村から遠く、川の向こうにある。","points":2},{"id":"set16-ex2-q5","sentence":"We used paper cups ___ glasses ___ the picnic.","answers":["instead of","during"],"completedSentence":"We used paper cups instead of glasses during the picnic.","japanese":"ピクニック中、グラスの代わりに紙コップを使った。","points":2},{"id":"set16-ex2-q6","sentence":"The kitten jumped ___ its basket ___ the low table.","answers":["out of","onto"],"completedSentence":"The kitten jumped out of its basket onto the low table.","japanese":"子猫はかごから飛び出して低いテーブルの上へ飛び乗った。","points":2},{"id":"set16-ex2-q7","sentence":"The pharmacy is ___ the hospital ___ the bus stop.","answers":["next to","near"],"completedSentence":"The pharmacy is next to the hospital near the bus stop.","japanese":"薬局はバス停の近くで病院の隣にある。","points":2},{"id":"set16-ex2-q8","sentence":"We finished ___ an hour ___ your help.","answers":["within","thanks to"],"completedSentence":"We finished within an hour thanks to your help.","japanese":"あなたの助けのおかげで1時間以内に終えた。","points":2},{"id":"set16-ex2-q9","sentence":"He kept running ___ the pain ___ the race.","answers":["regardless of","during"],"completedSentence":"He kept running regardless of the pain during the race.","japanese":"痛みに関係なく、彼はレース中も走り続けた。","points":2},{"id":"set16-ex2-q10","sentence":"___ the heavy rain, we walked ___ the bridge.","answers":["in spite of","across"],"completedSentence":"in spite of the heavy rain, we walked across the bridge.","japanese":"激しい雨にもかかわらず、橋を歩いて渡った。","points":2},{"id":"set16-ex2-q11","sentence":"The taxi waited ___ the hotel ___ midnight.","answers":["in front of","until"],"completedSentence":"The taxi waited in front of the hotel until midnight.","japanese":"タクシーはホテルの前で深夜まで待っていた。","points":2},{"id":"set16-ex2-q12","sentence":"___ Ken, the test begins ___ noon.","answers":["according to","at"],"completedSentence":"according to Ken, the test begins at noon.","japanese":"ケンによると、試験は正午に始まる。","points":2},{"id":"set16-ex2-q13","sentence":"A small café is ___ the station ___ the road.","answers":["close to","across"],"completedSentence":"A small café is close to the station across the road.","japanese":"小さなカフェが駅の近くで道路の向こう側にある。","points":2},{"id":"set16-ex2-q14","sentence":"She studied ___ going out ___ the evening.","answers":["instead of","during"],"completedSentence":"She studied instead of going out during the evening.","japanese":"外出せず、彼女は夕方に勉強した。","points":2},{"id":"set16-ex2-q15","sentence":"The dog ran ___ the house ___ the street.","answers":["out of","across"],"completedSentence":"The dog ran out of the house across the street.","japanese":"犬は家から出て通りを横切った。","points":2}]},{"id":"set16-ex3","title":"Exercise 3","version":"draft-2026-07-15-3","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":30,"starThresholds":{"threeStars":26,"twoStars":20,"oneStar":14},"wordBank":["according to","across","after","at","before","beyond","close to","despite","far from","in front of","in spite of","instead of","into","near","next to","onto","out of","outside","regardless of","thanks to"],"questions":[{"id":"set16-ex3-q1","sentence":"We met ___ the library ___ class.","answers":["in front of","after"],"completedSentence":"We met in front of the library after class.","japanese":"授業後、図書館の前で会った。","points":2},{"id":"set16-ex3-q2","sentence":"___ the notice, the office closes ___ 5:00.","answers":["according to","at"],"completedSentence":"according to the notice, the office closes at 5:00.","japanese":"掲示によると、事務室は5時に閉まる。","points":2},{"id":"set16-ex3-q3","sentence":"The station is ___ the hotel ___ the river.","answers":["close to","near"],"completedSentence":"The station is close to the hotel near the river.","japanese":"駅は川の近くでホテルにも近い。","points":2},{"id":"set16-ex3-q4","sentence":"The school is ___ my house ___ the city center.","answers":["far from","outside"],"completedSentence":"The school is far from my house outside the city center.","japanese":"その学校は町の中心部の外にあり、私の家から遠い。","points":2},{"id":"set16-ex3-q5","sentence":"She walked ___ taking the bus ___ the rain.","answers":["instead of","despite"],"completedSentence":"She walked instead of taking the bus despite the rain.","japanese":"雨にもかかわらず、彼女はバスに乗らず歩いた。","points":2},{"id":"set16-ex3-q6","sentence":"The bird flew ___ the cage ___ the roof.","answers":["out of","onto"],"completedSentence":"The bird flew out of the cage onto the roof.","japanese":"鳥はかごから飛び出して屋根の上へ止まった。","points":2},{"id":"set16-ex3-q7","sentence":"The café is ___ the bank ___ the road.","answers":["next to","across"],"completedSentence":"The café is next to the bank across the road.","japanese":"そのカフェは道路の向こう側で銀行の隣にある。","points":2},{"id":"set16-ex3-q8","sentence":"We finished ___ the deadline ___ the new system.","answers":["before","thanks to"],"completedSentence":"We finished before the deadline thanks to the new system.","japanese":"新しい制度のおかげで締め切り前に終えた。","points":2},{"id":"set16-ex3-q9","sentence":"Everyone may join ___ age ___ the festival.","answers":["regardless of","at"],"completedSentence":"Everyone may join regardless of age at the festival.","japanese":"年齢に関係なく、その祭りには誰でも参加できる。","points":2},{"id":"set16-ex3-q10","sentence":"___ the cold, he waited ___ the gate.","answers":["in spite of","outside"],"completedSentence":"in spite of the cold, he waited outside the gate.","japanese":"寒さにもかかわらず、彼は門の外で待った。","points":2},{"id":"set16-ex3-q11","sentence":"A crowd gathered ___ the stage ___ noon.","answers":["in front of","at"],"completedSentence":"A crowd gathered in front of the stage at noon.","japanese":"正午に舞台の前へ人が集まった。","points":2},{"id":"set16-ex3-q12","sentence":"___ the guidebook, the temple lies ___ the bridge.","answers":["according to","beyond"],"completedSentence":"according to the guidebook, the temple lies beyond the bridge.","japanese":"ガイドブックによると、その寺は橋の向こうにある。","points":2},{"id":"set16-ex3-q13","sentence":"Our classroom is ___ the library ___ the stairs.","answers":["close to","near"],"completedSentence":"Our classroom is close to the library near the stairs.","japanese":"私たちの教室は階段の近くで図書館にも近い。","points":2},{"id":"set16-ex3-q14","sentence":"He chose the train ___ the bus ___ class.","answers":["instead of","after"],"completedSentence":"He chose the train instead of the bus after class.","japanese":"彼は授業後、バスではなく電車を選んだ。","points":2},{"id":"set16-ex3-q15","sentence":"The children ran ___ the classroom ___ the playground.","answers":["out of","into"],"completedSentence":"The children ran out of the classroom into the playground.","japanese":"子どもたちは教室から出て運動場へ走り込んだ。","points":2}]},{"id":"set16-ex4","title":"Exercise 4","version":"draft-2026-07-15-4","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":30,"starThresholds":{"threeStars":26,"twoStars":20,"oneStar":14},"wordBank":["according to","at","beyond","by","close to","despite","down","during","far from","in front of","in spite of","instead of","near","next to","onto","out of","over","regardless of","thanks to","within"],"questions":[{"id":"set16-ex4-q1","sentence":"We waited ___ the museum ___ the rain.","answers":["in front of","despite"],"completedSentence":"We waited in front of the museum despite the rain.","japanese":"雨にもかかわらず、博物館の前で待った。","points":2},{"id":"set16-ex4-q2","sentence":"___ the timetable, the bus leaves ___ 8:30.","answers":["according to","at"],"completedSentence":"according to the timetable, the bus leaves at 8:30.","japanese":"時刻表によると、バスは8時30分に出発する。","points":2},{"id":"set16-ex4-q3","sentence":"The restaurant is ___ the station ___ the hotel.","answers":["close to","near"],"completedSentence":"The restaurant is close to the station near the hotel.","japanese":"そのレストランは駅の近くでホテルのそばにある。","points":2},{"id":"set16-ex4-q4","sentence":"The farm lies ___ the town ___ the hills.","answers":["far from","beyond"],"completedSentence":"The farm lies far from the town beyond the hills.","japanese":"その農場は町から遠く、丘の向こうにある。","points":2},{"id":"set16-ex4-q5","sentence":"She used a tablet ___ a laptop ___ class.","answers":["instead of","during"],"completedSentence":"She used a tablet instead of a laptop during class.","japanese":"彼女は授業中、ノートパソコンの代わりにタブレットを使った。","points":2},{"id":"set16-ex4-q6","sentence":"The ball rolled ___ the room ___ the stairs.","answers":["out of","down"],"completedSentence":"The ball rolled out of the room down the stairs.","japanese":"ボールは部屋から出て階段を転がり落ちた。","points":2},{"id":"set16-ex4-q7","sentence":"The bookstore is ___ the café ___ the library.","answers":["next to","near"],"completedSentence":"The bookstore is next to the café near the library.","japanese":"その本屋は図書館の近くでカフェの隣にある。","points":2},{"id":"set16-ex4-q8","sentence":"We finished ___ noon ___ your advice.","answers":["by","thanks to"],"completedSentence":"We finished by noon thanks to your advice.","japanese":"あなたの助言のおかげで正午までに終えた。","points":2},{"id":"set16-ex4-q9","sentence":"He kept working ___ the noise ___ the night.","answers":["regardless of","during"],"completedSentence":"He kept working regardless of the noise during the night.","japanese":"騒音に関係なく、彼は夜の間も働き続けた。","points":2},{"id":"set16-ex4-q10","sentence":"___ the fog, the plane flew ___ the city.","answers":["in spite of","over"],"completedSentence":"in spite of the fog, the plane flew over the city.","japanese":"霧にもかかわらず、飛行機は町の上空を飛んだ。","points":2},{"id":"set16-ex4-q11","sentence":"A taxi stopped ___ the station ___ noon.","answers":["in front of","at"],"completedSentence":"A taxi stopped in front of the station at noon.","japanese":"タクシーは正午に駅の前で止まった。","points":2},{"id":"set16-ex4-q12","sentence":"___ the teacher, the quiz must be completed ___ ten minutes.","answers":["according to","within"],"completedSentence":"according to the teacher, the quiz must be completed within ten minutes.","japanese":"先生によると、小テストは10分以内に終えなければならない。","points":2},{"id":"set16-ex4-q13","sentence":"The gym is ___ campus ___ the river.","answers":["close to","near"],"completedSentence":"The gym is close to campus near the river.","japanese":"体育館は大学の近くで川のそばにある。","points":2},{"id":"set16-ex4-q14","sentence":"We walked ___ driving ___ the afternoon.","answers":["instead of","during"],"completedSentence":"We walked instead of driving during the afternoon.","japanese":"午後、車を運転せずに歩いた。","points":2},{"id":"set16-ex4-q15","sentence":"The dog jumped ___ the car ___ the road.","answers":["out of","onto"],"completedSentence":"The dog jumped out of the car onto the road.","japanese":"犬は車から飛び出して道路の上へ降りた。","points":2}]}]}
+{
+  "allowedPrepositions": [
+    "about",
+    "above",
+    "across",
+    "after",
+    "against",
+    "along",
+    "among",
+    "around",
+    "as",
+    "at",
+    "before",
+    "behind",
+    "below",
+    "beside",
+    "besides",
+    "between",
+    "beyond",
+    "by",
+    "despite",
+    "down",
+    "during",
+    "except",
+    "for",
+    "from",
+    "in",
+    "inside",
+    "into",
+    "like",
+    "near",
+    "of",
+    "off",
+    "on",
+    "onto",
+    "outside",
+    "over",
+    "past",
+    "since",
+    "through",
+    "throughout",
+    "to",
+    "toward",
+    "under",
+    "underneath",
+    "until",
+    "up",
+    "via",
+    "with",
+    "within",
+    "without",
+    "worth"
+  ],
+  "description": "Practice three prepositions with clearly differentiated meanings in each item.",
+  "exercises": [
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set16-ex1",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "id": "set16-ex1-q1",
+          "sentence": "___ 8:30, ___ the lecture, I received a message ___ my professor.",
+          "answers": [
+            "at",
+            "before",
+            "from"
+          ],
+          "completedSentence": "At 8:30, before the lecture, I received a message from my professor.",
+          "japanese": "講義前の8時30分に、教授からメッセージを受け取った。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q2",
+          "sentence": "___ the rain, workers loaded the boxes ___ a cart ___ the entrance.",
+          "answers": [
+            "despite",
+            "onto",
+            "beside"
+          ],
+          "completedSentence": "Despite the rain, workers loaded the boxes onto a cart beside the entrance.",
+          "japanese": "雨にもかかわらず、作業員は入口の横にある台車へ箱を載せた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q3",
+          "sentence": "___ the lecture, students worked ___ the afternoon ___ a break.",
+          "answers": [
+            "in addition to",
+            "throughout",
+            "without"
+          ],
+          "completedSentence": "In addition to the lecture, students worked throughout the afternoon without a break.",
+          "japanese": "講義に加えて、学生たちは休憩なしで午後ずっと作業した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q4",
+          "sentence": "___ the station, we sat ___ a window ___ the large clock.",
+          "answers": [
+            "at",
+            "beside",
+            "under"
+          ],
+          "completedSentence": "At the station, we sat beside a window under the large clock.",
+          "japanese": "駅で、私たちは大時計の下にある窓の横に座った。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q5",
+          "sentence": "___ leaving, she took a map ___ the desk ___ folding it.",
+          "answers": [
+            "before",
+            "from",
+            "without"
+          ],
+          "completedSentence": "Before leaving, she took a map from the desk without folding it.",
+          "japanese": "出発前に、彼女は地図を折らずに机から持っていった。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q6",
+          "sentence": "___ the strong wind, workers moved equipment ___ the stage ___ the setup.",
+          "answers": [
+            "despite",
+            "onto",
+            "throughout"
+          ],
+          "completedSentence": "Despite the strong wind, workers moved equipment onto the stage throughout the setup.",
+          "japanese": "強風にもかかわらず、作業員は準備中ずっと機材をステージへ運んだ。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q7",
+          "sentence": "___ noon, ___ the boxes, workers loaded chairs ___ the truck.",
+          "answers": [
+            "at",
+            "in addition to",
+            "onto"
+          ],
+          "completedSentence": "At noon, in addition to the boxes, workers loaded chairs onto the truck.",
+          "japanese": "正午に、作業員は箱に加えて椅子もトラックへ積み込んだ。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q8",
+          "sentence": "___ the trip, I sat ___ Aya and received messages ___ our guide.",
+          "answers": [
+            "throughout",
+            "beside",
+            "from"
+          ],
+          "completedSentence": "Throughout the trip, I sat beside Aya and received messages from our guide.",
+          "japanese": "旅行中ずっと、私はアヤの横に座り、ガイドからメッセージを受け取った。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q9",
+          "sentence": "___ the cold, we checked the route ___ the shelter ___ the bus arrived.",
+          "answers": [
+            "despite",
+            "under",
+            "before"
+          ],
+          "completedSentence": "Despite the cold, we checked the route under the shelter before the bus arrived.",
+          "japanese": "寒さにもかかわらず、私たちはバスが来る前に避難所の下で経路を確認した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q10",
+          "sentence": "___ benches ___ the trees, the park has an open area ___ shade.",
+          "answers": [
+            "in addition to",
+            "under",
+            "without"
+          ],
+          "completedSentence": "In addition to benches under the trees, the park has an open area without shade.",
+          "japanese": "木の下のベンチに加えて、その公園には日陰のない広場がある。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q11",
+          "sentence": "___ the museum, objects ___ Asia are displayed ___ the main hall.",
+          "answers": [
+            "at",
+            "from",
+            "throughout"
+          ],
+          "completedSentence": "At the museum, objects from Asia are displayed throughout the main hall.",
+          "japanese": "博物館では、アジアの品々がメインホール全体に展示されている。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q12",
+          "sentence": "___ the exam, she reviewed her notes ___ the textbook ___ using her phone.",
+          "answers": [
+            "before",
+            "in addition to",
+            "without"
+          ],
+          "completedSentence": "Before the exam, she reviewed her notes in addition to the textbook without using her phone.",
+          "japanese": "試験前に、彼女は携帯電話を使わず、教科書に加えてノートも復習した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q13",
+          "sentence": "___ the morning, workers moved the boxes ___ the door ___ the truck.",
+          "answers": [
+            "throughout",
+            "beside",
+            "onto"
+          ],
+          "completedSentence": "Throughout the morning, workers moved the boxes beside the door onto the truck.",
+          "japanese": "午前中ずっと、作業員はドアの横の箱をトラックへ積み込んだ。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q14",
+          "sentence": "___ the noise ___ the road, he studied ___ a tree.",
+          "answers": [
+            "despite",
+            "from",
+            "under"
+          ],
+          "completedSentence": "Despite the noise from the road, he studied under a tree.",
+          "japanese": "道路からの騒音にもかかわらず、彼は木の下で勉強した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex1-q15",
+          "sentence": "___ the station, passengers stepped ___ the train ___ delay.",
+          "answers": [
+            "at",
+            "onto",
+            "without"
+          ],
+          "completedSentence": "At the station, passengers stepped onto the train without delay.",
+          "japanese": "駅で、乗客は遅れることなく列車に乗り込んだ。",
+          "points": 3
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 21,
+        "twoStars": 30,
+        "threeStars": 39
+      },
+      "title": "Exercise 1",
+      "totalPoints": 45,
+      "version": "restructured-v1"
+    },
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set16-ex2",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "id": "set16-ex2-q1",
+          "sentence": "___ noon, ___ lunch, Aya received a call ___ her supervisor.",
+          "answers": [
+            "at",
+            "before",
+            "from"
+          ],
+          "completedSentence": "At noon, before lunch, Aya received a call from her supervisor.",
+          "japanese": "昼食前の正午に、アヤは上司から電話を受けた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q2",
+          "sentence": "___ the wind, she lifted the sign ___ a table ___ the door.",
+          "answers": [
+            "despite",
+            "onto",
+            "beside"
+          ],
+          "completedSentence": "Despite the wind, she lifted the sign onto a table beside the door.",
+          "japanese": "風にもかかわらず、彼女はドアの横にあるテーブルへ標識を置いた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q3",
+          "sentence": "___ the tour, we attended workshops ___ the day ___ a break.",
+          "answers": [
+            "in addition to",
+            "throughout",
+            "without"
+          ],
+          "completedSentence": "In addition to the tour, we attended workshops throughout the day without a break.",
+          "japanese": "見学に加えて、私たちは休憩なしで一日中ワークショップに参加した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q4",
+          "sentence": "___ the café, she waited ___ the counter ___ a bright lamp.",
+          "answers": [
+            "at",
+            "beside",
+            "under"
+          ],
+          "completedSentence": "At the café, she waited beside the counter under a bright lamp.",
+          "japanese": "カフェで、彼女は明るいランプの下にあるカウンターの横で待った。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q5",
+          "sentence": "___ class, Ken borrowed a pen ___ Aya ___ leaving his seat.",
+          "answers": [
+            "before",
+            "from",
+            "without"
+          ],
+          "completedSentence": "Before class, Ken borrowed a pen from Aya without leaving his seat.",
+          "japanese": "授業前に、ケンは席を立たずにアヤからペンを借りた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q6",
+          "sentence": "___ the rain, staff carried supplies ___ the truck ___ the morning.",
+          "answers": [
+            "despite",
+            "onto",
+            "throughout"
+          ],
+          "completedSentence": "Despite the rain, staff carried supplies onto the truck throughout the morning.",
+          "japanese": "雨にもかかわらず、職員は午前中ずっと物資をトラックへ運んだ。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q7",
+          "sentence": "___ 9:00, ___ the bags, staff loaded instruments ___ the bus.",
+          "answers": [
+            "at",
+            "in addition to",
+            "onto"
+          ],
+          "completedSentence": "At 9:00, in addition to the bags, staff loaded instruments onto the bus.",
+          "japanese": "9時に、職員はかばんに加えて楽器もバスへ載せた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q8",
+          "sentence": "___ the lecture, Ken sat ___ me and copied information ___ the screen.",
+          "answers": [
+            "throughout",
+            "beside",
+            "from"
+          ],
+          "completedSentence": "Throughout the lecture, Ken sat beside me and copied information from the screen.",
+          "japanese": "講義中ずっと、ケンは私の横に座り、画面の情報を書き写した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q9",
+          "sentence": "___ the rain, she read the notice ___ a tree ___ the doors opened.",
+          "answers": [
+            "despite",
+            "under",
+            "before"
+          ],
+          "completedSentence": "Despite the rain, she read the notice under a tree before the doors opened.",
+          "japanese": "雨にもかかわらず、彼女はドアが開く前に木の下で案内を読んだ。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q10",
+          "sentence": "___ storage ___ the stairs, the building has a room ___ windows.",
+          "answers": [
+            "in addition to",
+            "under",
+            "without"
+          ],
+          "completedSentence": "In addition to storage under the stairs, the building has a room without windows.",
+          "japanese": "階段下の収納に加えて、その建物には窓のない部屋がある。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q11",
+          "sentence": "___ the festival, food ___ several countries is sold ___ the park.",
+          "answers": [
+            "at",
+            "from",
+            "throughout"
+          ],
+          "completedSentence": "At the festival, food from several countries is sold throughout the park.",
+          "japanese": "祭りでは、複数の国の料理が公園全体で販売されている。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q12",
+          "sentence": "___ class, Ken read the handout ___ the chapter ___ taking a break.",
+          "answers": [
+            "before",
+            "in addition to",
+            "without"
+          ],
+          "completedSentence": "Before class, Ken read the handout in addition to the chapter without taking a break.",
+          "japanese": "授業前に、ケンは休憩を取らず、その章に加えて配布資料も読んだ。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q13",
+          "sentence": "___ the afternoon, staff carried the chairs ___ the stage ___ a platform.",
+          "answers": [
+            "throughout",
+            "beside",
+            "onto"
+          ],
+          "completedSentence": "Throughout the afternoon, staff carried the chairs beside the stage onto a platform.",
+          "japanese": "午後ずっと、職員はステージ横の椅子を台の上へ運んだ。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q14",
+          "sentence": "___ the heat ___ the machines, she worked ___ a fan.",
+          "answers": [
+            "despite",
+            "from",
+            "under"
+          ],
+          "completedSentence": "Despite the heat from the machines, she worked under a fan.",
+          "japanese": "機械からの熱にもかかわらず、彼女は扇風機の下で働いた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex2-q15",
+          "sentence": "___ the theater, the actors walked ___ the stage ___ speaking.",
+          "answers": [
+            "at",
+            "onto",
+            "without"
+          ],
+          "completedSentence": "At the theater, the actors walked onto the stage without speaking.",
+          "japanese": "劇場で、俳優たちは話さずにステージへ上がった。",
+          "points": 3
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 21,
+        "twoStars": 30,
+        "threeStars": 39
+      },
+      "title": "Exercise 2",
+      "totalPoints": 45,
+      "version": "restructured-v1"
+    },
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set16-ex3",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "id": "set16-ex3-q1",
+          "sentence": "___ 6:00, ___ the train left, we received an update ___ the station staff.",
+          "answers": [
+            "at",
+            "before",
+            "from"
+          ],
+          "completedSentence": "At 6:00, before the train left, we received an update from the station staff.",
+          "japanese": "列車が出発する前の6時に、駅員から最新情報を受け取った。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q2",
+          "sentence": "___ the snow, staff carried the equipment ___ a platform ___ the stage.",
+          "answers": [
+            "despite",
+            "onto",
+            "beside"
+          ],
+          "completedSentence": "Despite the snow, staff carried the equipment onto a platform beside the stage.",
+          "japanese": "雪にもかかわらず、職員はステージの横にある台へ機材を運んだ。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q3",
+          "sentence": "___ her regular classes, Aya studied ___ the weekend ___ using her phone.",
+          "answers": [
+            "in addition to",
+            "throughout",
+            "without"
+          ],
+          "completedSentence": "In addition to her regular classes, Aya studied throughout the weekend without using her phone.",
+          "japanese": "通常の授業に加えて、アヤは携帯電話を使わずに週末ずっと勉強した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q4",
+          "sentence": "___ the library, Ken stood ___ the entrance ___ the exit sign.",
+          "answers": [
+            "at",
+            "beside",
+            "under"
+          ],
+          "completedSentence": "At the library, Ken stood beside the entrance under the exit sign.",
+          "japanese": "図書館で、ケンは非常口標識の下にある入口の横に立った。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q5",
+          "sentence": "___ the trip, we downloaded a guide ___ the website ___ paying a fee.",
+          "answers": [
+            "before",
+            "from",
+            "without"
+          ],
+          "completedSentence": "Before the trip, we downloaded a guide from the website without paying a fee.",
+          "japanese": "旅行前に、私たちは料金を払わずにウェブサイトから案内をダウンロードした。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q6",
+          "sentence": "___ the noise, students loaded exhibits ___ the display tables ___ the preparation period.",
+          "answers": [
+            "despite",
+            "onto",
+            "throughout"
+          ],
+          "completedSentence": "Despite the noise, students loaded exhibits onto the display tables throughout the preparation period.",
+          "japanese": "騒音にもかかわらず、学生たちは準備時間中ずっと展示品を展示台へ載せた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q7",
+          "sentence": "___ the entrance, ___ the signs, students loaded maps ___ a cart.",
+          "answers": [
+            "at",
+            "in addition to",
+            "onto"
+          ],
+          "completedSentence": "At the entrance, in addition to the signs, students loaded maps onto a cart.",
+          "japanese": "入口で、学生たちは標識に加えて地図も台車へ載せた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q8",
+          "sentence": "___ the meeting, she stood ___ the chair and answered questions ___ the audience.",
+          "answers": [
+            "throughout",
+            "beside",
+            "from"
+          ],
+          "completedSentence": "Throughout the meeting, she stood beside the chair and answered questions from the audience.",
+          "japanese": "会議中ずっと、彼女は椅子の横に立ち、聴衆からの質問に答えた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q9",
+          "sentence": "___ the heat, the dog rested ___ the table ___ the walk began.",
+          "answers": [
+            "despite",
+            "under",
+            "before"
+          ],
+          "completedSentence": "Despite the heat, the dog rested under the table before the walk began.",
+          "japanese": "暑さにもかかわらず、犬は散歩が始まる前にテーブルの下で休んだ。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q10",
+          "sentence": "___ pipes ___ the floor, the laboratory has equipment ___ protective covers.",
+          "answers": [
+            "in addition to",
+            "under",
+            "without"
+          ],
+          "completedSentence": "In addition to pipes under the floor, the laboratory has equipment without protective covers.",
+          "japanese": "床下の配管に加えて、その実験室には保護カバーのない機器がある。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q11",
+          "sentence": "___ the library, books ___ local authors are available ___ the reading room.",
+          "answers": [
+            "at",
+            "from",
+            "throughout"
+          ],
+          "completedSentence": "At the library, books from local authors are available throughout the reading room.",
+          "japanese": "図書館では、地元作家の本が閲覧室全体に置かれている。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q12",
+          "sentence": "___ the interview, Aya practiced answers ___ her introduction ___ looking at a script.",
+          "answers": [
+            "before",
+            "in addition to",
+            "without"
+          ],
+          "completedSentence": "Before the interview, Aya practiced answers in addition to her introduction without looking at a script.",
+          "japanese": "面接前に、アヤは原稿を見ず、自己紹介に加えて回答も練習した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q13",
+          "sentence": "___ the move, we loaded the bags ___ the elevator ___ a cart.",
+          "answers": [
+            "throughout",
+            "beside",
+            "onto"
+          ],
+          "completedSentence": "Throughout the move, we loaded the bags beside the elevator onto a cart.",
+          "japanese": "引っ越し中ずっと、私たちはエレベーター横のかばんを台車へ載せた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q14",
+          "sentence": "___ the smoke ___ the kitchen, guests remained ___ the awning.",
+          "answers": [
+            "despite",
+            "from",
+            "under"
+          ],
+          "completedSentence": "Despite the smoke from the kitchen, guests remained under the awning.",
+          "japanese": "台所からの煙にもかかわらず、客はひさしの下にとどまった。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex3-q15",
+          "sentence": "___ the gym, students climbed ___ the platform ___ assistance.",
+          "answers": [
+            "at",
+            "onto",
+            "without"
+          ],
+          "completedSentence": "At the gym, students climbed onto the platform without assistance.",
+          "japanese": "体育館で、学生たちは助けを借りずに台の上へ登った。",
+          "points": 3
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 21,
+        "twoStars": 30,
+        "threeStars": 39
+      },
+      "title": "Exercise 3",
+      "totalPoints": 45,
+      "version": "restructured-v1"
+    },
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set16-ex4",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "id": "set16-ex4-q1",
+          "sentence": "___ midnight, ___ the deadline, Ken received advice ___ his tutor.",
+          "answers": [
+            "at",
+            "before",
+            "from"
+          ],
+          "completedSentence": "At midnight, before the deadline, Ken received advice from his tutor.",
+          "japanese": "締め切り前の深夜0時に、ケンは指導教員から助言を受けた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q2",
+          "sentence": "___ the heat, he lifted the bags ___ a bench ___ the fountain.",
+          "answers": [
+            "despite",
+            "onto",
+            "beside"
+          ],
+          "completedSentence": "Despite the heat, he lifted the bags onto a bench beside the fountain.",
+          "japanese": "暑さにもかかわらず、彼は噴水の横にあるベンチへかばんを載せた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q3",
+          "sentence": "___ setting up the main event, volunteers assisted guests ___ the evening ___ complaint.",
+          "answers": [
+            "in addition to",
+            "throughout",
+            "without"
+          ],
+          "completedSentence": "In addition to setting up the main event, volunteers assisted guests throughout the evening without complaint.",
+          "japanese": "主要行事の準備に加えて、ボランティアは不満を言わずに夕方ずっと来場者を案内した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q4",
+          "sentence": "___ the park, Aya rested ___ a fountain ___ a tall tree.",
+          "answers": [
+            "at",
+            "beside",
+            "under"
+          ],
+          "completedSentence": "At the park, Aya rested beside a fountain under a tall tree.",
+          "japanese": "公園で、アヤは高い木の下にある噴水の横で休んだ。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q5",
+          "sentence": "___ dawn, he removed a bottle ___ the refrigerator ___ waking anyone.",
+          "answers": [
+            "before",
+            "from",
+            "without"
+          ],
+          "completedSentence": "Before dawn, he removed a bottle from the refrigerator without waking anyone.",
+          "japanese": "夜明け前に、彼は誰も起こさずに冷蔵庫からボトルを取り出した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q6",
+          "sentence": "___ the heat, volunteers loaded boxes ___ the bus ___ the afternoon.",
+          "answers": [
+            "despite",
+            "onto",
+            "throughout"
+          ],
+          "completedSentence": "Despite the heat, volunteers loaded boxes onto the bus throughout the afternoon.",
+          "japanese": "暑さにもかかわらず、ボランティアは午後ずっと箱をバスへ積み込んだ。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q7",
+          "sentence": "___ the station, ___ the luggage, passengers lifted bicycles ___ the train.",
+          "answers": [
+            "at",
+            "in addition to",
+            "onto"
+          ],
+          "completedSentence": "At the station, in addition to the luggage, passengers lifted bicycles onto the train.",
+          "japanese": "駅で、乗客は荷物に加えて自転車も列車へ載せた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q8",
+          "sentence": "___ the ceremony, we waited ___ the stage and heard music ___ the speakers.",
+          "answers": [
+            "throughout",
+            "beside",
+            "from"
+          ],
+          "completedSentence": "Throughout the ceremony, we waited beside the stage and heard music from the speakers.",
+          "japanese": "式典中ずっと、私たちはステージの横で待ち、スピーカーから流れる音楽を聞いた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q9",
+          "sentence": "___ the wind, they checked the map ___ the bridge ___ continuing.",
+          "answers": [
+            "despite",
+            "under",
+            "before"
+          ],
+          "completedSentence": "Despite the wind, they checked the map under the bridge before continuing.",
+          "japanese": "風にもかかわらず、彼らは先へ進む前に橋の下で地図を確認した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q10",
+          "sentence": "___ seats ___ the roof, the stadium has standing areas ___ shelter.",
+          "answers": [
+            "in addition to",
+            "under",
+            "without"
+          ],
+          "completedSentence": "In addition to seats under the roof, the stadium has standing areas without shelter.",
+          "japanese": "屋根の下の座席に加えて、その競技場には屋根のない立見区域がある。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q11",
+          "sentence": "___ the conference, researchers ___ Japan spoke ___ the day.",
+          "answers": [
+            "at",
+            "from",
+            "throughout"
+          ],
+          "completedSentence": "At the conference, researchers from Japan spoke throughout the day.",
+          "japanese": "学会では、日本からの研究者が一日を通して発表した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q12",
+          "sentence": "___ the trip, we packed food ___ water ___ bringing unnecessary items.",
+          "answers": [
+            "before",
+            "in addition to",
+            "without"
+          ],
+          "completedSentence": "Before the trip, we packed food in addition to water without bringing unnecessary items.",
+          "japanese": "旅行前に、私たちは不要な物を持たず、水に加えて食料も詰めた。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q13",
+          "sentence": "___ the setup, students transferred equipment ___ the wall ___ the tables.",
+          "answers": [
+            "throughout",
+            "beside",
+            "onto"
+          ],
+          "completedSentence": "Throughout the setup, students transferred equipment beside the wall onto the tables.",
+          "japanese": "準備中ずっと、学生たちは壁の横の機材をテーブルへ移した。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q14",
+          "sentence": "___ the light ___ the window, the cat slept ___ the desk.",
+          "answers": [
+            "despite",
+            "from",
+            "under"
+          ],
+          "completedSentence": "Despite the light from the window, the cat slept under the desk.",
+          "japanese": "窓からの光にもかかわらず、猫は机の下で眠った。",
+          "points": 3
+        },
+        {
+          "id": "set16-ex4-q15",
+          "sentence": "___ the harbor, workers moved the cargo ___ the ship ___ difficulty.",
+          "answers": [
+            "at",
+            "onto",
+            "without"
+          ],
+          "completedSentence": "At the harbor, workers moved the cargo onto the ship without difficulty.",
+          "japanese": "港で、作業員は問題なく貨物を船へ載せた。",
+          "points": 3
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 21,
+        "twoStars": 30,
+        "threeStars": 39
+      },
+      "title": "Exercise 4",
+      "totalPoints": 45,
+      "version": "restructured-v1"
+    }
+  ],
+  "id": "set16",
+  "number": 16,
+  "shortTitle": "Mixed Triples 1",
+  "sourceSets": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "title": "Mixed Triples 1",
+  "wordBankStrategy": "exercise-specific",
+  "wordBank": [
+    "at",
+    "before",
+    "beside",
+    "despite",
+    "from",
+    "in addition to",
+    "onto",
+    "throughout",
+    "under",
+    "without"
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "description": "Practice position, direction, addition, rates, and value.",
+  "exercises": [
+    {
+      "enabled": true,
+      "id": "set5-ex1",
+      "questions": [
+        {
+          "answer": "beyond",
+          "id": "set5-ex1-q1",
+          "japanese": "その町は丘の向こうにある。",
+          "sentence": "The town is ___ the hills.",
+          "completedSentence": "The town is beyond the hills."
+        },
+        {
+          "answer": "down",
+          "id": "set5-ex1-q2",
+          "japanese": "涙が彼女の顔を伝って流れ落ちた。",
+          "sentence": "Tears ran ___ her face.",
+          "completedSentence": "Tears ran down her face."
+        },
+        {
+          "answer": "inside",
+          "id": "set5-ex1-q3",
+          "japanese": "教室の中で待つこと。",
+          "sentence": "Wait ___ the classroom.",
+          "completedSentence": "Wait inside the classroom."
+        },
+        {
+          "answer": "outside",
+          "id": "set5-ex1-q4",
+          "japanese": "父は店の外で待っていた。",
+          "sentence": "My father waited ___ the store.",
+          "completedSentence": "My father waited outside the store."
+        },
+        {
+          "answer": "opposite",
+          "id": "set5-ex1-q5",
+          "japanese": "薬局は病院の向かいにある。",
+          "sentence": "The pharmacy is ___ the hospital.",
+          "completedSentence": "The pharmacy is opposite the hospital."
+        },
+        {
+          "answer": "underneath",
+          "id": "set5-ex1-q6",
+          "japanese": "かばんは座席の真下にある。",
+          "sentence": "The bag is ___ the seat.",
+          "completedSentence": "The bag is underneath the seat."
+        },
+        {
+          "answer": "up",
+          "id": "set5-ex1-q7",
+          "japanese": "彼らは階段を上った。",
+          "sentence": "They climbed ___ the stairs.",
+          "completedSentence": "They climbed up the stairs."
+        },
+        {
+          "answer": "per",
+          "id": "set5-ex1-q8",
+          "japanese": "制限速度は時速40キロである。",
+          "sentence": "The speed limit is 40 kilometers ___ hour.",
+          "completedSentence": "The speed limit is 40 kilometers per hour."
+        },
+        {
+          "answer": "worth",
+          "id": "set5-ex1-q9",
+          "japanese": "その映画は見る価値がある。",
+          "sentence": "The film is ___ watching.",
+          "completedSentence": "The film is worth watching."
+        },
+        {
+          "answer": "besides",
+          "id": "set5-ex1-q10",
+          "japanese": "彼女は数学のほかに英語も勉強している。",
+          "sentence": "___ math, she studies English.",
+          "completedSentence": "Besides math, she studies English."
+        },
+        {
+          "answer": "inside",
+          "id": "set5-ex1-q11",
+          "japanese": "犬は家の中へ走って入った。",
+          "sentence": "The dog ran ___ the house.",
+          "completedSentence": "The dog ran inside the house."
+        },
+        {
+          "answer": "outside",
+          "id": "set5-ex1-q12",
+          "japanese": "タクシーがホテルの外で待っていた。",
+          "sentence": "A taxi waited ___ the hotel.",
+          "completedSentence": "A taxi waited outside the hotel."
+        },
+        {
+          "answer": "opposite",
+          "id": "set5-ex1-q13",
+          "japanese": "私は先生の向かいに座った。",
+          "sentence": "I sat ___ my teacher.",
+          "completedSentence": "I sat opposite my teacher."
+        },
+        {
+          "answer": "up",
+          "id": "set5-ex1-q14",
+          "japanese": "丘を歩いて上った。",
+          "sentence": "We walked ___ the hill.",
+          "completedSentence": "We walked up the hill."
+        },
+        {
+          "answer": "worth",
+          "id": "set5-ex1-q15",
+          "japanese": "その博物館は訪れる価値がある。",
+          "sentence": "The museum is ___ visiting.",
+          "completedSentence": "The museum is worth visiting."
+        }
+      ],
+      "title": "Exercise 1",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set5-ex2",
+      "questions": [
+        {
+          "answer": "worth",
+          "id": "set5-ex2-q1",
+          "japanese": "その映画は見る価値がある。",
+          "sentence": "The film is ___ seeing.",
+          "completedSentence": "The film is worth seeing."
+        },
+        {
+          "answer": "beyond",
+          "id": "set5-ex2-q2",
+          "japanese": "村は丘の向こうにある。",
+          "sentence": "The village is ___ the hill.",
+          "completedSentence": "The village is beyond the hill."
+        },
+        {
+          "answer": "opposite",
+          "id": "set5-ex2-q3",
+          "japanese": "バス停は郵便局の向かいにある。",
+          "sentence": "The bus stop is ___ the post office.",
+          "completedSentence": "The bus stop is opposite the post office."
+        },
+        {
+          "answer": "underneath",
+          "id": "set5-ex2-q4",
+          "japanese": "猫はベッドの真下に隠れた。",
+          "sentence": "The cat hid ___ the bed.",
+          "completedSentence": "The cat hid underneath the bed."
+        },
+        {
+          "answer": "beyond",
+          "id": "set5-ex2-q5",
+          "japanese": "この問題は私の理解を超えている。",
+          "sentence": "This question is ___ me.",
+          "completedSentence": "This question is beyond me."
+        },
+        {
+          "answer": "up",
+          "id": "set5-ex2-q6",
+          "japanese": "自転車に乗った人は急な道を上った。",
+          "sentence": "The cyclist rode ___ the steep road.",
+          "completedSentence": "The cyclist rode up the steep road."
+        },
+        {
+          "answer": "besides",
+          "id": "set5-ex2-q7",
+          "japanese": "英語のほかに、彼女はフランス語も勉強している。",
+          "sentence": "___ English, she studies French.",
+          "completedSentence": "Besides English, she studies French."
+        },
+        {
+          "answer": "up",
+          "id": "set5-ex2-q8",
+          "japanese": "彼女は階段を駆け上った。",
+          "sentence": "She ran ___ the stairs.",
+          "completedSentence": "She ran up the stairs."
+        },
+        {
+          "answer": "down",
+          "id": "set5-ex2-q9",
+          "japanese": "階段を下りた。",
+          "sentence": "We walked ___ the stairs.",
+          "completedSentence": "We walked down the stairs."
+        },
+        {
+          "answer": "worth",
+          "id": "set5-ex2-q10",
+          "japanese": "この本は読む価値がある。",
+          "sentence": "This book is ___ reading.",
+          "completedSentence": "This book is worth reading."
+        },
+        {
+          "answer": "per",
+          "id": "set5-ex2-q11",
+          "japanese": "学生は1週間につき3冊借りられる。",
+          "sentence": "Students may borrow three books ___ week.",
+          "completedSentence": "Students may borrow three books per week."
+        },
+        {
+          "answer": "underneath",
+          "id": "set5-ex2-q12",
+          "japanese": "鍵は本の下にある。",
+          "sentence": "The key is ___ the book.",
+          "completedSentence": "The key is underneath the book."
+        },
+        {
+          "answer": "per",
+          "id": "set5-ex2-q13",
+          "japanese": "そのホテルは1泊8,000円である。",
+          "sentence": "The hotel charges 8,000 yen ___ night.",
+          "completedSentence": "The hotel charges 8,000 yen per night."
+        },
+        {
+          "answer": "inside",
+          "id": "set5-ex2-q14",
+          "japanese": "建物の中で待つこと。",
+          "sentence": "Wait ___ the building.",
+          "completedSentence": "Wait inside the building."
+        },
+        {
+          "answer": "outside",
+          "id": "set5-ex2-q15",
+          "japanese": "駅の外で待つこと。",
+          "sentence": "Wait ___ the station.",
+          "completedSentence": "Wait outside the station."
+        }
+      ],
+      "title": "Exercise 2",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set5-ex3",
+      "questions": [
+        {
+          "answer": "besides",
+          "id": "set5-ex3-q1",
+          "japanese": "ケンのほかに、二人来た。",
+          "sentence": "___ Ken, two others came.",
+          "completedSentence": "Besides Ken, two others came."
+        },
+        {
+          "answer": "down",
+          "id": "set5-ex3-q2",
+          "japanese": "雨水が窓を伝って流れた。",
+          "sentence": "Rainwater flowed ___ the window.",
+          "completedSentence": "Rainwater flowed down the window."
+        },
+        {
+          "answer": "per",
+          "id": "set5-ex3-q3",
+          "japanese": "この薬を1日2回服用してください。",
+          "sentence": "Take this medicine twice ___ day.",
+          "completedSentence": "Take this medicine twice per day."
+        },
+        {
+          "answer": "up",
+          "id": "set5-ex3-q4",
+          "japanese": "煙が煙突を上っていった。",
+          "sentence": "Smoke rose ___ the chimney.",
+          "completedSentence": "Smoke rose up the chimney."
+        },
+        {
+          "answer": "beyond",
+          "id": "set5-ex3-q5",
+          "japanese": "門の向こうへ行ってはいけない。",
+          "sentence": "Do not go ___ the gate.",
+          "completedSentence": "Do not go beyond the gate."
+        },
+        {
+          "answer": "inside",
+          "id": "set5-ex3-q6",
+          "japanese": "鍵はかばんの中にある。",
+          "sentence": "The keys are ___ the bag.",
+          "completedSentence": "The keys are inside the bag."
+        },
+        {
+          "answer": "besides",
+          "id": "set5-ex3-q7",
+          "japanese": "水のほかに何が必要か。",
+          "sentence": "What do you need ___ water?",
+          "completedSentence": "What do you need besides water?"
+        },
+        {
+          "answer": "underneath",
+          "id": "set5-ex3-q8",
+          "japanese": "配線は床の下を通っている。",
+          "sentence": "Wires run ___ the floor.",
+          "completedSentence": "Wires run underneath the floor."
+        },
+        {
+          "answer": "down",
+          "id": "set5-ex3-q9",
+          "japanese": "ボールは丘を転がり落ちた。",
+          "sentence": "The ball rolled ___ the hill.",
+          "completedSentence": "The ball rolled down the hill."
+        },
+        {
+          "answer": "opposite",
+          "id": "set5-ex3-q10",
+          "japanese": "彼らの事務所はエレベーターの向かいにある。",
+          "sentence": "Their office is ___ the elevator.",
+          "completedSentence": "Their office is opposite the elevator."
+        },
+        {
+          "answer": "outside",
+          "id": "set5-ex3-q11",
+          "japanese": "犬は家の外で眠った。",
+          "sentence": "The dog slept ___ the house.",
+          "completedSentence": "The dog slept outside the house."
+        },
+        {
+          "answer": "per",
+          "id": "set5-ex3-q12",
+          "japanese": "そのプリンターは1分に30ページ印刷する。",
+          "sentence": "The printer produces 30 pages ___ minute.",
+          "completedSentence": "The printer produces 30 pages per minute."
+        },
+        {
+          "answer": "outside",
+          "id": "set5-ex3-q13",
+          "japanese": "図書館の外で会った。",
+          "sentence": "We met ___ the library.",
+          "completedSentence": "We met outside the library."
+        },
+        {
+          "answer": "inside",
+          "id": "set5-ex3-q14",
+          "japanese": "カフェの中で食べた。",
+          "sentence": "We ate ___ the café.",
+          "completedSentence": "We ate inside the café."
+        },
+        {
+          "answer": "worth",
+          "id": "set5-ex3-q15",
+          "japanese": "そのドキュメンタリーは見る価値がある。",
+          "sentence": "The documentary is ___ watching.",
+          "completedSentence": "The documentary is worth watching."
+        }
+      ],
+      "title": "Exercise 3",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set5-ex4",
+      "questions": [
+        {
+          "answer": "per",
+          "id": "set5-ex4-q1",
+          "japanese": "入場料は1人500円である。",
+          "sentence": "Admission costs 500 yen ___ person.",
+          "completedSentence": "Admission costs 500 yen per person."
+        },
+        {
+          "answer": "beyond",
+          "id": "set5-ex4-q2",
+          "japanese": "道は橋の先まで続いている。",
+          "sentence": "The road continues ___ the bridge.",
+          "completedSentence": "The road continues beyond the bridge."
+        },
+        {
+          "answer": "opposite",
+          "id": "set5-ex4-q3",
+          "japanese": "そのカフェは公園の入口の向かいにある。",
+          "sentence": "The café stands ___ the park entrance.",
+          "completedSentence": "The café stands opposite the park entrance."
+        },
+        {
+          "answer": "underneath",
+          "id": "set5-ex4-q4",
+          "japanese": "箱はテーブルの真下にあった。",
+          "sentence": "A box sat ___ the table.",
+          "completedSentence": "A box sat underneath the table."
+        },
+        {
+          "answer": "up",
+          "id": "set5-ex4-q5",
+          "japanese": "彼ははしごを登った。",
+          "sentence": "He climbed ___ the ladder.",
+          "completedSentence": "He climbed up the ladder."
+        },
+        {
+          "answer": "down",
+          "id": "set5-ex4-q6",
+          "japanese": "彼は川を下流へ泳いだ。",
+          "sentence": "He swam ___ the river.",
+          "completedSentence": "He swam down the river."
+        },
+        {
+          "answer": "worth",
+          "id": "set5-ex4-q7",
+          "japanese": "その案は検討する価値がある。",
+          "sentence": "The idea is ___ considering.",
+          "completedSentence": "The idea is worth considering."
+        },
+        {
+          "answer": "outside",
+          "id": "set5-ex4-q8",
+          "japanese": "靴は部屋の外に置かれている。",
+          "sentence": "Shoes are left ___ the room.",
+          "completedSentence": "Shoes are left outside the room."
+        },
+        {
+          "answer": "opposite",
+          "id": "set5-ex4-q9",
+          "japanese": "彼女は学校の向かいに住んでいる。",
+          "sentence": "She lives ___ the school.",
+          "completedSentence": "She lives opposite the school."
+        },
+        {
+          "answer": "inside",
+          "id": "set5-ex4-q10",
+          "japanese": "彼女は部屋の中にいた。",
+          "sentence": "She stayed ___ the room.",
+          "completedSentence": "She stayed inside the room."
+        },
+        {
+          "answer": "besides",
+          "id": "set5-ex4-q11",
+          "japanese": "勉強のほかに、彼はアルバイトもしている。",
+          "sentence": "___ studying, he works part-time.",
+          "completedSentence": "Besides studying, he works part-time."
+        },
+        {
+          "answer": "outside",
+          "id": "set5-ex4-q12",
+          "japanese": "彼は門の外に立っていた。",
+          "sentence": "He stood ___ the gate.",
+          "completedSentence": "He stood outside the gate."
+        },
+        {
+          "answer": "underneath",
+          "id": "set5-ex4-q13",
+          "japanese": "彼は上着の下にシャツを着ていた。",
+          "sentence": "He wore a shirt ___ his jacket.",
+          "completedSentence": "He wore a shirt underneath his jacket."
+        },
+        {
+          "answer": "besides",
+          "id": "set5-ex4-q14",
+          "japanese": "ベッドのほかに、その部屋には机がある。",
+          "sentence": "___ a bed, the room has a desk.",
+          "completedSentence": "Besides a bed, the room has a desk."
+        },
+        {
+          "answer": "down",
+          "id": "set5-ex4-q15",
+          "japanese": "彼女は通りの先を見た。",
+          "sentence": "She looked ___ the street.",
+          "completedSentence": "She looked down the street."
+        }
+      ],
+      "title": "Exercise 4",
+      "version": "restructured-v1"
+    }
+  ],
+  "id": "set5",
+  "number": 5,
+  "shortTitle": "Position & Direction",
+  "title": "Position, Direction, and Addition",
+  "wordBank": [
+    "besides",
+    "beyond",
+    "down",
+    "inside",
+    "opposite",
+    "outside",
+    "per",
+    "underneath",
+    "up",
+    "worth"
+  ]
+}

@@ -1,1 +1,761 @@
-{"id":"set12","number":12,"title":"Roles, Contrast, and Movement Combinations","shortTitle":"Roles & Contrast Pairs","description":"Practice two phrases expressing roles, contrast, limits, movement, or absence.","sourceSets":[4],"allowedPrepositions":["as","despite","except","like","off","onto","throughout","toward","within","without"],"wordBankStrategy":"exercise-specific","exercises":[{"id":"set12-ex1","title":"Exercise 1","version":"draft-2026-07-15-1","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":30,"starThresholds":{"threeStars":26,"twoStars":20,"oneStar":14},"wordBank":["as","despite","except","like","off","onto","throughout","toward","within","without"],"questions":[{"id":"set12-ex1-q1","sentence":"___ the rain, we walked ___ the station.","answers":["despite","toward"],"completedSentence":"despite the rain, we walked toward the station.","japanese":"雨にもかかわらず、駅の方へ歩いた。","points":2},{"id":"set12-ex1-q2","sentence":"She worked ___ a guide ___ the summer.","answers":["as","throughout"],"completedSentence":"She worked as a guide throughout the summer.","japanese":"彼女は夏の間ずっとガイドとして働いた。","points":2},{"id":"set12-ex1-q3","sentence":"Everyone ___ Ken entered ___ an ID card.","answers":["except","without"],"completedSentence":"Everyone except Ken entered without an ID card.","japanese":"ケン以外は全員、学生証なしで入った。","points":2},{"id":"set12-ex1-q4","sentence":"The cat jumped ___ the chair ___ the floor.","answers":["off","onto"],"completedSentence":"The cat jumped off the chair onto the floor.","japanese":"猫は椅子から床へ飛び降りた。","points":2},{"id":"set12-ex1-q5","sentence":"He completed the task ___ an hour ___ help.","answers":["within","without"],"completedSentence":"He completed the task within an hour without help.","japanese":"彼は助けなしで1時間以内に課題を終えた。","points":2},{"id":"set12-ex1-q6","sentence":"The cloud looked ___ a ship ___ the afternoon.","answers":["like","throughout"],"completedSentence":"The cloud looked like a ship throughout the afternoon.","japanese":"その雲は午後ずっと船のように見えた。","points":2},{"id":"set12-ex1-q7","sentence":"We moved ___ the exit ___ the smoke.","answers":["toward","despite"],"completedSentence":"We moved toward the exit despite the smoke.","japanese":"煙にもかかわらず出口の方へ進んだ。","points":2},{"id":"set12-ex1-q8","sentence":"He spoke ___ team leader ___ his nervousness.","answers":["as","despite"],"completedSentence":"He spoke as team leader despite his nervousness.","japanese":"彼は緊張していたにもかかわらず、チームリーダーとして話した。","points":2},{"id":"set12-ex1-q9","sentence":"The store stayed open ___ the storm ___ the power cuts.","answers":["throughout","despite"],"completedSentence":"The store stayed open throughout the storm despite the power cuts.","japanese":"停電にもかかわらず、その店は嵐の間ずっと営業していた。","points":2},{"id":"set12-ex1-q10","sentence":"No one ___ Aya finished ___ ten minutes.","answers":["except","within"],"completedSentence":"No one except Aya finished within ten minutes.","japanese":"アヤ以外は誰も10分以内に終えなかった。","points":2},{"id":"set12-ex1-q11","sentence":"He left ___ his coat ___ the cold.","answers":["without","despite"],"completedSentence":"He left without his coat despite the cold.","japanese":"彼は寒さにもかかわらず、コートなしで出かけた。","points":2},{"id":"set12-ex1-q12","sentence":"The child climbed ___ the stage ___ a performer.","answers":["onto","like"],"completedSentence":"The child climbed onto the stage like a performer.","japanese":"その子どもは演者のように舞台へ上がった。","points":2},{"id":"set12-ex1-q13","sentence":"The leaves fell ___ the tree ___ the night.","answers":["off","throughout"],"completedSentence":"The leaves fell off the tree throughout the night.","japanese":"葉は夜通し木から落ちた。","points":2},{"id":"set12-ex1-q14","sentence":"The cat jumped ___ the chair and ___ the table.","answers":["onto","onto"],"completedSentence":"The cat jumped onto the chair and onto the table.","japanese":"猫は椅子の上とテーブルの上へ飛び乗った。","points":2},{"id":"set12-ex1-q15","sentence":"We walked ___ the gate ___ looking back.","answers":["toward","without"],"completedSentence":"We walked toward the gate without looking back.","japanese":"振り返らずに門の方へ歩いた。","points":2}]},{"id":"set12-ex2","title":"Exercise 2","version":"draft-2026-07-15-2","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":30,"starThresholds":{"threeStars":26,"twoStars":20,"oneStar":14},"wordBank":["as","despite","except","like","off","onto","throughout","toward","within","without"],"questions":[{"id":"set12-ex2-q1","sentence":"___ the noise, she worked ___ the evening.","answers":["despite","throughout"],"completedSentence":"despite the noise, she worked throughout the evening.","japanese":"騒音にもかかわらず、彼女は夕方ずっと働いた。","points":2},{"id":"set12-ex2-q2","sentence":"He served ___ captain ___ the tournament.","answers":["as","throughout"],"completedSentence":"He served as captain throughout the tournament.","japanese":"彼は大会中ずっと主将を務めた。","points":2},{"id":"set12-ex2-q3","sentence":"Everyone ___ Mika left ___ an umbrella.","answers":["except","without"],"completedSentence":"Everyone except Mika left without an umbrella.","japanese":"ミカ以外は全員、傘を持たずに出発した。","points":2},{"id":"set12-ex2-q4","sentence":"The ball rolled ___ the desk ___ the carpet.","answers":["off","onto"],"completedSentence":"The ball rolled off the desk onto the carpet.","japanese":"ボールは机からじゅうたんの上へ転がり落ちた。","points":2},{"id":"set12-ex2-q5","sentence":"Please reply ___ two days ___ delay.","answers":["within","without"],"completedSentence":"Please reply within two days without delay.","japanese":"遅れずに2日以内に返信すること。","points":2},{"id":"set12-ex2-q6","sentence":"The fabric feels ___ silk ___ the day.","answers":["like","throughout"],"completedSentence":"The fabric feels like silk throughout the day.","japanese":"その布は一日中、絹のような感触である。","points":2},{"id":"set12-ex2-q7","sentence":"The dog ran ___ its owner ___ the heavy rain.","answers":["toward","despite"],"completedSentence":"The dog ran toward its owner despite the heavy rain.","japanese":"激しい雨にもかかわらず、犬は飼い主の方へ走った。","points":2},{"id":"set12-ex2-q8","sentence":"She acted ___ host ___ her lack of experience.","answers":["as","despite"],"completedSentence":"She acted as host despite her lack of experience.","japanese":"経験不足にもかかわらず、彼女は司会役を務めた。","points":2},{"id":"set12-ex2-q9","sentence":"The lights remained on ___ the night ___ the storm.","answers":["throughout","despite"],"completedSentence":"The lights remained on throughout the night despite the storm.","japanese":"嵐にもかかわらず、照明は夜通しついていた。","points":2},{"id":"set12-ex2-q10","sentence":"All students ___ Ken arrived ___ ten minutes.","answers":["except","within"],"completedSentence":"All students except Ken arrived within ten minutes.","japanese":"ケン以外の学生は全員10分以内に到着した。","points":2},{"id":"set12-ex2-q11","sentence":"She traveled ___ luggage ___ the inconvenience.","answers":["without","despite"],"completedSentence":"She traveled without luggage despite the inconvenience.","japanese":"不便にもかかわらず、彼女は荷物なしで旅行した。","points":2},{"id":"set12-ex2-q12","sentence":"The actor stepped ___ the stage ___ a king.","answers":["onto","like"],"completedSentence":"The actor stepped onto the stage like a king.","japanese":"俳優は王のように舞台へ上がった。","points":2},{"id":"set12-ex2-q13","sentence":"Water dripped ___ the roof ___ the storm.","answers":["off","throughout"],"completedSentence":"Water dripped off the roof throughout the storm.","japanese":"嵐の間ずっと屋根から水が滴り落ちた。","points":2},{"id":"set12-ex2-q14","sentence":"The child climbed ___ the sofa and ___ the bed.","answers":["onto","onto"],"completedSentence":"The child climbed onto the sofa and onto the bed.","japanese":"その子どもはソファーの上とベッドの上によじ登った。","points":2},{"id":"set12-ex2-q15","sentence":"He walked ___ the door ___ speaking.","answers":["toward","without"],"completedSentence":"He walked toward the door without speaking.","japanese":"彼は何も言わずにドアの方へ歩いた。","points":2}]},{"id":"set12-ex3","title":"Exercise 3","version":"draft-2026-07-15-3","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":30,"starThresholds":{"threeStars":26,"twoStars":20,"oneStar":14},"wordBank":["as","despite","except","like","off","onto","throughout","toward","within","without"],"questions":[{"id":"set12-ex3-q1","sentence":"___ the heat, they practiced ___ the afternoon.","answers":["despite","throughout"],"completedSentence":"despite the heat, they practiced throughout the afternoon.","japanese":"暑さにもかかわらず、彼らは午後ずっと練習した。","points":2},{"id":"set12-ex3-q2","sentence":"She worked ___ an assistant ___ the project.","answers":["as","throughout"],"completedSentence":"She worked as an assistant throughout the project.","japanese":"彼女はプロジェクト中ずっと助手として働いた。","points":2},{"id":"set12-ex3-q3","sentence":"Everyone ___ Taro completed it ___ extra time.","answers":["except","without"],"completedSentence":"Everyone except Taro completed it without extra time.","japanese":"タロウ以外は全員、追加時間なしで終えた。","points":2},{"id":"set12-ex3-q4","sentence":"The book fell ___ the shelf ___ the floor.","answers":["off","onto"],"completedSentence":"The book fell off the shelf onto the floor.","japanese":"本は棚から床へ落ちた。","points":2},{"id":"set12-ex3-q5","sentence":"We reached the station ___ twenty minutes ___ a map.","answers":["within","without"],"completedSentence":"We reached the station within twenty minutes without a map.","japanese":"地図なしで20分以内に駅へ着いた。","points":2},{"id":"set12-ex3-q6","sentence":"The sound was ___ thunder ___ the night.","answers":["like","throughout"],"completedSentence":"The sound was like thunder throughout the night.","japanese":"その音は夜通し雷のようだった。","points":2},{"id":"set12-ex3-q7","sentence":"The crowd moved ___ the gate ___ the rain.","answers":["toward","despite"],"completedSentence":"The crowd moved toward the gate despite the rain.","japanese":"雨にもかかわらず、人々は門の方へ進んだ。","points":2},{"id":"set12-ex3-q8","sentence":"He answered ___ spokesperson ___ the pressure.","answers":["as","despite"],"completedSentence":"He answered as spokesperson despite the pressure.","japanese":"重圧にもかかわらず、彼は広報担当者として答えた。","points":2},{"id":"set12-ex3-q9","sentence":"The team stayed calm ___ the match ___ the injuries.","answers":["throughout","despite"],"completedSentence":"The team stayed calm throughout the match despite the injuries.","japanese":"けがにもかかわらず、チームは試合中ずっと落ち着いていた。","points":2},{"id":"set12-ex3-q10","sentence":"No one ___ the captain returned ___ an hour.","answers":["except","within"],"completedSentence":"No one except the captain returned within an hour.","japanese":"主将以外は誰も1時間以内に戻らなかった。","points":2},{"id":"set12-ex3-q11","sentence":"He entered ___ permission ___ the warning.","answers":["without","despite"],"completedSentence":"He entered without permission despite the warning.","japanese":"警告にもかかわらず、彼は許可なしで入った。","points":2},{"id":"set12-ex3-q12","sentence":"The dancer stepped ___ the platform ___ a professional.","answers":["onto","like"],"completedSentence":"The dancer stepped onto the platform like a professional.","japanese":"ダンサーはプロのように台の上へ上がった。","points":2},{"id":"set12-ex3-q13","sentence":"Snow slid ___ the roof ___ the morning.","answers":["off","throughout"],"completedSentence":"Snow slid off the roof throughout the morning.","japanese":"雪は午前中ずっと屋根から滑り落ちた。","points":2},{"id":"set12-ex3-q14","sentence":"The cat leaped ___ the sofa and ___ the chair.","answers":["onto","onto"],"completedSentence":"The cat leaped onto the sofa and onto the chair.","japanese":"猫はソファーの上と椅子の上へ飛び乗った。","points":2},{"id":"set12-ex3-q15","sentence":"She moved ___ the window ___ making a sound.","answers":["toward","without"],"completedSentence":"She moved toward the window without making a sound.","japanese":"彼女は音を立てずに窓の方へ動いた。","points":2}]},{"id":"set12-ex4","title":"Exercise 4","version":"draft-2026-07-15-4","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":30,"starThresholds":{"threeStars":26,"twoStars":20,"oneStar":14},"wordBank":["as","despite","except","like","off","onto","throughout","toward","within","without"],"questions":[{"id":"set12-ex4-q1","sentence":"___ the delay, the train ran ___ the night.","answers":["despite","throughout"],"completedSentence":"despite the delay, the train ran throughout the night.","japanese":"遅れにもかかわらず、列車は夜通し走った。","points":2},{"id":"set12-ex4-q2","sentence":"He worked ___ a volunteer ___ the event.","answers":["as","throughout"],"completedSentence":"He worked as a volunteer throughout the event.","japanese":"彼は行事中ずっとボランティアとして働いた。","points":2},{"id":"set12-ex4-q3","sentence":"Everyone ___ Emi finished ___ help.","answers":["except","without"],"completedSentence":"Everyone except Emi finished without help.","japanese":"エミ以外は全員、助けなしで終えた。","points":2},{"id":"set12-ex4-q4","sentence":"The phone slipped ___ the desk ___ the rug.","answers":["off","onto"],"completedSentence":"The phone slipped off the desk onto the rug.","japanese":"携帯電話は机から敷物の上へ滑り落ちた。","points":2},{"id":"set12-ex4-q5","sentence":"Finish the form ___ fifteen minutes ___ mistakes.","answers":["within","without"],"completedSentence":"Finish the form within fifteen minutes without mistakes.","japanese":"間違えずに15分以内に用紙を完成させること。","points":2},{"id":"set12-ex4-q6","sentence":"The child danced ___ a star ___ the show.","answers":["like","throughout"],"completedSentence":"The child danced like a star throughout the show.","japanese":"その子どもは公演中ずっとスターのように踊った。","points":2},{"id":"set12-ex4-q7","sentence":"We drove ___ the coast ___ the fog.","answers":["toward","despite"],"completedSentence":"We drove toward the coast despite the fog.","japanese":"霧にもかかわらず、海岸の方へ車で進んだ。","points":2},{"id":"set12-ex4-q8","sentence":"She spoke ___ class representative ___ her fear.","answers":["as","despite"],"completedSentence":"She spoke as class representative despite her fear.","japanese":"恐れにもかかわらず、彼女はクラス代表として話した。","points":2},{"id":"set12-ex4-q9","sentence":"Music continued ___ the ceremony ___ the power problem.","answers":["throughout","despite"],"completedSentence":"Music continued throughout the ceremony despite the power problem.","japanese":"電源の問題にもかかわらず、式典中ずっと音楽が流れた。","points":2},{"id":"set12-ex4-q10","sentence":"All teams ___ ours arrived ___ thirty minutes.","answers":["except","within"],"completedSentence":"All teams except ours arrived within thirty minutes.","japanese":"私たちのチーム以外はすべて30分以内に到着した。","points":2},{"id":"set12-ex4-q11","sentence":"He traveled ___ a ticket ___ the risk.","answers":["without","despite"],"completedSentence":"He traveled without a ticket despite the risk.","japanese":"危険にもかかわらず、彼は切符なしで移動した。","points":2},{"id":"set12-ex4-q12","sentence":"The paper floated ___ the floor ___ a leaf.","answers":["onto","like"],"completedSentence":"The paper floated onto the floor like a leaf.","japanese":"紙は葉のように床の上へ舞い降りた。","points":2},{"id":"set12-ex4-q13","sentence":"Rainwater ran ___ the roof ___ the evening.","answers":["off","throughout"],"completedSentence":"Rainwater ran off the roof throughout the evening.","japanese":"雨水は夕方ずっと屋根から流れ落ちた。","points":2},{"id":"set12-ex4-q14","sentence":"The child jumped ___ the bed and ___ the chair.","answers":["onto","onto"],"completedSentence":"The child jumped onto the bed and onto the chair.","japanese":"その子どもはベッドの上と椅子の上へ飛び乗った。","points":2},{"id":"set12-ex4-q15","sentence":"They walked ___ the lights ___ the darkness.","answers":["toward","despite"],"completedSentence":"They walked toward the lights despite the darkness.","japanese":"暗闇にもかかわらず、彼らは明かりの方へ歩いた。","points":2}]}]}
+{
+  "allowedPrepositions": [
+    "as",
+    "despite",
+    "except",
+    "like",
+    "off",
+    "onto",
+    "throughout",
+    "toward",
+    "within",
+    "without"
+  ],
+  "description": "Practice two clearly differentiated expressions of role, contrast, movement, limits, routes, or value.",
+  "exercises": [
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set12-ex1",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "answers": [
+            "despite",
+            "toward"
+          ],
+          "completedSentence": "Despite the rain, we walked toward the station.",
+          "id": "set12-ex1-q1",
+          "japanese": "雨にもかかわらず、駅の方へ歩いた。",
+          "points": 2,
+          "sentence": "___ the rain, we walked ___ the station."
+        },
+        {
+          "answers": [
+            "as",
+            "throughout"
+          ],
+          "completedSentence": "She worked as a guide throughout the summer.",
+          "id": "set12-ex1-q2",
+          "japanese": "彼女は夏の間ずっとガイドとして働いた。",
+          "points": 2,
+          "sentence": "She worked ___ a guide ___ the summer."
+        },
+        {
+          "answers": [
+            "except",
+            "worth"
+          ],
+          "completedSentence": "Everyone except Hiro agreed that the painting was worth several million yen.",
+          "id": "set12-ex1-q3",
+          "japanese": "ヒロ以外は全員、その絵には数百万円の価値があると考えた。",
+          "points": 2,
+          "sentence": "Everyone ___ Hiro agreed that the painting was ___ several million yen."
+        },
+        {
+          "answers": [
+            "off",
+            "onto"
+          ],
+          "completedSentence": "The cat jumped off the chair onto the floor.",
+          "id": "set12-ex1-q4",
+          "japanese": "猫は椅子から床へ飛び降りた。",
+          "points": 2,
+          "sentence": "The cat jumped ___ the chair ___ the floor."
+        },
+        {
+          "answers": [
+            "within",
+            "worth"
+          ],
+          "completedSentence": "Finish the quiz within 30 minutes; each question is worth one point.",
+          "id": "set12-ex1-q5",
+          "japanese": "30分以内に小テストを終えること。各問題は1点である。",
+          "points": 2,
+          "sentence": "Finish the quiz ___ 30 minutes; each question is ___ one point."
+        },
+        {
+          "answers": [
+            "via",
+            "throughout"
+          ],
+          "completedSentence": "We traveled to Osaka via Nagoya and stayed awake throughout the journey.",
+          "id": "set12-ex1-q6",
+          "japanese": "私たちは名古屋経由で大阪へ行き、移動中ずっと起きていた。",
+          "points": 2,
+          "sentence": "We traveled to Osaka ___ Nagoya and stayed awake ___ the journey."
+        },
+        {
+          "answers": [
+            "toward",
+            "despite"
+          ],
+          "completedSentence": "We moved toward the exit despite the smoke.",
+          "id": "set12-ex1-q7",
+          "japanese": "煙にもかかわらず出口の方へ進んだ。",
+          "points": 2,
+          "sentence": "We moved ___ the exit ___ the smoke."
+        },
+        {
+          "answers": [
+            "as",
+            "despite"
+          ],
+          "completedSentence": "He spoke as team leader despite his nervousness.",
+          "id": "set12-ex1-q8",
+          "japanese": "彼は緊張していたにもかかわらず、チームリーダーとして話した。",
+          "points": 2,
+          "sentence": "He spoke ___ team leader ___ his nervousness."
+        },
+        {
+          "answers": [
+            "throughout",
+            "despite"
+          ],
+          "completedSentence": "The emergency shelter remained open throughout the storm despite several power cuts.",
+          "id": "set12-ex1-q9",
+          "japanese": "数回の停電にもかかわらず、緊急避難所は嵐の間ずっと開いていた。",
+          "points": 2,
+          "sentence": "The emergency shelter remained open ___ the storm ___ several power cuts."
+        },
+        {
+          "answers": [
+            "except",
+            "within"
+          ],
+          "completedSentence": "No one except Aya finished within ten minutes.",
+          "id": "set12-ex1-q10",
+          "japanese": "アヤ以外は誰も10分以内に終えなかった。",
+          "points": 2,
+          "sentence": "No one ___ Aya finished ___ ten minutes."
+        },
+        {
+          "answers": [
+            "worth",
+            "despite"
+          ],
+          "completedSentence": "The proposal is worth considering despite its high cost.",
+          "id": "set12-ex1-q11",
+          "japanese": "費用が高いにもかかわらず、その提案は検討する価値がある。",
+          "points": 2,
+          "sentence": "The proposal is ___ considering ___ its high cost."
+        },
+        {
+          "answers": [
+            "onto",
+            "via"
+          ],
+          "completedSentence": "The image was projected onto the wall via a laptop.",
+          "id": "set12-ex1-q12",
+          "japanese": "画像はノートパソコンを介して壁に投影された。",
+          "points": 2,
+          "sentence": "The image was projected ___ the wall ___ a laptop."
+        },
+        {
+          "answers": [
+            "off",
+            "throughout"
+          ],
+          "completedSentence": "The leaves fell off the tree throughout the night.",
+          "id": "set12-ex1-q13",
+          "japanese": "葉は夜通し木から落ちた。",
+          "points": 2,
+          "sentence": "The leaves fell ___ the tree ___ the night."
+        },
+        {
+          "answers": [
+            "onto",
+            "off"
+          ],
+          "completedSentence": "The cat jumped onto the chair and then slipped off it.",
+          "id": "set12-ex1-q14",
+          "japanese": "猫は椅子の上に飛び乗り、その後そこから滑り落ちた。",
+          "points": 2,
+          "sentence": "The cat jumped ___ the chair and then slipped ___ it."
+        },
+        {
+          "answers": [
+            "toward",
+            "worth"
+          ],
+          "completedSentence": "We walked toward a museum worth visiting.",
+          "id": "set12-ex1-q15",
+          "japanese": "私たちは訪れる価値のある博物館の方へ歩いた。",
+          "points": 2,
+          "sentence": "We walked ___ a museum ___ visiting."
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 14,
+        "threeStars": 26,
+        "twoStars": 20
+      },
+      "title": "Exercise 1",
+      "totalPoints": 30,
+      "version": "restructured-v1"
+    },
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set12-ex2",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "answers": [
+            "despite",
+            "throughout"
+          ],
+          "completedSentence": "Despite the noise, she worked throughout the evening.",
+          "id": "set12-ex2-q1",
+          "japanese": "騒音にもかかわらず、彼女は夕方ずっと働いた。",
+          "points": 2,
+          "sentence": "___ the noise, she worked ___ the evening."
+        },
+        {
+          "answers": [
+            "as",
+            "throughout"
+          ],
+          "completedSentence": "He served as captain throughout the tournament.",
+          "id": "set12-ex2-q2",
+          "japanese": "彼は大会中ずっと主将を務めた。",
+          "points": 2,
+          "sentence": "He served ___ captain ___ the tournament."
+        },
+        {
+          "answers": [
+            "except",
+            "worth"
+          ],
+          "completedSentence": "Everyone except Ken agreed that the book was worth reading twice.",
+          "id": "set12-ex2-q3",
+          "japanese": "ケン以外は全員、その本は二度読む価値があると考えた。",
+          "points": 2,
+          "sentence": "Everyone ___ Ken agreed that the book was ___ reading twice."
+        },
+        {
+          "answers": [
+            "off",
+            "onto"
+          ],
+          "completedSentence": "The ball rolled off the desk onto the carpet.",
+          "id": "set12-ex2-q4",
+          "japanese": "ボールは机からじゅうたんの上へ転がり落ちた。",
+          "points": 2,
+          "sentence": "The ball rolled ___ the desk ___ the carpet."
+        },
+        {
+          "answers": [
+            "within",
+            "worth"
+          ],
+          "completedSentence": "Within an hour, she decided that the course was worth the time and effort.",
+          "id": "set12-ex2-q5",
+          "japanese": "彼女は1時間以内に、その講座には時間と労力をかける価値があると判断した。",
+          "points": 2,
+          "sentence": "___ an hour, she decided that the course was ___ the time and effort."
+        },
+        {
+          "answers": [
+            "via",
+            "throughout"
+          ],
+          "completedSentence": "The flight went to Paris via Dubai, and the passengers slept throughout the journey.",
+          "id": "set12-ex2-q6",
+          "japanese": "その便はドバイ経由でパリへ向かい、乗客は移動中ずっと眠っていた。",
+          "points": 2,
+          "sentence": "The flight went to Paris ___ Dubai, and the passengers slept ___ the journey."
+        },
+        {
+          "answers": [
+            "toward",
+            "despite"
+          ],
+          "completedSentence": "The dog ran toward its owner despite the heavy rain.",
+          "id": "set12-ex2-q7",
+          "japanese": "激しい雨にもかかわらず、犬は飼い主の方へ走った。",
+          "points": 2,
+          "sentence": "The dog ran ___ its owner ___ the heavy rain."
+        },
+        {
+          "answers": [
+            "as",
+            "despite"
+          ],
+          "completedSentence": "She acted as host despite her lack of experience.",
+          "id": "set12-ex2-q8",
+          "japanese": "経験不足にもかかわらず、彼女は司会役を務めた。",
+          "points": 2,
+          "sentence": "She acted ___ host ___ her lack of experience."
+        },
+        {
+          "answers": [
+            "throughout",
+            "despite"
+          ],
+          "completedSentence": "The lights remained on throughout the night despite the storm.",
+          "id": "set12-ex2-q9",
+          "japanese": "嵐にもかかわらず、照明は夜通しついていた。",
+          "points": 2,
+          "sentence": "The lights remained on ___ the night ___ the storm."
+        },
+        {
+          "answers": [
+            "except",
+            "within"
+          ],
+          "completedSentence": "Everyone except Yuki arrived within ten minutes of the scheduled start.",
+          "id": "set12-ex2-q10",
+          "japanese": "ユキを除く全員が予定開始時刻から10分以内に到着した。",
+          "points": 2,
+          "sentence": "Everyone ___ Yuki arrived ___ ten minutes of the scheduled start."
+        },
+        {
+          "answers": [
+            "worth",
+            "despite"
+          ],
+          "completedSentence": "The painting is worth several million yen despite the damage to its frame.",
+          "id": "set12-ex2-q11",
+          "japanese": "額縁に損傷があるにもかかわらず、その絵には数百万円の価値がある。",
+          "points": 2,
+          "sentence": "The painting is ___ several million yen ___ the damage to its frame."
+        },
+        {
+          "answers": [
+            "onto",
+            "via"
+          ],
+          "completedSentence": "They carried the chairs onto the stage via a side ramp.",
+          "id": "set12-ex2-q12",
+          "japanese": "彼らは横のスロープを通って椅子をステージの上へ運んだ。",
+          "points": 2,
+          "sentence": "They carried the chairs ___ the stage ___ a side ramp."
+        },
+        {
+          "answers": [
+            "off",
+            "throughout"
+          ],
+          "completedSentence": "Water dripped off the roof throughout the storm.",
+          "id": "set12-ex2-q13",
+          "japanese": "嵐の間ずっと屋根から水が滴り落ちた。",
+          "points": 2,
+          "sentence": "Water dripped ___ the roof ___ the storm."
+        },
+        {
+          "answers": [
+            "onto",
+            "toward"
+          ],
+          "completedSentence": "The child climbed onto the sofa and pointed toward the lamp.",
+          "id": "set12-ex2-q14",
+          "japanese": "その子どもはソファーの上によじ登り、ランプの方を指した。",
+          "points": 2,
+          "sentence": "The child climbed ___ the sofa and pointed ___ the lamp."
+        },
+        {
+          "answers": [
+            "toward",
+            "worth"
+          ],
+          "completedSentence": "The children ran toward the museum, which was worth visiting.",
+          "id": "set12-ex2-q15",
+          "japanese": "子どもたちは訪れる価値のある博物館の方へ走った。",
+          "points": 2,
+          "sentence": "The children ran ___ the museum, which was ___ visiting."
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 14,
+        "threeStars": 26,
+        "twoStars": 20
+      },
+      "title": "Exercise 2",
+      "totalPoints": 30,
+      "version": "restructured-v1"
+    },
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set12-ex3",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "answers": [
+            "despite",
+            "throughout"
+          ],
+          "completedSentence": "Despite the heat, they practiced throughout the afternoon.",
+          "id": "set12-ex3-q1",
+          "japanese": "暑さにもかかわらず、彼らは午後ずっと練習した。",
+          "points": 2,
+          "sentence": "___ the heat, they practiced ___ the afternoon."
+        },
+        {
+          "answers": [
+            "as",
+            "throughout"
+          ],
+          "completedSentence": "She worked as an assistant throughout the project.",
+          "id": "set12-ex3-q2",
+          "japanese": "彼女はプロジェクト中ずっと助手として働いた。",
+          "points": 2,
+          "sentence": "She worked ___ an assistant ___ the project."
+        },
+        {
+          "answers": [
+            "except",
+            "worth"
+          ],
+          "completedSentence": "Everyone except Ken thought the proposal was worth considering.",
+          "id": "set12-ex3-q3",
+          "japanese": "ケン以外は全員、その提案は検討する価値があると考えた。",
+          "points": 2,
+          "sentence": "Everyone ___ Ken thought the proposal was ___ considering."
+        },
+        {
+          "answers": [
+            "off",
+            "onto"
+          ],
+          "completedSentence": "The book fell off the shelf onto the floor.",
+          "id": "set12-ex3-q4",
+          "japanese": "本は棚から床へ落ちた。",
+          "points": 2,
+          "sentence": "The book fell ___ the shelf ___ the floor."
+        },
+        {
+          "answers": [
+            "within",
+            "worth"
+          ],
+          "completedSentence": "Please decide within two days whether the camera is worth the asking price.",
+          "id": "set12-ex3-q5",
+          "japanese": "そのカメラが希望価格に見合うかどうかを2日以内に判断してください。",
+          "points": 2,
+          "sentence": "Please decide ___ two days whether the camera is ___ the asking price."
+        },
+        {
+          "answers": [
+            "via",
+            "throughout"
+          ],
+          "completedSentence": "The package traveled via Singapore and was tracked throughout the journey.",
+          "id": "set12-ex3-q6",
+          "japanese": "その荷物はシンガポール経由で運ばれ、輸送中ずっと追跡された。",
+          "points": 2,
+          "sentence": "The package traveled ___ Singapore and was tracked ___ the journey."
+        },
+        {
+          "answers": [
+            "toward",
+            "despite"
+          ],
+          "completedSentence": "The crowd moved toward the gate despite the rain.",
+          "id": "set12-ex3-q7",
+          "japanese": "雨にもかかわらず、人々は門の方へ進んだ。",
+          "points": 2,
+          "sentence": "The crowd moved ___ the gate ___ the rain."
+        },
+        {
+          "answers": [
+            "as",
+            "despite"
+          ],
+          "completedSentence": "He answered the reporters’ questions as spokesperson despite the pressure.",
+          "id": "set12-ex3-q8",
+          "japanese": "重圧にもかかわらず、彼は広報担当者として記者の質問に答えた。",
+          "points": 2,
+          "sentence": "He answered the reporters’ questions ___ spokesperson ___ the pressure."
+        },
+        {
+          "answers": [
+            "throughout",
+            "despite"
+          ],
+          "completedSentence": "The team stayed calm throughout the match despite the injuries.",
+          "id": "set12-ex3-q9",
+          "japanese": "けがにもかかわらず、チームは試合中ずっと落ち着いていた。",
+          "points": 2,
+          "sentence": "The team stayed calm ___ the match ___ the injuries."
+        },
+        {
+          "answers": [
+            "except",
+            "within"
+          ],
+          "completedSentence": "All the buses except one returned within ten minutes of the scheduled time.",
+          "id": "set12-ex3-q10",
+          "japanese": "1台を除くすべてのバスが予定時刻から10分以内に戻った。",
+          "points": 2,
+          "sentence": "All the buses ___ one returned ___ ten minutes of the scheduled time."
+        },
+        {
+          "answers": [
+            "worth",
+            "despite"
+          ],
+          "completedSentence": "The book is worth reading despite its length.",
+          "id": "set12-ex3-q11",
+          "japanese": "長いにもかかわらず、その本は読む価値がある。",
+          "points": 2,
+          "sentence": "The book is ___ reading ___ its length."
+        },
+        {
+          "answers": [
+            "onto",
+            "via"
+          ],
+          "completedSentence": "The cat climbed onto the balcony via a nearby tree.",
+          "id": "set12-ex3-q12",
+          "japanese": "猫は近くの木を伝ってバルコニーの上によじ登った。",
+          "points": 2,
+          "sentence": "The cat climbed ___ the balcony ___ a nearby tree."
+        },
+        {
+          "answers": [
+            "off",
+            "throughout"
+          ],
+          "completedSentence": "Snow slid off the roof throughout the morning.",
+          "id": "set12-ex3-q13",
+          "japanese": "雪は午前中ずっと屋根から滑り落ちた。",
+          "points": 2,
+          "sentence": "Snow slid ___ the roof ___ the morning."
+        },
+        {
+          "answers": [
+            "onto",
+            "despite"
+          ],
+          "completedSentence": "The cat leaped onto the sofa despite the loud noise.",
+          "id": "set12-ex3-q14",
+          "japanese": "大きな音にもかかわらず、猫はソファーの上へ飛び乗った。",
+          "points": 2,
+          "sentence": "The cat leaped ___ the sofa ___ the loud noise."
+        },
+        {
+          "answers": [
+            "toward",
+            "worth"
+          ],
+          "completedSentence": "She turned toward a painting worth several million yen.",
+          "id": "set12-ex3-q15",
+          "japanese": "彼女は数百万円の価値がある絵の方を向いた。",
+          "points": 2,
+          "sentence": "She turned ___ a painting ___ several million yen."
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 14,
+        "threeStars": 26,
+        "twoStars": 20
+      },
+      "title": "Exercise 3",
+      "totalPoints": 30,
+      "version": "restructured-v1"
+    },
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set12-ex4",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "answers": [
+            "despite",
+            "throughout"
+          ],
+          "completedSentence": "Despite the delay, the train ran throughout the night.",
+          "id": "set12-ex4-q1",
+          "japanese": "遅れにもかかわらず、列車は夜通し走った。",
+          "points": 2,
+          "sentence": "___ the delay, the train ran ___ the night."
+        },
+        {
+          "answers": [
+            "as",
+            "throughout"
+          ],
+          "completedSentence": "He worked as a volunteer throughout the event.",
+          "id": "set12-ex4-q2",
+          "japanese": "彼は行事中ずっとボランティアとして働いた。",
+          "points": 2,
+          "sentence": "He worked ___ a volunteer ___ the event."
+        },
+        {
+          "answers": [
+            "except",
+            "worth"
+          ],
+          "completedSentence": "Everyone except Aya believed the painting was worth several million yen.",
+          "id": "set12-ex4-q3",
+          "japanese": "アヤ以外は全員、その絵には数百万円の価値があると考えた。",
+          "points": 2,
+          "sentence": "Everyone ___ Aya believed the painting was ___ several million yen."
+        },
+        {
+          "answers": [
+            "off",
+            "onto"
+          ],
+          "completedSentence": "The phone slipped off the desk onto the rug.",
+          "id": "set12-ex4-q4",
+          "japanese": "携帯電話は机から敷物の上へ滑り落ちた。",
+          "points": 2,
+          "sentence": "The phone slipped ___ the desk ___ the rug."
+        },
+        {
+          "answers": [
+            "worth",
+            "within"
+          ],
+          "completedSentence": "The museum is worth a visit and lies within five kilometers of campus.",
+          "id": "set12-ex4-q5",
+          "japanese": "その博物館は訪れる価値があり、大学から5キロ以内にある。",
+          "points": 2,
+          "sentence": "The museum is ___ a visit and lies ___ five kilometers of campus."
+        },
+        {
+          "answers": [
+            "via",
+            "throughout"
+          ],
+          "completedSentence": "We traveled to Osaka via Nagoya and talked throughout the trip.",
+          "id": "set12-ex4-q6",
+          "japanese": "私たちは名古屋経由で大阪へ行き、旅行中ずっと話していた。",
+          "points": 2,
+          "sentence": "We traveled to Osaka ___ Nagoya and talked ___ the trip."
+        },
+        {
+          "answers": [
+            "toward",
+            "despite"
+          ],
+          "completedSentence": "We drove toward the coast despite the fog.",
+          "id": "set12-ex4-q7",
+          "japanese": "霧にもかかわらず、海岸の方へ車で進んだ。",
+          "points": 2,
+          "sentence": "We drove ___ the coast ___ the fog."
+        },
+        {
+          "answers": [
+            "as",
+            "despite"
+          ],
+          "completedSentence": "She spoke as class representative despite her fear.",
+          "id": "set12-ex4-q8",
+          "japanese": "恐れにもかかわらず、彼女はクラス代表として話した。",
+          "points": 2,
+          "sentence": "She spoke ___ class representative ___ her fear."
+        },
+        {
+          "answers": [
+            "throughout",
+            "despite"
+          ],
+          "completedSentence": "Music continued throughout the ceremony despite problems with the sound system.",
+          "id": "set12-ex4-q9",
+          "japanese": "音響設備の問題にもかかわらず、式典中ずっと音楽が流れた。",
+          "points": 2,
+          "sentence": "Music continued ___ the ceremony ___ problems with the sound system."
+        },
+        {
+          "answers": [
+            "except",
+            "within"
+          ],
+          "completedSentence": "Every participant except Ken arrived within ten minutes of the scheduled time.",
+          "id": "set12-ex4-q10",
+          "japanese": "ケンを除く参加者全員が予定時刻から10分以内に到着した。",
+          "points": 2,
+          "sentence": "Every participant ___ Ken arrived ___ ten minutes of the scheduled time."
+        },
+        {
+          "answers": [
+            "worth",
+            "despite"
+          ],
+          "completedSentence": "The proposal is worth considering despite the objections.",
+          "id": "set12-ex4-q11",
+          "japanese": "反対意見にもかかわらず、その提案は検討する価値がある。",
+          "points": 2,
+          "sentence": "The proposal is ___ considering ___ the objections."
+        },
+        {
+          "answers": [
+            "onto",
+            "via"
+          ],
+          "completedSentence": "We moved the books onto the high shelf via a ladder.",
+          "id": "set12-ex4-q12",
+          "japanese": "私たちははしごを使って本を高い棚の上へ移した。",
+          "points": 2,
+          "sentence": "We moved the books ___ the high shelf ___ a ladder."
+        },
+        {
+          "answers": [
+            "off",
+            "throughout"
+          ],
+          "completedSentence": "Rainwater ran off the roof throughout the evening.",
+          "id": "set12-ex4-q13",
+          "japanese": "雨水は夕方ずっと屋根から流れ落ちた。",
+          "points": 2,
+          "sentence": "Rainwater ran ___ the roof ___ the evening."
+        },
+        {
+          "answers": [
+            "onto",
+            "off"
+          ],
+          "completedSentence": "The child jumped onto the bed and rolled off it.",
+          "id": "set12-ex4-q14",
+          "japanese": "その子どもはベッドの上へ飛び乗り、そこから転がり落ちた。",
+          "points": 2,
+          "sentence": "The child jumped ___ the bed and rolled ___ it."
+        },
+        {
+          "answers": [
+            "toward",
+            "despite"
+          ],
+          "completedSentence": "They walked toward the lights despite the darkness.",
+          "id": "set12-ex4-q15",
+          "japanese": "暗闇にもかかわらず、彼らは明かりの方へ歩いた。",
+          "points": 2,
+          "sentence": "They walked ___ the lights ___ the darkness."
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 14,
+        "threeStars": 26,
+        "twoStars": 20
+      },
+      "title": "Exercise 4",
+      "totalPoints": 30,
+      "version": "restructured-v1"
+    }
+  ],
+  "id": "set12",
+  "number": 12,
+  "shortTitle": "Role & Limit Pairs",
+  "sourceSets": [
+    4
+  ],
+  "title": "Roles, Contrast, and Limit Pairs",
+  "wordBankStrategy": "exercise-specific",
+  "wordBank": [
+    "as",
+    "despite",
+    "except",
+    "off",
+    "onto",
+    "throughout",
+    "toward",
+    "via",
+    "within",
+    "worth"
+  ]
+}

@@ -1,1 +1,805 @@
-{"id":"set15","number":15,"title":"Mixed Preposition Triples","shortTitle":"Mixed Triples","description":"Practice three prepositional phrases selected from Sets 1–5.","sourceSets":[1,2,3,4,5],"allowedPrepositions":["about","above","across","after","against","along","among","around","as","at","before","behind","below","beside","besides","between","beyond","by","despite","down","during","except","for","from","in","inside","into","like","near","of","off","on","onto","outside","over","past","since","through","throughout","to","toward","under","underneath","until","up","via","with","within","without","worth"],"wordBankStrategy":"exercise-specific","exercises":[{"id":"set15-ex1","title":"Exercise 1","version":"draft-2026-07-15-1","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":45,"starThresholds":{"threeStars":39,"twoStars":30,"oneStar":21},"wordBank":["about","across","after","as","at","before","beside","despite","for","from","in","into","near","on","outside","through","toward","via","with","worth"],"questions":[{"id":"set15-ex1-q1","sentence":"We met ___ noon ___ the station ___ class.","answers":["at","near","after"],"completedSentence":"We met at noon near the station after class.","japanese":"授業後、駅の近くで正午に会った。","points":3},{"id":"set15-ex1-q2","sentence":"She arrived ___ Monday ___ her sister ___ lunch.","answers":["on","with","before"],"completedSentence":"She arrived on Monday with her sister before lunch.","japanese":"彼女は月曜日、昼食前に姉妹と一緒に到着した。","points":3},{"id":"set15-ex1-q3","sentence":"We studied ___ two hours ___ the library ___ the window.","answers":["for","in","beside"],"completedSentence":"We studied for two hours in the library beside the window.","japanese":"図書館の窓のそばで2時間勉強した。","points":3},{"id":"set15-ex1-q4","sentence":"The dog ran ___ the field ___ the woods ___ its owner.","answers":["across","into","with"],"completedSentence":"The dog ran across the field into the woods with its owner.","japanese":"犬は飼い主と野原を横切って森へ走り込んだ。","points":3},{"id":"set15-ex1-q5","sentence":"The package came ___ Osaka ___ Tokyo ___ Friday.","answers":["from","via","on"],"completedSentence":"The package came from Osaka via Tokyo on Friday.","japanese":"荷物は金曜日に東京経由で大阪から届いた。","points":3},{"id":"set15-ex1-q6","sentence":"___ the rain, we walked ___ the station ___ the hall.","answers":["despite","toward","into"],"completedSentence":"despite the rain, we walked toward the station into the hall.","japanese":"雨にもかかわらず、駅の方へ歩いてホールに入った。","points":3},{"id":"set15-ex1-q7","sentence":"He spoke ___ the project ___ a guide ___ the meeting.","answers":["about","as","before"],"completedSentence":"He spoke about the project as a guide before the meeting.","japanese":"彼は会議前にガイドとしてプロジェクトについて話した。","points":3},{"id":"set15-ex1-q8","sentence":"We waited ___ the café ___ an hour ___ noon.","answers":["outside","for","at"],"completedSentence":"We waited outside the café for an hour at noon.","japanese":"カフェの外で正午に1時間待った。","points":3},{"id":"set15-ex1-q9","sentence":"The film is ___ seeing ___ classmates ___ the weekend.","answers":["worth","with","on"],"completedSentence":"The film is worth seeing with classmates on the weekend.","japanese":"その映画は週末にクラスメートと見る価値がある。","points":3},{"id":"set15-ex1-q10","sentence":"She walked ___ the park ___ the bridge ___ dinner.","answers":["across","toward","after"],"completedSentence":"She walked across the park toward the bridge after dinner.","japanese":"彼女は夕食後、公園を横切って橋の方へ歩いた。","points":3},{"id":"set15-ex1-q11","sentence":"The train came ___ Kyoto ___ a tunnel ___ Osaka.","answers":["from","through","toward"],"completedSentence":"The train came from Kyoto through a tunnel toward Osaka.","japanese":"列車は京都からトンネルを通って大阪の方へ進んだ。","points":3},{"id":"set15-ex1-q12","sentence":"We studied ___ the classroom ___ the door ___ lunch.","answers":["in","near","before"],"completedSentence":"We studied in the classroom near the door before lunch.","japanese":"昼食前、教室のドアの近くで勉強した。","points":3},{"id":"set15-ex1-q13","sentence":"He worked ___ a volunteer ___ the festival ___ two days.","answers":["as","at","for"],"completedSentence":"He worked as a volunteer at the festival for two days.","japanese":"彼は祭りで2日間ボランティアとして働いた。","points":3},{"id":"set15-ex1-q14","sentence":"The cyclist rode ___ the gate ___ the road ___ the station.","answers":["through","across","toward"],"completedSentence":"The cyclist rode through the gate across the road toward the station.","japanese":"自転車の人は門を通り、道路を横切って駅の方へ進んだ。","points":3},{"id":"set15-ex1-q15","sentence":"___ the cold, they waited ___ the building ___ the entrance.","answers":["despite","outside","near"],"completedSentence":"despite the cold, they waited outside the building near the entrance.","japanese":"寒さにもかかわらず、彼らは建物の外で入口の近くに待っていた。","points":3}]},{"id":"set15-ex2","title":"Exercise 2","version":"draft-2026-07-15-2","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":45,"starThresholds":{"threeStars":39,"twoStars":30,"oneStar":21},"wordBank":["above","against","along","behind","below","between","by","during","off","onto","over","since","throughout","to","under","underneath","until","within","without"],"questions":[{"id":"set15-ex2-q1","sentence":"Submit the report ___ Friday ___ the word limit ___ help.","answers":["by","within","without"],"completedSentence":"Submit the report by Friday within the word limit without help.","japanese":"助けなしで字数制限内にレポートを金曜日までに提出すること。","points":3},{"id":"set15-ex2-q2","sentence":"We stayed quiet ___ the exam ___ noon ___ the building.","answers":["during","until","throughout"],"completedSentence":"We stayed quiet during the exam until noon throughout the building.","japanese":"建物全体で、正午まで試験中は静かにしていた。","points":3},{"id":"set15-ex2-q3","sentence":"The clock hangs ___ the door ___ the counter ___ two signs.","answers":["above","behind","between"],"completedSentence":"The clock hangs above the door behind the counter between two signs.","japanese":"時計はカウンターの後ろで二つの標識の間にあるドアの上に掛かっている。","points":3},{"id":"set15-ex2-q4","sentence":"The bag is ___ the desk ___ the shelf ___ the window.","answers":["under","underneath","below"],"completedSentence":"The bag is under the desk underneath the shelf below the window.","japanese":"かばんは机の下、棚の真下で窓より下にある。","points":3},{"id":"set15-ex2-q5","sentence":"The road runs ___ the coast ___ the bridge ___ the village.","answers":["along","over","to"],"completedSentence":"The road runs along the coast over the bridge to the village.","japanese":"道路は海岸に沿い、橋を越えて村まで続いている。","points":3},{"id":"set15-ex2-q6","sentence":"The team voted ___ the plan ___ the meeting ___ hesitation.","answers":["against","during","without"],"completedSentence":"The team voted against the plan during the meeting without hesitation.","japanese":"チームは会議中、ためらわずにその計画に反対票を投じた。","points":3},{"id":"set15-ex2-q7","sentence":"The cat jumped ___ the sofa ___ the floor ___ the table.","answers":["off","onto","under"],"completedSentence":"The cat jumped off the sofa onto the floor under the table.","japanese":"猫はソファーから床へ飛び降り、テーブルの下に入った。","points":3},{"id":"set15-ex2-q8","sentence":"She has lived ___ the station ___ 2023 ___ the city limits.","answers":["behind","since","within"],"completedSentence":"She has lived behind the station since 2023 within the city limits.","japanese":"彼女は2023年から市内の駅の後ろに住んでいる。","points":3},{"id":"set15-ex2-q9","sentence":"The bridge stretches ___ the river ___ the towns ___ the castle.","answers":["over","between","below"],"completedSentence":"The bridge stretches over the river between the towns below the castle.","japanese":"橋は城の下で二つの町の間を流れる川の上に架かっている。","points":3},{"id":"set15-ex2-q10","sentence":"Lights shone ___ the event ___ midnight ___ the stage.","answers":["throughout","until","above"],"completedSentence":"Lights shone throughout the event until midnight above the stage.","japanese":"行事中ずっと、舞台の上の照明は深夜まで輝いていた。","points":3},{"id":"set15-ex2-q11","sentence":"The train traveled ___ Kyoto ___ the river ___ the highway.","answers":["to","along","underneath"],"completedSentence":"The train traveled to Kyoto along the river underneath the highway.","japanese":"列車は川に沿い、高速道路の下を通って京都へ向かった。","points":3},{"id":"set15-ex2-q12","sentence":"The sign fell ___ the wall ___ the desk ___ the storm.","answers":["off","onto","during"],"completedSentence":"The sign fell off the wall onto the desk during the storm.","japanese":"嵐の間に標識が壁から机の上へ落ちた。","points":3},{"id":"set15-ex2-q13","sentence":"He worked ___ a break ___ noon ___ the afternoon.","answers":["without","since","throughout"],"completedSentence":"He worked without a break since noon throughout the afternoon.","japanese":"彼は正午から午後ずっと休憩なしで働いた。","points":3},{"id":"set15-ex2-q14","sentence":"The path goes ___ the bridge ___ the station ___ the park.","answers":["under","behind","to"],"completedSentence":"The path goes under the bridge behind the station to the park.","japanese":"小道は駅の後ろにある橋の下を通って公園へ続いている。","points":3},{"id":"set15-ex2-q15","sentence":"The ball rolled ___ the chairs ___ the table ___ the wall.","answers":["between","below","against"],"completedSentence":"The ball rolled between the chairs below the table against the wall.","japanese":"ボールは椅子の間を転がり、テーブルの下で壁に当たった。","points":3}]},{"id":"set15-ex3","title":"Exercise 3","version":"draft-2026-07-15-3","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":45,"starThresholds":{"threeStars":39,"twoStars":30,"oneStar":21},"wordBank":["among","around","besides","beyond","down","except","from","in","inside","into","like","near","of","on","outside","past","through","toward","up","via","with","worth"],"questions":[{"id":"set15-ex3-q1","sentence":"___ English, she studies French ___ an app ___ her sister.","answers":["besides","via","with"],"completedSentence":"besides English, she studies French via an app with her sister.","japanese":"英語のほかに、彼女は姉妹とアプリでフランス語も勉強している。","points":3},{"id":"set15-ex3-q2","sentence":"The village lies ___ the river ___ the valley ___ the city.","answers":["beyond","down","outside"],"completedSentence":"The village lies beyond the river down the valley outside the city.","japanese":"その村は町の外で谷を下った川の向こうにある。","points":3},{"id":"set15-ex3-q3","sentence":"The cat ran ___ the house ___ the stairs ___ the bedroom.","answers":["inside","up","into"],"completedSentence":"The cat ran inside the house up the stairs into the bedroom.","japanese":"猫は家の中へ走り、階段を上って寝室へ入った。","points":3},{"id":"set15-ex3-q4","sentence":"Everyone ___ Ken walked ___ the station ___ the park.","answers":["except","toward","through"],"completedSentence":"Everyone except Ken walked toward the station through the park.","japanese":"ケン以外は全員、公園を通って駅の方へ歩いた。","points":3},{"id":"set15-ex3-q5","sentence":"The child danced ___ a star ___ the guests ___ the hall.","answers":["like","among","in"],"completedSentence":"The child danced like a star among the guests in the hall.","japanese":"その子どもはホールで客の中に入り、スターのように踊った。","points":3},{"id":"set15-ex3-q6","sentence":"We drove ___ the school ___ the lake ___ the hills.","answers":["past","around","toward"],"completedSentence":"We drove past the school around the lake toward the hills.","japanese":"学校の前を通り過ぎ、湖を回って丘の方へ車で進んだ。","points":3},{"id":"set15-ex3-q7","sentence":"The title ___ the book came ___ a poem ___ French.","answers":["of","from","in"],"completedSentence":"The title of the book came from a poem in French.","japanese":"その本の題名はフランス語の詩から取られた。","points":3},{"id":"set15-ex3-q8","sentence":"The museum is ___ visiting ___ weekends ___ friends.","answers":["worth","on","with"],"completedSentence":"The museum is worth visiting on weekends with friends.","japanese":"その博物館は週末に友人と訪れる価値がある。","points":3},{"id":"set15-ex3-q9","sentence":"The dog ran ___ the yard ___ the gate ___ the street.","answers":["around","past","into"],"completedSentence":"The dog ran around the yard past the gate into the street.","japanese":"犬は庭を走り回り、門を通り過ぎて通りへ出た。","points":3},{"id":"set15-ex3-q10","sentence":"___ the café, a bookstore stands ___ the station ___ the gate.","answers":["besides","near","outside"],"completedSentence":"besides the café, a bookstore stands near the station outside the gate.","japanese":"カフェのほかに、本屋が門の外で駅の近くにある。","points":3},{"id":"set15-ex3-q11","sentence":"The path continues ___ the bridge ___ the hill ___ the forest.","answers":["beyond","up","through"],"completedSentence":"The path continues beyond the bridge up the hill through the forest.","japanese":"小道は橋の先から丘を上り、森を通って続いている。","points":3},{"id":"set15-ex3-q12","sentence":"The students sat ___ the trees ___ the lake ___ silence.","answers":["among","near","in"],"completedSentence":"The students sat among the trees near the lake in silence.","japanese":"学生たちは静かに湖の近くの木々の間に座った。","points":3},{"id":"set15-ex3-q13","sentence":"Everyone ___ Aya moved ___ the hall ___ the courtyard.","answers":["except","inside","from"],"completedSentence":"Everyone except Aya moved inside the hall from the courtyard.","japanese":"アヤ以外は全員、中庭からホールの中へ移動した。","points":3},{"id":"set15-ex3-q14","sentence":"The road goes ___ the slope ___ the farm ___ the river.","answers":["down","past","toward"],"completedSentence":"The road goes down the slope past the farm toward the river.","japanese":"道路は斜面を下り、農場の前を通り過ぎて川の方へ続いている。","points":3},{"id":"set15-ex3-q15","sentence":"The cloud looked ___ a ship ___ the tower ___ the horizon.","answers":["like","beyond","on"],"completedSentence":"The cloud looked like a ship beyond the tower on the horizon.","japanese":"その雲は地平線上で塔の向こうにある船のように見えた。","points":3}]},{"id":"set15-ex4","title":"Exercise 4","version":"draft-2026-07-15-4","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":45,"starThresholds":{"threeStars":39,"twoStars":30,"oneStar":21},"wordBank":["about","after","along","at","before","between","beyond","by","despite","from","in","inside","near","on","over","past","under","up","with","without"],"questions":[{"id":"set15-ex4-q1","sentence":"We met ___ the café ___ the station ___ class.","answers":["at","near","after"],"completedSentence":"We met at the café near the station after class.","japanese":"授業後、駅の近くのカフェで会った。","points":3},{"id":"set15-ex4-q2","sentence":"She studied ___ the library ___ dinner ___ her phone.","answers":["in","before","without"],"completedSentence":"She studied in the library before dinner without her phone.","japanese":"彼女は夕食前、携帯電話なしで図書館で勉強した。","points":3},{"id":"set15-ex4-q3","sentence":"The dog ran ___ the gate ___ the hill ___ the trees.","answers":["past","up","beyond"],"completedSentence":"The dog ran past the gate up the hill beyond the trees.","japanese":"犬は門の前を通り過ぎ、丘を上って木々の向こうへ走った。","points":3},{"id":"set15-ex4-q4","sentence":"Submit the file ___ Friday ___ noon ___ errors.","answers":["by","before","without"],"completedSentence":"Submit the file by Friday before noon without errors.","japanese":"間違いなく金曜日の正午前までにファイルを提出すること。","points":3},{"id":"set15-ex4-q5","sentence":"We walked ___ the river ___ the bridge ___ the village.","answers":["along","under","beyond"],"completedSentence":"We walked along the river under the bridge beyond the village.","japanese":"川に沿って橋の下を通り、村の向こうまで歩いた。","points":3},{"id":"set15-ex4-q6","sentence":"I received a message ___ Aya ___ the meeting ___ Monday.","answers":["from","about","on"],"completedSentence":"I received a message from Aya about the meeting on Monday.","japanese":"月曜日の会議についてアヤからメッセージを受け取った。","points":3},{"id":"set15-ex4-q7","sentence":"___ the rain, they waited ___ the station ___ the exit.","answers":["despite","inside","near"],"completedSentence":"despite the rain, they waited inside the station near the exit.","japanese":"雨にもかかわらず、彼らは駅の中で出口の近くに待っていた。","points":3},{"id":"set15-ex4-q8","sentence":"The plane flew ___ the city ___ the clouds ___ sunset.","answers":["over","between","after"],"completedSentence":"The plane flew over the city between the clouds after sunset.","japanese":"飛行機は日没後、雲の間を町の上空へ飛んだ。","points":3},{"id":"set15-ex4-q9","sentence":"He worked ___ Ken ___ the office ___ Friday.","answers":["with","in","on"],"completedSentence":"He worked with Ken in the office on Friday.","japanese":"彼は金曜日に事務室でケンと働いた。","points":3},{"id":"set15-ex4-q10","sentence":"The child hid ___ the table ___ two chairs ___ speaking.","answers":["under","between","without"],"completedSentence":"The child hid under the table between two chairs without speaking.","japanese":"その子どもは何も言わずに二脚の椅子の間にあるテーブルの下に隠れた。","points":3},{"id":"set15-ex4-q11","sentence":"The bus went ___ the school ___ the coast ___ lunch.","answers":["past","along","before"],"completedSentence":"The bus went past the school along the coast before lunch.","japanese":"バスは昼食前に学校の前を通り過ぎ、海岸に沿って進んだ。","points":3},{"id":"set15-ex4-q12","sentence":"We arrived ___ noon ___ Kyoto ___ a short delay.","answers":["at","from","after"],"completedSentence":"We arrived at noon from Kyoto after a short delay.","japanese":"少し遅れた後、京都から正午に到着した。","points":3},{"id":"set15-ex4-q13","sentence":"She read ___ the museum ___ the café ___ Sunday.","answers":["about","inside","on"],"completedSentence":"She read about the museum inside the café on Sunday.","japanese":"彼女は日曜日にカフェの中で博物館について読んだ。","points":3},{"id":"set15-ex4-q14","sentence":"___ the wind, the hikers climbed ___ the trail ___ the bridge.","answers":["despite","up","beyond"],"completedSentence":"despite the wind, the hikers climbed up the trail beyond the bridge.","japanese":"風にもかかわらず、登山者たちは小道を上り、橋の向こうまで進んだ。","points":3},{"id":"set15-ex4-q15","sentence":"Finish the form ___ Monday ___ your name ___ English.","answers":["by","with","in"],"completedSentence":"Finish the form by Monday with your name in English.","japanese":"月曜日までに英語で名前を記入して用紙を完成させること。","points":3}]}]}
+{
+  "allowedPrepositions": [
+    "about",
+    "above",
+    "across",
+    "after",
+    "against",
+    "along",
+    "among",
+    "around",
+    "as",
+    "at",
+    "before",
+    "behind",
+    "below",
+    "beside",
+    "besides",
+    "between",
+    "beyond",
+    "by",
+    "despite",
+    "down",
+    "during",
+    "except",
+    "for",
+    "from",
+    "in",
+    "inside",
+    "into",
+    "like",
+    "near",
+    "of",
+    "off",
+    "on",
+    "onto",
+    "outside",
+    "over",
+    "past",
+    "since",
+    "through",
+    "throughout",
+    "to",
+    "toward",
+    "under",
+    "underneath",
+    "until",
+    "up",
+    "via",
+    "with",
+    "within",
+    "without",
+    "worth"
+  ],
+  "description": "Practice two prepositions with clearly differentiated meanings in each item.",
+  "exercises": [
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set15-ex1",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "id": "set15-ex1-q1",
+          "sentence": "___ class, Emi stood ___ her classmates.",
+          "answers": [
+            "after",
+            "among"
+          ],
+          "completedSentence": "After class, Emi stood among her classmates.",
+          "japanese": "授業後、エミはクラスメートたちの中に立っていた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q2",
+          "sentence": "___ a staff shortage, Mika worked ___ a guide.",
+          "answers": [
+            "because of",
+            "as"
+          ],
+          "completedSentence": "Because of a staff shortage, Mika worked as a guide.",
+          "japanese": "人手不足のため、ミカはガイドとして働いた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q3",
+          "sentence": "___ Sunday, the bus runs six times ___ day.",
+          "answers": [
+            "except for",
+            "per"
+          ],
+          "completedSentence": "Except for Sunday, the bus runs six times per day.",
+          "japanese": "日曜日を除き、バスは1日6便運行している。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q4",
+          "sentence": "She walked ___ a café ___ the station.",
+          "answers": [
+            "into",
+            "opposite"
+          ],
+          "completedSentence": "She walked into a café opposite the station.",
+          "japanese": "彼女は駅の向かいにあるカフェへ入った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q5",
+          "sentence": "___ the alarm sounded, firefighters arrived ___ five minutes.",
+          "answers": [
+            "after",
+            "within"
+          ],
+          "completedSentence": "After the alarm sounded, firefighters arrived within five minutes.",
+          "japanese": "警報が鳴った後、消防隊は5分以内に到着した。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q6",
+          "sentence": "___ a road closure, we traveled ___ Nagoya.",
+          "answers": [
+            "because of",
+            "via"
+          ],
+          "completedSentence": "Because of a road closure, we traveled via Nagoya.",
+          "japanese": "通行止めのため、私たちは名古屋経由で移動した。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q7",
+          "sentence": "The pharmacy ___ the hospital is ___ a five-minute walk of the station.",
+          "answers": [
+            "opposite",
+            "within"
+          ],
+          "completedSentence": "The pharmacy opposite the hospital is within a five-minute walk of the station.",
+          "japanese": "病院の向かいにある薬局は、駅から徒歩5分以内である。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q8",
+          "sentence": "___ the students, everyone ___ Ken passed.",
+          "answers": [
+            "among",
+            "except for"
+          ],
+          "completedSentence": "Among the students, everyone except for Ken passed.",
+          "japanese": "学生の中では、ケンを除く全員が合格した。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q9",
+          "sentence": "The delivery truck drives ___ the warehouse six times ___ day.",
+          "answers": [
+            "into",
+            "per"
+          ],
+          "completedSentence": "The delivery truck drives into the warehouse six times per day.",
+          "japanese": "配送トラックは1日6回倉庫に入る。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q10",
+          "sentence": "___ team leader, she sent the update ___ email.",
+          "answers": [
+            "as",
+            "via"
+          ],
+          "completedSentence": "As team leader, she sent the update via email.",
+          "japanese": "チームリーダーとして、彼女はメールで最新情報を送った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q11",
+          "sentence": "___ the approaching deadline, finish the task ___ one hour.",
+          "answers": [
+            "because of",
+            "within"
+          ],
+          "completedSentence": "Because of the approaching deadline, finish the task within one hour.",
+          "japanese": "締め切りが迫っているため、1時間以内に作業を終えること。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q12",
+          "sentence": "___ the bell rang, the students went ___ the classroom.",
+          "answers": [
+            "after",
+            "into"
+          ],
+          "completedSentence": "After the bell rang, the students went into the classroom.",
+          "japanese": "ベルが鳴った後、学生たちは教室に入った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q13",
+          "sentence": "___ the applicants, the finalists were selected ___ online interviews.",
+          "answers": [
+            "among",
+            "via"
+          ],
+          "completedSentence": "Among the applicants, the finalists were selected via online interviews.",
+          "japanese": "応募者の中から、オンライン面接によって最終候補者が選ばれた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q14",
+          "sentence": "All the stores ___ the café ___ the station were closed.",
+          "answers": [
+            "except for",
+            "opposite"
+          ],
+          "completedSentence": "All the stores except for the café opposite the station were closed.",
+          "japanese": "駅の向かいにあるカフェを除き、すべての店が閉まっていた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex1-q15",
+          "sentence": "Three buses ___ hour operate ___ the city center.",
+          "answers": [
+            "per",
+            "within"
+          ],
+          "completedSentence": "Three buses per hour operate within the city center.",
+          "japanese": "市中心部では1時間に3本のバスが運行している。",
+          "points": 2
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 14,
+        "twoStars": 20,
+        "threeStars": 26
+      },
+      "title": "Exercise 1",
+      "totalPoints": 30,
+      "version": "restructured-v1"
+    },
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set15-ex2",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "id": "set15-ex2-q1",
+          "sentence": "___ the meeting, Ken remained ___ the volunteers.",
+          "answers": [
+            "after",
+            "among"
+          ],
+          "completedSentence": "After the meeting, Ken remained among the volunteers.",
+          "japanese": "会議後、ケンはボランティアたちの中に残った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q2",
+          "sentence": "___ the rain, the gym was used ___ the event venue.",
+          "answers": [
+            "because of",
+            "as"
+          ],
+          "completedSentence": "Because of the rain, the gym was used as the event venue.",
+          "japanese": "雨のため、体育館が行事会場として使われた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q3",
+          "sentence": "___ holidays, the clinic sees 40 patients ___ day.",
+          "answers": [
+            "except for",
+            "per"
+          ],
+          "completedSentence": "Except for holidays, the clinic sees 40 patients per day.",
+          "japanese": "休日を除き、その診療所は1日40人の患者を診察する。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q4",
+          "sentence": "He drove ___ a garage ___ the library.",
+          "answers": [
+            "into",
+            "opposite"
+          ],
+          "completedSentence": "He drove into a garage opposite the library.",
+          "japanese": "彼は図書館の向かいにある車庫へ車で入った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q5",
+          "sentence": "___ you submit the form, you will receive a reply ___ two days.",
+          "answers": [
+            "after",
+            "within"
+          ],
+          "completedSentence": "After you submit the form, you will receive a reply within two days.",
+          "japanese": "用紙を提出した後、2日以内に返事が届く。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q6",
+          "sentence": "___ the canceled direct flight, we flew ___ Seoul.",
+          "answers": [
+            "because of",
+            "via"
+          ],
+          "completedSentence": "Because of the canceled direct flight, we flew via Seoul.",
+          "japanese": "直行便が欠航したため、ソウル経由で飛んだ。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q7",
+          "sentence": "The café ___ the library is ___ the campus grounds.",
+          "answers": [
+            "opposite",
+            "within"
+          ],
+          "completedSentence": "The café opposite the library is within the campus grounds.",
+          "japanese": "図書館の向かいにあるカフェはキャンパス内にある。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q8",
+          "sentence": "___ these books, all ___ the dictionary are new.",
+          "answers": [
+            "among",
+            "except for"
+          ],
+          "completedSentence": "Among these books, all except for the dictionary are new.",
+          "japanese": "これらの本の中では、辞書を除くすべてが新品である。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q9",
+          "sentence": "Visitors move ___ the hall at a rate of 200 ___ hour.",
+          "answers": [
+            "into",
+            "per"
+          ],
+          "completedSentence": "Visitors move into the hall at a rate of 200 per hour.",
+          "japanese": "来場者は1時間に200人の割合でホールに入る。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q10",
+          "sentence": "___ our guide, Ken communicated with us ___ an app.",
+          "answers": [
+            "as",
+            "via"
+          ],
+          "completedSentence": "As our guide, Ken communicated with us via an app.",
+          "japanese": "私たちのガイドとして、ケンはアプリを通じて連絡を取った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q11",
+          "sentence": "___ the storm, everyone moved indoors ___ ten minutes.",
+          "answers": [
+            "because of",
+            "within"
+          ],
+          "completedSentence": "Because of the storm, everyone moved indoors within ten minutes.",
+          "japanese": "嵐のため、全員が10分以内に屋内へ移動した。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q12",
+          "sentence": "___ the rain stopped, the children ran ___ the park.",
+          "answers": [
+            "after",
+            "into"
+          ],
+          "completedSentence": "After the rain stopped, the children ran into the park.",
+          "japanese": "雨がやんだ後、子どもたちは公園へ走って入った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q13",
+          "sentence": "___ the entries, the winner was chosen ___ an online vote.",
+          "answers": [
+            "among",
+            "via"
+          ],
+          "completedSentence": "Among the entries, the winner was chosen via an online vote.",
+          "japanese": "応募作品の中から、オンライン投票によって優勝者が選ばれた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q14",
+          "sentence": "Every seat ___ the one ___ the door was occupied.",
+          "answers": [
+            "except for",
+            "opposite"
+          ],
+          "completedSentence": "Every seat except for the one opposite the door was occupied.",
+          "japanese": "ドアの向かいの席を除き、すべて埋まっていた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex2-q15",
+          "sentence": "Two deliveries ___ day are made ___ the campus.",
+          "answers": [
+            "per",
+            "within"
+          ],
+          "completedSentence": "Two deliveries per day are made within the campus.",
+          "japanese": "大学構内では1日2回配達が行われる。",
+          "points": 2
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 14,
+        "twoStars": 20,
+        "threeStars": 26
+      },
+      "title": "Exercise 2",
+      "totalPoints": 30,
+      "version": "restructured-v1"
+    },
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set15-ex3",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "id": "set15-ex3-q1",
+          "sentence": "___ the ceremony, the teacher walked ___ the guests.",
+          "answers": [
+            "after",
+            "among"
+          ],
+          "completedSentence": "After the ceremony, the teacher walked among the guests.",
+          "japanese": "式典後、先生は来賓の間を歩いた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q2",
+          "sentence": "___ the captain's absence, Ken served ___ team leader.",
+          "answers": [
+            "because of",
+            "as"
+          ],
+          "completedSentence": "Because of the captain's absence, Ken served as team leader.",
+          "japanese": "主将が不在だったため、ケンがチームリーダーを務めた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q3",
+          "sentence": "___ August, the museum holds two tours ___ week.",
+          "answers": [
+            "except for",
+            "per"
+          ],
+          "completedSentence": "Except for August, the museum holds two tours per week.",
+          "japanese": "8月を除き、その博物館では週2回ツアーが行われる。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q4",
+          "sentence": "The child ran ___ a shop ___ the bank.",
+          "answers": [
+            "into",
+            "opposite"
+          ],
+          "completedSentence": "The child ran into a shop opposite the bank.",
+          "japanese": "その子どもは銀行の向かいにある店へ走って入った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q5",
+          "sentence": "___ the train arrived, we reached the hotel ___ ten minutes.",
+          "answers": [
+            "after",
+            "within"
+          ],
+          "completedSentence": "After the train arrived, we reached the hotel within ten minutes.",
+          "japanese": "列車が到着した後、私たちは10分以内にホテルに着いた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q6",
+          "sentence": "___ repairs to the bridge, the bus went ___ the coastal road.",
+          "answers": [
+            "because of",
+            "via"
+          ],
+          "completedSentence": "Because of repairs to the bridge, the bus went via the coastal road.",
+          "japanese": "橋の修理のため、バスは海岸沿いの道路を経由した。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q7",
+          "sentence": "The office ___ the elevator is ___ 20 meters of the entrance.",
+          "answers": [
+            "opposite",
+            "within"
+          ],
+          "completedSentence": "The office opposite the elevator is within 20 meters of the entrance.",
+          "japanese": "エレベーターの向かいにある事務室は入口から20メートル以内にある。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q8",
+          "sentence": "___ the shops, all ___ the café close at six.",
+          "answers": [
+            "among",
+            "except for"
+          ],
+          "completedSentence": "Among the shops, all except for the café close at six.",
+          "japanese": "店の中では、カフェを除くすべてが6時に閉まる。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q9",
+          "sentence": "A train pulls ___ the station four times ___ hour.",
+          "answers": [
+            "into",
+            "per"
+          ],
+          "completedSentence": "A train pulls into the station four times per hour.",
+          "japanese": "列車は1時間に4本その駅に入る。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q10",
+          "sentence": "___ treasurer, Emi paid the fee ___ bank transfer.",
+          "answers": [
+            "as",
+            "via"
+          ],
+          "completedSentence": "As treasurer, Emi paid the fee via bank transfer.",
+          "japanese": "会計担当として、エミは銀行振込で料金を支払った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q11",
+          "sentence": "___ limited seating, register ___ two days.",
+          "answers": [
+            "because of",
+            "within"
+          ],
+          "completedSentence": "Because of limited seating, register within two days.",
+          "japanese": "席数が限られているため、2日以内に登録すること。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q12",
+          "sentence": "___ the doors opened, the crowd moved ___ the hall.",
+          "answers": [
+            "after",
+            "into"
+          ],
+          "completedSentence": "After the doors opened, the crowd moved into the hall.",
+          "japanese": "ドアが開いた後、人々はホールへ入った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q13",
+          "sentence": "___ the available routes, we found the shortest one ___ a navigation app.",
+          "answers": [
+            "among",
+            "via"
+          ],
+          "completedSentence": "Among the available routes, we found the shortest one via a navigation app.",
+          "japanese": "利用可能な経路の中から、ナビアプリを使って最短経路を見つけた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q14",
+          "sentence": "All the apartments ___ the one ___ the park were rented.",
+          "answers": [
+            "except for",
+            "opposite"
+          ],
+          "completedSentence": "All the apartments except for the one opposite the park were rented.",
+          "japanese": "公園の向かいの部屋を除き、すべてのアパートが貸し出されていた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex3-q15",
+          "sentence": "Admission is 500 yen ___ person for events ___ the park.",
+          "answers": [
+            "per",
+            "within"
+          ],
+          "completedSentence": "Admission is 500 yen per person for events within the park.",
+          "japanese": "公園内の行事の入場料は1人500円である。",
+          "points": 2
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 14,
+        "twoStars": 20,
+        "threeStars": 26
+      },
+      "title": "Exercise 3",
+      "totalPoints": 30,
+      "version": "restructured-v1"
+    },
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set15-ex4",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "id": "set15-ex4-q1",
+          "sentence": "___ lunch, Aya sat ___ her friends.",
+          "answers": [
+            "after",
+            "among"
+          ],
+          "completedSentence": "After lunch, Aya sat among her friends.",
+          "japanese": "昼食後、アヤは友人たちの中に座った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q2",
+          "sentence": "___ the delay, the waiting area was used ___ a classroom.",
+          "answers": [
+            "because of",
+            "as"
+          ],
+          "completedSentence": "Because of the delay, the waiting area was used as a classroom.",
+          "japanese": "遅延のため、待合場所が教室として使われた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q3",
+          "sentence": "___ exam week, students may borrow three books ___ week.",
+          "answers": [
+            "except for",
+            "per"
+          ],
+          "completedSentence": "Except for exam week, students may borrow three books per week.",
+          "japanese": "試験期間を除き、学生は週に3冊まで借りられる。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q4",
+          "sentence": "They carried the boxes ___ an office ___ the elevator.",
+          "answers": [
+            "into",
+            "opposite"
+          ],
+          "completedSentence": "They carried the boxes into an office opposite the elevator.",
+          "japanese": "彼らはエレベーターの向かいにある事務室へ箱を運び入れた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q5",
+          "sentence": "___ the exam began, she finished it ___ an hour.",
+          "answers": [
+            "after",
+            "within"
+          ],
+          "completedSentence": "After the exam began, she finished it within an hour.",
+          "japanese": "試験が始まった後、彼女は1時間以内に終えた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q6",
+          "sentence": "___ a problem with the website, I sent the form ___ email.",
+          "answers": [
+            "because of",
+            "via"
+          ],
+          "completedSentence": "Because of a problem with the website, I sent the form via email.",
+          "japanese": "ウェブサイトの問題のため、私はメールで用紙を送った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q7",
+          "sentence": "The bus stop ___ the post office is ___ walking distance of the park.",
+          "answers": [
+            "opposite",
+            "within"
+          ],
+          "completedSentence": "The bus stop opposite the post office is within walking distance of the park.",
+          "japanese": "郵便局の向かいにあるバス停は公園から歩ける距離にある。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q8",
+          "sentence": "___ the proposals, all ___ one were accepted.",
+          "answers": [
+            "among",
+            "except for"
+          ],
+          "completedSentence": "Among the proposals, all except for one were accepted.",
+          "japanese": "提案の中では、一つを除いてすべて採用された。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q9",
+          "sentence": "The nurse goes ___ each room twice ___ shift.",
+          "answers": [
+            "into",
+            "per"
+          ],
+          "completedSentence": "The nurse goes into each room twice per shift.",
+          "japanese": "看護師は1勤務につき2回、各病室に入る。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q10",
+          "sentence": "___ class representative, Aya joined the meeting ___ video link.",
+          "answers": [
+            "as",
+            "via"
+          ],
+          "completedSentence": "As class representative, Aya joined the meeting via video link.",
+          "japanese": "クラス代表として、アヤはビデオリンクを通じて会議に参加した。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q11",
+          "sentence": "___ the power failure, technicians restored service ___ an hour.",
+          "answers": [
+            "because of",
+            "within"
+          ],
+          "completedSentence": "Because of the power failure, technicians restored service within an hour.",
+          "japanese": "停電があったため、技術者たちは1時間以内にサービスを復旧させた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q12",
+          "sentence": "___ lunch, we went ___ the laboratory.",
+          "answers": [
+            "after",
+            "into"
+          ],
+          "completedSentence": "After lunch, we went into the laboratory.",
+          "japanese": "昼食後、私たちは実験室に入った。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q13",
+          "sentence": "___ the students, feedback was collected ___ an anonymous survey.",
+          "answers": [
+            "among",
+            "via"
+          ],
+          "completedSentence": "Among the students, feedback was collected via an anonymous survey.",
+          "japanese": "学生の間で、匿名調査を通じて意見が集められた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q14",
+          "sentence": "Every office ___ the room ___ the elevator was locked.",
+          "answers": [
+            "except for",
+            "opposite"
+          ],
+          "completedSentence": "Every office except for the room opposite the elevator was locked.",
+          "japanese": "エレベーターの向かいの部屋を除き、すべての事務室に鍵がかかっていた。",
+          "points": 2
+        },
+        {
+          "id": "set15-ex4-q15",
+          "sentence": "Four trains ___ hour stop ___ this zone.",
+          "answers": [
+            "per",
+            "within"
+          ],
+          "completedSentence": "Four trains per hour stop within this zone.",
+          "japanese": "この区域内では1時間に4本の列車が停車する。",
+          "points": 2
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 14,
+        "twoStars": 20,
+        "threeStars": 26
+      },
+      "title": "Exercise 4",
+      "totalPoints": 30,
+      "version": "restructured-v1"
+    }
+  ],
+  "id": "set15",
+  "number": 15,
+  "shortTitle": "Mixed Pairs 1",
+  "sourceSets": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "title": "Mixed Pairs 1",
+  "wordBankStrategy": "exercise-specific",
+  "wordBank": [
+    "after",
+    "among",
+    "as",
+    "because of",
+    "except for",
+    "into",
+    "opposite",
+    "per",
+    "via",
+    "within"
+  ]
+}
