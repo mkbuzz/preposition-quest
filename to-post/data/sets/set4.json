@@ -1,0 +1,473 @@
+{
+  "description": "Practice roles, contrast, exceptions, movement, routes, limits, and value.",
+  "exercises": [
+    {
+      "enabled": true,
+      "id": "set4-ex1",
+      "questions": [
+        {
+          "answer": "as",
+          "id": "set4-ex1-q1",
+          "japanese": "ミカはガイドとして働いた。",
+          "sentence": "Mika worked ___ a guide.",
+          "completedSentence": "Mika worked as a guide."
+        },
+        {
+          "answer": "despite",
+          "id": "set4-ex1-q2",
+          "japanese": "雨にもかかわらず、試合は続いた。",
+          "sentence": "___ the rain, the game continued.",
+          "completedSentence": "Despite the rain, the game continued."
+        },
+        {
+          "answer": "except",
+          "id": "set4-ex1-q3",
+          "japanese": "ヒロ以外は全員課題を提出した。",
+          "sentence": "Everyone ___ Hiro submitted the assignment.",
+          "completedSentence": "Everyone except Hiro submitted the assignment."
+        },
+        {
+          "answer": "via",
+          "id": "set4-ex1-q4",
+          "japanese": "私たちは名古屋経由で大阪へ行った。",
+          "sentence": "We traveled to Osaka ___ Nagoya.",
+          "completedSentence": "We traveled to Osaka via Nagoya."
+        },
+        {
+          "answer": "off",
+          "id": "set4-ex1-q5",
+          "japanese": "私のノートが机から落ちた。",
+          "sentence": "My notebook fell ___ the desk.",
+          "completedSentence": "My notebook fell off the desk."
+        },
+        {
+          "answer": "onto",
+          "id": "set4-ex1-q6",
+          "japanese": "猫がテーブルの上に飛び乗った。",
+          "sentence": "The cat jumped ___ the table.",
+          "completedSentence": "The cat jumped onto the table."
+        },
+        {
+          "answer": "throughout",
+          "id": "set4-ex1-q7",
+          "japanese": "学生たちは発表中ずっと静かにしていた。",
+          "sentence": "The students stayed quiet ___ the presentation.",
+          "completedSentence": "The students stayed quiet throughout the presentation."
+        },
+        {
+          "answer": "toward",
+          "id": "set4-ex1-q8",
+          "japanese": "駅の方へ歩いた。",
+          "sentence": "We walked ___ the station.",
+          "completedSentence": "We walked toward the station."
+        },
+        {
+          "answer": "within",
+          "id": "set4-ex1-q9",
+          "japanese": "30分以内に小テストを終えること。",
+          "sentence": "Finish the quiz ___ 30 minutes.",
+          "completedSentence": "Finish the quiz within 30 minutes."
+        },
+        {
+          "answer": "worth",
+          "id": "set4-ex1-q10",
+          "japanese": "この絵は数百万円の価値がある。",
+          "sentence": "This painting is ___ several million yen.",
+          "completedSentence": "This painting is worth several million yen."
+        },
+        {
+          "answer": "as",
+          "id": "set4-ex1-q11",
+          "japanese": "教室を会議室として使った。",
+          "sentence": "We used the classroom ___ a meeting room.",
+          "completedSentence": "We used the classroom as a meeting room."
+        },
+        {
+          "answer": "despite",
+          "id": "set4-ex1-q12",
+          "japanese": "疲れていたにもかかわらず、ユキは授業に出席した。",
+          "sentence": "___ being tired, Yuki attended class.",
+          "completedSentence": "Despite being tired, Yuki attended class."
+        },
+        {
+          "answer": "except",
+          "id": "set4-ex1-q13",
+          "japanese": "学生食堂は日曜日以外、毎日開いている。",
+          "sentence": "The cafeteria is open every day ___ Sunday.",
+          "completedSentence": "The cafeteria is open every day except Sunday."
+        },
+        {
+          "answer": "onto",
+          "id": "set4-ex1-q14",
+          "japanese": "彼らは椅子をステージの上へ運んだ。",
+          "sentence": "They carried the chairs ___ the stage.",
+          "completedSentence": "They carried the chairs onto the stage."
+        },
+        {
+          "answer": "worth",
+          "id": "set4-ex1-q15",
+          "japanese": "その博物館は訪れる価値がある。",
+          "sentence": "The museum is ___ a visit.",
+          "completedSentence": "The museum is worth a visit."
+        }
+      ],
+      "title": "Exercise 1",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set4-ex2",
+      "questions": [
+        {
+          "answer": "via",
+          "id": "set4-ex2-q1",
+          "japanese": "その書類をメールで送ってください。",
+          "sentence": "Please send the document ___ email.",
+          "completedSentence": "Please send the document via email."
+        },
+        {
+          "answer": "except",
+          "id": "set4-ex2-q2",
+          "japanese": "ケン以外は全員来た。",
+          "sentence": "Everyone ___ Ken came.",
+          "completedSentence": "Everyone except Ken came."
+        },
+        {
+          "answer": "throughout",
+          "id": "set4-ex2-q3",
+          "japanese": "夜通し雨が降った。",
+          "sentence": "It rained ___ the night.",
+          "completedSentence": "It rained throughout the night."
+        },
+        {
+          "answer": "toward",
+          "id": "set4-ex2-q4",
+          "japanese": "子どもたちは運動場の方へ走った。",
+          "sentence": "The children ran ___ the playground.",
+          "completedSentence": "The children ran toward the playground."
+        },
+        {
+          "answer": "worth",
+          "id": "set4-ex2-q5",
+          "japanese": "その提案は検討する価値がある。",
+          "sentence": "The proposal is ___ considering.",
+          "completedSentence": "The proposal is worth considering."
+        },
+        {
+          "answer": "except",
+          "id": "set4-ex2-q6",
+          "japanese": "店は日曜日以外、毎日開いている。",
+          "sentence": "The shop opens daily ___ Sunday.",
+          "completedSentence": "The shop opens daily except Sunday."
+        },
+        {
+          "answer": "throughout",
+          "id": "set4-ex2-q7",
+          "japanese": "彼女は夏の間ずっと働いた。",
+          "sentence": "She worked ___ the summer.",
+          "completedSentence": "She worked throughout the summer."
+        },
+        {
+          "answer": "within",
+          "id": "set4-ex2-q8",
+          "japanese": "1時間以内に終えること。",
+          "sentence": "Finish it ___ an hour.",
+          "completedSentence": "Finish it within an hour."
+        },
+        {
+          "answer": "off",
+          "id": "set4-ex2-q9",
+          "japanese": "カップがテーブルから落ちた。",
+          "sentence": "The cup fell ___ the table.",
+          "completedSentence": "The cup fell off the table."
+        },
+        {
+          "answer": "worth",
+          "id": "set4-ex2-q10",
+          "japanese": "その古いカメラには高い価値があるかもしれない。",
+          "sentence": "The old camera may be ___ a lot of money.",
+          "completedSentence": "The old camera may be worth a lot of money."
+        },
+        {
+          "answer": "onto",
+          "id": "set4-ex2-q11",
+          "japanese": "猫はソファーの上に飛び乗った。",
+          "sentence": "The cat jumped ___ the sofa.",
+          "completedSentence": "The cat jumped onto the sofa."
+        },
+        {
+          "answer": "within",
+          "id": "set4-ex2-q12",
+          "japanese": "2日以内に返信すること。",
+          "sentence": "Reply ___ two days.",
+          "completedSentence": "Reply within two days."
+        },
+        {
+          "answer": "off",
+          "id": "set4-ex2-q13",
+          "japanese": "かばんを椅子からどけること。",
+          "sentence": "Take your bag ___ the chair.",
+          "completedSentence": "Take your bag off the chair."
+        },
+        {
+          "answer": "despite",
+          "id": "set4-ex2-q14",
+          "japanese": "雨にもかかわらず、出発した。",
+          "sentence": "___ the rain, we left.",
+          "completedSentence": "Despite the rain, we left."
+        },
+        {
+          "answer": "as",
+          "id": "set4-ex2-q15",
+          "japanese": "彼女は看護師として働いている。",
+          "sentence": "She works ___ a nurse.",
+          "completedSentence": "She works as a nurse."
+        }
+      ],
+      "title": "Exercise 2",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set4-ex3",
+      "questions": [
+        {
+          "answer": "onto",
+          "id": "set4-ex3-q1",
+          "japanese": "本を棚の上に置くこと。",
+          "sentence": "Put the books ___ the shelf.",
+          "completedSentence": "Put the books onto the shelf."
+        },
+        {
+          "answer": "throughout",
+          "id": "set4-ex3-q2",
+          "japanese": "学生たちは授業中ずっと注意深く聞いていた。",
+          "sentence": "The students listened attentively ___ the class.",
+          "completedSentence": "The students listened attentively throughout the class."
+        },
+        {
+          "answer": "as",
+          "id": "set4-ex3-q3",
+          "japanese": "この箱を椅子として使うこと。",
+          "sentence": "Use this box ___ a seat.",
+          "completedSentence": "Use this box as a seat."
+        },
+        {
+          "answer": "despite",
+          "id": "set4-ex3-q4",
+          "japanese": "疲れていたにもかかわらず、彼は勉強した。",
+          "sentence": "___ being tired, he studied.",
+          "completedSentence": "Despite being tired, he studied."
+        },
+        {
+          "answer": "within",
+          "id": "set4-ex3-q5",
+          "japanese": "駅は大学から5キロ以内にある。",
+          "sentence": "The station is ___ five kilometers of campus.",
+          "completedSentence": "The station is within five kilometers of campus."
+        },
+        {
+          "answer": "despite",
+          "id": "set4-ex3-q6",
+          "japanese": "彼女は痛みにもかかわらず笑った。",
+          "sentence": "She smiled ___ the pain.",
+          "completedSentence": "She smiled despite the pain."
+        },
+        {
+          "answer": "except",
+          "id": "set4-ex3-q7",
+          "japanese": "魚以外は何でも食べる。",
+          "sentence": "I eat everything ___ fish.",
+          "completedSentence": "I eat everything except fish."
+        },
+        {
+          "answer": "toward",
+          "id": "set4-ex3-q8",
+          "japanese": "彼女はドアの方を向いた。",
+          "sentence": "She turned ___ the door.",
+          "completedSentence": "She turned toward the door."
+        },
+        {
+          "answer": "via",
+          "id": "set4-ex3-q9",
+          "japanese": "その便はドバイ経由でパリへ行く。",
+          "sentence": "The flight goes to Paris ___ Dubai.",
+          "completedSentence": "The flight goes to Paris via Dubai."
+        },
+        {
+          "answer": "worth",
+          "id": "set4-ex3-q10",
+          "japanese": "この本は二度読む価値がある。",
+          "sentence": "This book is ___ reading twice.",
+          "completedSentence": "This book is worth reading twice."
+        },
+        {
+          "answer": "as",
+          "id": "set4-ex3-q11",
+          "japanese": "彼は海賊の格好をした。",
+          "sentence": "He dressed ___ a pirate.",
+          "completedSentence": "He dressed as a pirate."
+        },
+        {
+          "answer": "off",
+          "id": "set4-ex3-q12",
+          "japanese": "バスは道路から外れた。",
+          "sentence": "The bus drove ___ the road.",
+          "completedSentence": "The bus drove off the road."
+        },
+        {
+          "answer": "via",
+          "id": "set4-ex3-q13",
+          "japanese": "大学のウェブサイトからそのサービスにアクセスできる。",
+          "sentence": "You can access the service ___ the university website.",
+          "completedSentence": "You can access the service via the university website."
+        },
+        {
+          "answer": "toward",
+          "id": "set4-ex3-q14",
+          "japanese": "犬は私の方へ走ってきた。",
+          "sentence": "The dog ran ___ me.",
+          "completedSentence": "The dog ran toward me."
+        },
+        {
+          "answer": "off",
+          "id": "set4-ex3-q15",
+          "japanese": "彼はケーキから一切れ切り取った。",
+          "sentence": "He cut a piece ___ the cake.",
+          "completedSentence": "He cut a piece off the cake."
+        }
+      ],
+      "title": "Exercise 3",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set4-ex4",
+      "questions": [
+        {
+          "answer": "via",
+          "id": "set4-ex4-q1",
+          "japanese": "その荷物はシンガポール経由で配達された。",
+          "sentence": "The package was delivered ___ Singapore.",
+          "completedSentence": "The package was delivered via Singapore."
+        },
+        {
+          "answer": "toward",
+          "id": "set4-ex4-q2",
+          "japanese": "雲は海岸の方へ動いた。",
+          "sentence": "Clouds moved ___ the coast.",
+          "completedSentence": "Clouds moved toward the coast."
+        },
+        {
+          "answer": "except",
+          "id": "set4-ex4-q3",
+          "japanese": "この部屋以外はすべて満室である。",
+          "sentence": "All rooms ___ this one are full.",
+          "completedSentence": "All rooms except this one are full."
+        },
+        {
+          "answer": "via",
+          "id": "set4-ex4-q4",
+          "japanese": "私たちは先生を通じてその情報を受け取った。",
+          "sentence": "We received the information ___ our teacher.",
+          "completedSentence": "We received the information via our teacher."
+        },
+        {
+          "answer": "worth",
+          "id": "set4-ex4-q5",
+          "japanese": "その講座には時間と労力をかける価値があった。",
+          "sentence": "The course was ___ the time and effort.",
+          "completedSentence": "The course was worth the time and effort."
+        },
+        {
+          "answer": "throughout",
+          "id": "set4-ex4-q6",
+          "japanese": "行事の間ずっと音楽が流れた。",
+          "sentence": "Music played ___ the event.",
+          "completedSentence": "Music played throughout the event."
+        },
+        {
+          "answer": "onto",
+          "id": "set4-ex4-q7",
+          "japanese": "彼女はバスに乗り込んだ。",
+          "sentence": "She stepped ___ the bus.",
+          "completedSentence": "She stepped onto the bus."
+        },
+        {
+          "answer": "throughout",
+          "id": "set4-ex4-q8",
+          "japanese": "彼は試験中ずっと落ち着いていた。",
+          "sentence": "He remained calm ___ the test.",
+          "completedSentence": "He remained calm throughout the test."
+        },
+        {
+          "answer": "within",
+          "id": "set4-ex4-q9",
+          "japanese": "指定された区域内にいること。",
+          "sentence": "Stay ___ the marked area.",
+          "completedSentence": "Stay within the marked area."
+        },
+        {
+          "answer": "toward",
+          "id": "set4-ex4-q10",
+          "japanese": "彼は丘の方を指した。",
+          "sentence": "He pointed ___ the hill.",
+          "completedSentence": "He pointed toward the hill."
+        },
+        {
+          "answer": "off",
+          "id": "set4-ex4-q11",
+          "japanese": "ボタンがシャツから取れた。",
+          "sentence": "The button came ___ my shirt.",
+          "completedSentence": "The button came off my shirt."
+        },
+        {
+          "answer": "as",
+          "id": "set4-ex4-q12",
+          "japanese": "私はチームリーダーを務めた。",
+          "sentence": "I served ___ team leader.",
+          "completedSentence": "I served as team leader."
+        },
+        {
+          "answer": "onto",
+          "id": "set4-ex4-q13",
+          "japanese": "ボールは道路の上へ転がった。",
+          "sentence": "The ball rolled ___ the road.",
+          "completedSentence": "The ball rolled onto the road."
+        },
+        {
+          "answer": "within",
+          "id": "set4-ex4-q14",
+          "japanese": "救急車は通報から10分以内に到着した。",
+          "sentence": "The ambulance arrived ___ ten minutes of the call.",
+          "completedSentence": "The ambulance arrived within ten minutes of the call."
+        },
+        {
+          "answer": "despite",
+          "id": "set4-ex4-q15",
+          "japanese": "交通渋滞にもかかわらず、私たちは時間どおり到着した。",
+          "sentence": "___ heavy traffic, we arrived on time.",
+          "completedSentence": "Despite heavy traffic, we arrived on time."
+        }
+      ],
+      "title": "Exercise 4",
+      "version": "restructured-v1"
+    }
+  ],
+  "id": "set4",
+  "number": 4,
+  "shortTitle": "Roles & Limits",
+  "title": "Roles, Contrast, and Limits",
+  "wordBank": [
+    "as",
+    "despite",
+    "except",
+    "off",
+    "onto",
+    "throughout",
+    "toward",
+    "via",
+    "within",
+    "worth"
+  ]
+}

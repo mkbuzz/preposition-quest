@@ -1,0 +1,473 @@
+{
+  "description": "Practice clearly differentiated relationships of position, direction, and movement.",
+  "exercises": [
+    {
+      "enabled": true,
+      "id": "set2-ex1",
+      "questions": [
+        {
+          "answer": "near",
+          "id": "set2-ex1-q1",
+          "japanese": "カフェは駅の近くにある。",
+          "sentence": "The café is ___ the station.",
+          "completedSentence": "The café is near the station."
+        },
+        {
+          "answer": "between",
+          "id": "set2-ex1-q2",
+          "japanese": "答えは二つの例の間に示されている。",
+          "sentence": "The answer appears ___ the two examples.",
+          "completedSentence": "The answer appears between the two examples."
+        },
+        {
+          "answer": "under",
+          "id": "set2-ex1-q3",
+          "japanese": "私のかばんは椅子の下にある。",
+          "sentence": "My bag is ___ the chair.",
+          "completedSentence": "My bag is under the chair."
+        },
+        {
+          "answer": "above",
+          "id": "set2-ex1-q4",
+          "japanese": "時計がドアの上に掛かっている。",
+          "sentence": "A clock hangs ___ the door.",
+          "completedSentence": "A clock hangs above the door."
+        },
+        {
+          "answer": "behind",
+          "id": "set2-ex1-q5",
+          "japanese": "自転車は図書館の後ろにある。",
+          "sentence": "The bicycle is ___ the library.",
+          "completedSentence": "The bicycle is behind the library."
+        },
+        {
+          "answer": "along",
+          "id": "set2-ex1-q6",
+          "japanese": "川に沿って歩いた。",
+          "sentence": "We walked ___ the river.",
+          "completedSentence": "We walked along the river."
+        },
+        {
+          "answer": "across",
+          "id": "set2-ex1-q7",
+          "japanese": "彼らは道路を走って横切った。",
+          "sentence": "They ran ___ the street.",
+          "completedSentence": "They ran across the street."
+        },
+        {
+          "answer": "into",
+          "id": "set2-ex1-q8",
+          "japanese": "ワークシートをフォルダーの中に入れること。",
+          "sentence": "Put the worksheets ___ the folder.",
+          "completedSentence": "Put the worksheets into the folder."
+        },
+        {
+          "answer": "through",
+          "id": "set2-ex1-q9",
+          "japanese": "列車はトンネルを通り抜けた。",
+          "sentence": "The train passed ___ the tunnel.",
+          "completedSentence": "The train passed through the tunnel."
+        },
+        {
+          "answer": "toward",
+          "id": "set2-ex1-q10",
+          "japanese": "学生たちは図書館の方へ歩いた。",
+          "sentence": "The students walked ___ the library.",
+          "completedSentence": "The students walked toward the library."
+        },
+        {
+          "answer": "into",
+          "id": "set2-ex1-q11",
+          "japanese": "猫が箱の中に飛び込んだ。",
+          "sentence": "The cat jumped ___ the box.",
+          "completedSentence": "The cat jumped into the box."
+        },
+        {
+          "answer": "across",
+          "id": "set2-ex1-q12",
+          "japanese": "歩道橋が道路を横切って架かっている。",
+          "sentence": "A footbridge stretches ___ the road.",
+          "completedSentence": "A footbridge stretches across the road."
+        },
+        {
+          "answer": "through",
+          "id": "set2-ex1-q13",
+          "japanese": "日光が窓を通して差し込んだ。",
+          "sentence": "Sunlight came ___ the window.",
+          "completedSentence": "Sunlight came through the window."
+        },
+        {
+          "answer": "between",
+          "id": "set2-ex1-q14",
+          "japanese": "駐車場は二つの建物の間にある。",
+          "sentence": "The parking lot is ___ the two buildings.",
+          "completedSentence": "The parking lot is between the two buildings."
+        },
+        {
+          "answer": "along",
+          "id": "set2-ex1-q15",
+          "japanese": "海岸に沿って歩いた。",
+          "sentence": "We walked ___ the beach.",
+          "completedSentence": "We walked along the beach."
+        }
+      ],
+      "title": "Exercise 1",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set2-ex2",
+      "questions": [
+        {
+          "answer": "into",
+          "id": "set2-ex2-q1",
+          "japanese": "彼女は部屋の中へ入った。",
+          "sentence": "She walked ___ the room.",
+          "completedSentence": "She walked into the room."
+        },
+        {
+          "answer": "above",
+          "id": "set2-ex2-q2",
+          "japanese": "時計はドアの上にある。",
+          "sentence": "The clock is ___ the door.",
+          "completedSentence": "The clock is above the door."
+        },
+        {
+          "answer": "toward",
+          "id": "set2-ex2-q3",
+          "japanese": "ボートは岸の方へ進んだ。",
+          "sentence": "The boat moved ___ the shore.",
+          "completedSentence": "The boat moved toward the shore."
+        },
+        {
+          "answer": "behind",
+          "id": "set2-ex2-q4",
+          "japanese": "かばんは椅子の後ろにある。",
+          "sentence": "The bag is ___ the chair.",
+          "completedSentence": "The bag is behind the chair."
+        },
+        {
+          "answer": "across",
+          "id": "set2-ex2-q5",
+          "japanese": "橋を歩いて渡った。",
+          "sentence": "We walked ___ the bridge.",
+          "completedSentence": "We walked across the bridge."
+        },
+        {
+          "answer": "through",
+          "id": "set2-ex2-q6",
+          "japanese": "私たちは森の中を通り抜けた。",
+          "sentence": "We walked ___ the forest.",
+          "completedSentence": "We walked through the forest."
+        },
+        {
+          "answer": "into",
+          "id": "set2-ex2-q7",
+          "japanese": "カードを箱の中に入れること。",
+          "sentence": "Put the card ___ the box.",
+          "completedSentence": "Put the card into the box."
+        },
+        {
+          "answer": "through",
+          "id": "set2-ex2-q8",
+          "japanese": "水はフィルターを通過する。",
+          "sentence": "Water passes ___ the filter.",
+          "completedSentence": "Water passes through the filter."
+        },
+        {
+          "answer": "between",
+          "id": "set2-ex2-q9",
+          "japanese": "銀行は二つの店の間にある。",
+          "sentence": "The bank is ___ the two shops.",
+          "completedSentence": "The bank is between the two shops."
+        },
+        {
+          "answer": "near",
+          "id": "set2-ex2-q10",
+          "japanese": "ホテルは駅の近くにある。",
+          "sentence": "The hotel is ___ the station.",
+          "completedSentence": "The hotel is near the station."
+        },
+        {
+          "answer": "along",
+          "id": "set2-ex2-q11",
+          "japanese": "ハイカーたちは海岸沿いの小道を進んだ。",
+          "sentence": "The hikers followed a trail ___ the coast.",
+          "completedSentence": "The hikers followed a trail along the coast."
+        },
+        {
+          "answer": "toward",
+          "id": "set2-ex2-q12",
+          "japanese": "彼女は窓の方を向いた。",
+          "sentence": "She turned ___ the window.",
+          "completedSentence": "She turned toward the window."
+        },
+        {
+          "answer": "behind",
+          "id": "set2-ex2-q13",
+          "japanese": "太陽は雲の後ろに隠れた。",
+          "sentence": "The sun disappeared ___ the clouds.",
+          "completedSentence": "The sun disappeared behind the clouds."
+        },
+        {
+          "answer": "across",
+          "id": "set2-ex2-q14",
+          "japanese": "彼女は川を泳いで渡った。",
+          "sentence": "She swam ___ the river.",
+          "completedSentence": "She swam across the river."
+        },
+        {
+          "answer": "under",
+          "id": "set2-ex2-q15",
+          "japanese": "猫はテーブルの下にいる。",
+          "sentence": "The cat is ___ the table.",
+          "completedSentence": "The cat is under the table."
+        }
+      ],
+      "title": "Exercise 2",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set2-ex3",
+      "questions": [
+        {
+          "answer": "toward",
+          "id": "set2-ex3-q1",
+          "japanese": "犬は飼い主の方へ走った。",
+          "sentence": "The dog ran ___ its owner.",
+          "completedSentence": "The dog ran toward its owner."
+        },
+        {
+          "answer": "near",
+          "id": "set2-ex3-q2",
+          "japanese": "公園の近くに住んでいる。",
+          "sentence": "We live ___ the park.",
+          "completedSentence": "We live near the park."
+        },
+        {
+          "answer": "under",
+          "id": "set2-ex3-q3",
+          "japanese": "かばんを座席の下に置くこと。",
+          "sentence": "Put the bag ___ the seat.",
+          "completedSentence": "Put the bag under the seat."
+        },
+        {
+          "answer": "through",
+          "id": "set2-ex3-q4",
+          "japanese": "彼女は顕微鏡をのぞいた。",
+          "sentence": "She looked ___ the microscope.",
+          "completedSentence": "She looked through the microscope."
+        },
+        {
+          "answer": "into",
+          "id": "set2-ex3-q5",
+          "japanese": "犬は車の中に飛び乗った。",
+          "sentence": "The dog jumped ___ the car.",
+          "completedSentence": "The dog jumped into the car."
+        },
+        {
+          "answer": "toward",
+          "id": "set2-ex3-q6",
+          "japanese": "私たちは山の方へ車を走らせた。",
+          "sentence": "We drove ___ the mountains.",
+          "completedSentence": "We drove toward the mountains."
+        },
+        {
+          "answer": "along",
+          "id": "set2-ex3-q7",
+          "japanese": "道路沿いに木が生えている。",
+          "sentence": "Trees grow ___ the road.",
+          "completedSentence": "Trees grow along the road."
+        },
+        {
+          "answer": "between",
+          "id": "set2-ex3-q8",
+          "japanese": "ケンとアヤの間に座ってほしい。",
+          "sentence": "Sit ___ Ken and Aya.",
+          "completedSentence": "Sit between Ken and Aya."
+        },
+        {
+          "answer": "near",
+          "id": "set2-ex3-q9",
+          "japanese": "窓の近くに座ってほしい。",
+          "sentence": "Sit ___ the window.",
+          "completedSentence": "Sit near the window."
+        },
+        {
+          "answer": "behind",
+          "id": "set2-ex3-q10",
+          "japanese": "車はバスの後ろにある。",
+          "sentence": "The car is ___ the bus.",
+          "completedSentence": "The car is behind the bus."
+        },
+        {
+          "answer": "into",
+          "id": "set2-ex3-q11",
+          "japanese": "水をカップの中に注ぐこと。",
+          "sentence": "Pour the water ___ the cup.",
+          "completedSentence": "Pour the water into the cup."
+        },
+        {
+          "answer": "along",
+          "id": "set2-ex3-q12",
+          "japanese": "彼女は川に沿って自転車で走った。",
+          "sentence": "She cycled ___ the river.",
+          "completedSentence": "She cycled along the river."
+        },
+        {
+          "answer": "through",
+          "id": "set2-ex3-q13",
+          "japanese": "その道路は谷を通っている。",
+          "sentence": "The road runs ___ the valley.",
+          "completedSentence": "The road runs through the valley."
+        },
+        {
+          "answer": "above",
+          "id": "set2-ex3-q14",
+          "japanese": "彼女の名前は私の名前の上にある。",
+          "sentence": "Her name is ___ mine.",
+          "completedSentence": "Her name is above mine."
+        },
+        {
+          "answer": "across",
+          "id": "set2-ex3-q15",
+          "japanese": "店は通りの向こう側にある。",
+          "sentence": "The shop is ___ the street.",
+          "completedSentence": "The shop is across the street."
+        }
+      ],
+      "title": "Exercise 3",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set2-ex4",
+      "questions": [
+        {
+          "answer": "along",
+          "id": "set2-ex4-q1",
+          "japanese": "通り沿いに店が並んでいる。",
+          "sentence": "Shops stand ___ the street.",
+          "completedSentence": "Shops stand along the street."
+        },
+        {
+          "answer": "above",
+          "id": "set2-ex4-q2",
+          "japanese": "飛行機は雲の上を飛んだ。",
+          "sentence": "The plane flew ___ the clouds.",
+          "completedSentence": "The plane flew above the clouds."
+        },
+        {
+          "answer": "behind",
+          "id": "set2-ex4-q3",
+          "japanese": "庭は家の後ろにある。",
+          "sentence": "The garden is ___ the house.",
+          "completedSentence": "The garden is behind the house."
+        },
+        {
+          "answer": "under",
+          "id": "set2-ex4-q4",
+          "japanese": "木の下で待った。",
+          "sentence": "We waited ___ a tree.",
+          "completedSentence": "We waited under a tree."
+        },
+        {
+          "answer": "across",
+          "id": "set2-ex4-q5",
+          "japanese": "線がページを横切っている。",
+          "sentence": "A line runs ___ the page.",
+          "completedSentence": "A line runs across the page."
+        },
+        {
+          "answer": "between",
+          "id": "set2-ex4-q6",
+          "japanese": "会議は2時から3時の間のどこかで始まる予定である。",
+          "sentence": "The meeting will begin sometime ___ 2:00 and 3:00.",
+          "completedSentence": "The meeting will begin sometime between 2:00 and 3:00."
+        },
+        {
+          "answer": "into",
+          "id": "set2-ex4-q7",
+          "japanese": "彼は駅の中へ走って入った。",
+          "sentence": "He ran ___ the station.",
+          "completedSentence": "He ran into the station."
+        },
+        {
+          "answer": "along",
+          "id": "set2-ex4-q8",
+          "japanese": "海岸に沿って車で走った。",
+          "sentence": "We drove ___ the coast.",
+          "completedSentence": "We drove along the coast."
+        },
+        {
+          "answer": "between",
+          "id": "set2-ex4-q9",
+          "japanese": "ボールは椅子の間を転がった。",
+          "sentence": "The ball rolled ___ the chairs.",
+          "completedSentence": "The ball rolled between the chairs."
+        },
+        {
+          "answer": "behind",
+          "id": "set2-ex4-q10",
+          "japanese": "彼は私の後ろに立っていた。",
+          "sentence": "He stood ___ me.",
+          "completedSentence": "He stood behind me."
+        },
+        {
+          "answer": "through",
+          "id": "set2-ex4-q11",
+          "japanese": "ハイカーたちは狭い開口部を通って登った。",
+          "sentence": "The hikers climbed ___ a narrow opening.",
+          "completedSentence": "The hikers climbed through a narrow opening."
+        },
+        {
+          "answer": "under",
+          "id": "set2-ex4-q12",
+          "japanese": "道路は橋の下を通っている。",
+          "sentence": "The road passes ___ the bridge.",
+          "completedSentence": "The road passes under the bridge."
+        },
+        {
+          "answer": "near",
+          "id": "set2-ex4-q13",
+          "japanese": "大学の近くにカフェが開店した。",
+          "sentence": "A café opened ___ campus.",
+          "completedSentence": "A café opened near campus."
+        },
+        {
+          "answer": "toward",
+          "id": "set2-ex4-q14",
+          "japanese": "彼は出口の方を指した。",
+          "sentence": "He pointed ___ the exit.",
+          "completedSentence": "He pointed toward the exit."
+        },
+        {
+          "answer": "above",
+          "id": "set2-ex4-q15",
+          "japanese": "標識は机の上にある。",
+          "sentence": "The sign is ___ the desk.",
+          "completedSentence": "The sign is above the desk."
+        }
+      ],
+      "title": "Exercise 4",
+      "version": "restructured-v1"
+    }
+  ],
+  "id": "set2",
+  "number": 2,
+  "shortTitle": "Place & Movement",
+  "title": "Place and Movement",
+  "wordBank": [
+    "above",
+    "across",
+    "along",
+    "behind",
+    "between",
+    "into",
+    "near",
+    "through",
+    "toward",
+    "under"
+  ]
+}

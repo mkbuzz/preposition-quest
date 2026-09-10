@@ -1,0 +1,473 @@
+{
+  "description": "Practice topic, opposition, grouping, source, passage, destination, accompaniment, and absence.",
+  "exercises": [
+    {
+      "enabled": true,
+      "id": "set3-ex1",
+      "questions": [
+        {
+          "answer": "from",
+          "id": "set3-ex1-q1",
+          "japanese": "教授からメールを受け取った。",
+          "sentence": "I got an email ___ my professor.",
+          "completedSentence": "I got an email from my professor."
+        },
+        {
+          "answer": "about",
+          "id": "set3-ex1-q2",
+          "japanese": "プロジェクトについて話した。",
+          "sentence": "We talked ___ the project.",
+          "completedSentence": "We talked about the project."
+        },
+        {
+          "answer": "for",
+          "id": "set3-ex1-q3",
+          "japanese": "この席は高齢の乗客のためのものである。",
+          "sentence": "This seat is ___ elderly passengers.",
+          "completedSentence": "This seat is for elderly passengers."
+        },
+        {
+          "answer": "to",
+          "id": "set3-ex1-q4",
+          "japanese": "レポートを先生に渡すこと。",
+          "sentence": "Give the report ___ the teacher.",
+          "completedSentence": "Give the report to the teacher."
+        },
+        {
+          "answer": "with",
+          "id": "set3-ex1-q5",
+          "japanese": "二人のクラスメートと作業した。",
+          "sentence": "I worked ___ two classmates.",
+          "completedSentence": "I worked with two classmates."
+        },
+        {
+          "answer": "against",
+          "id": "set3-ex1-q6",
+          "japanese": "学生会はその規則に反対票を投じた。",
+          "sentence": "The council voted ___ the rule.",
+          "completedSentence": "The council voted against the rule."
+        },
+        {
+          "answer": "around",
+          "id": "set3-ex1-q7",
+          "japanese": "先生は教室内を歩き回った。",
+          "sentence": "The teacher walked ___ the room.",
+          "completedSentence": "The teacher walked around the room."
+        },
+        {
+          "answer": "through",
+          "id": "set3-ex1-q8",
+          "japanese": "列車はトンネルを通り抜けた。",
+          "sentence": "The train passed ___ a tunnel.",
+          "completedSentence": "The train passed through a tunnel."
+        },
+        {
+          "answer": "without",
+          "id": "set3-ex1-q9",
+          "japanese": "彼は傘を持たずに出かけた。",
+          "sentence": "He left ___ his umbrella.",
+          "completedSentence": "He left without his umbrella."
+        },
+        {
+          "answer": "among",
+          "id": "set3-ex1-q10",
+          "japanese": "エミはクラスメートたちの中に立っていた。",
+          "sentence": "Emi stood ___ her classmates.",
+          "completedSentence": "Emi stood among her classmates."
+        },
+        {
+          "answer": "from",
+          "id": "set3-ex1-q11",
+          "japanese": "チーズは牛乳から作られる。",
+          "sentence": "Cheese is made ___ milk.",
+          "completedSentence": "Cheese is made from milk."
+        },
+        {
+          "answer": "for",
+          "id": "set3-ex1-q12",
+          "japanese": "私は姉のために贈り物を買った。",
+          "sentence": "I bought a gift ___ my sister.",
+          "completedSentence": "I bought a gift for my sister."
+        },
+        {
+          "answer": "through",
+          "id": "set3-ex1-q13",
+          "japanese": "人混みの中を通り抜けた。",
+          "sentence": "We walked ___ the crowd.",
+          "completedSentence": "We walked through the crowd."
+        },
+        {
+          "answer": "about",
+          "id": "set3-ex1-q14",
+          "japanese": "教授は睡眠について話した。",
+          "sentence": "The professor spoke ___ sleep.",
+          "completedSentence": "The professor spoke about sleep."
+        },
+        {
+          "answer": "to",
+          "id": "set3-ex1-q15",
+          "japanese": "予定表を全員に送ること。",
+          "sentence": "Send the schedule ___ everyone.",
+          "completedSentence": "Send the schedule to everyone."
+        }
+      ],
+      "title": "Exercise 1",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set3-ex2",
+      "questions": [
+        {
+          "answer": "with",
+          "id": "set3-ex2-q1",
+          "japanese": "ケンと一緒に勉強した。",
+          "sentence": "I studied ___ Ken.",
+          "completedSentence": "I studied with Ken."
+        },
+        {
+          "answer": "against",
+          "id": "set3-ex2-q2",
+          "japanese": "彼らはその計画に反対票を投じた。",
+          "sentence": "They voted ___ the plan.",
+          "completedSentence": "They voted against the plan."
+        },
+        {
+          "answer": "about",
+          "id": "set3-ex2-q3",
+          "japanese": "試験について話した。",
+          "sentence": "We talked ___ the exam.",
+          "completedSentence": "We talked about the exam."
+        },
+        {
+          "answer": "among",
+          "id": "set3-ex2-q4",
+          "japanese": "彼女は友人たちの中に座った。",
+          "sentence": "She sat ___ her friends.",
+          "completedSentence": "She sat among her friends."
+        },
+        {
+          "answer": "from",
+          "id": "set3-ex2-q5",
+          "japanese": "ケンから手紙を受け取った。",
+          "sentence": "I got a letter ___ Ken.",
+          "completedSentence": "I got a letter from Ken."
+        },
+        {
+          "answer": "around",
+          "id": "set3-ex2-q6",
+          "japanese": "湖の周りを歩いた。",
+          "sentence": "We walked ___ the lake.",
+          "completedSentence": "We walked around the lake."
+        },
+        {
+          "answer": "from",
+          "id": "set3-ex2-q7",
+          "japanese": "この列車は千葉から来る。",
+          "sentence": "This train comes ___ Chiba.",
+          "completedSentence": "This train comes from Chiba."
+        },
+        {
+          "answer": "to",
+          "id": "set3-ex2-q8",
+          "japanese": "ファイルを私に送ること。",
+          "sentence": "Send the file ___ me.",
+          "completedSentence": "Send the file to me."
+        },
+        {
+          "answer": "about",
+          "id": "set3-ex2-q9",
+          "japanese": "宇宙についての本を読んだ。",
+          "sentence": "I read a book ___ space.",
+          "completedSentence": "I read a book about space."
+        },
+        {
+          "answer": "with",
+          "id": "set3-ex2-q10",
+          "japanese": "ナイフで切ること。",
+          "sentence": "Cut it ___ a knife.",
+          "completedSentence": "Cut it with a knife."
+        },
+        {
+          "answer": "to",
+          "id": "set3-ex2-q11",
+          "japanese": "図書館へ行った。",
+          "sentence": "We went ___ the library.",
+          "completedSentence": "We went to the library."
+        },
+        {
+          "answer": "through",
+          "id": "set3-ex2-q12",
+          "japanese": "列車はトンネルを通り抜けた。",
+          "sentence": "The train went ___ a tunnel.",
+          "completedSentence": "The train went through a tunnel."
+        },
+        {
+          "answer": "without",
+          "id": "set3-ex2-q13",
+          "japanese": "その機械は電気なしで作動する。",
+          "sentence": "The machine operates ___ electricity.",
+          "completedSentence": "The machine operates without electricity."
+        },
+        {
+          "answer": "for",
+          "id": "set3-ex2-q14",
+          "japanese": "その奨学金は留学生を対象としている。",
+          "sentence": "The scholarship is ___ international students.",
+          "completedSentence": "The scholarship is for international students."
+        },
+        {
+          "answer": "against",
+          "id": "set3-ex2-q15",
+          "japanese": "自転車は壁に立てかけてあった。",
+          "sentence": "The bike leaned ___ the wall.",
+          "completedSentence": "The bike leaned against the wall."
+        }
+      ],
+      "title": "Exercise 2",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set3-ex3",
+      "questions": [
+        {
+          "answer": "from",
+          "id": "set3-ex3-q1",
+          "japanese": "この布は再生プラスチックから作られている。",
+          "sentence": "This fabric is made ___ recycled plastic.",
+          "completedSentence": "This fabric is made from recycled plastic."
+        },
+        {
+          "answer": "through",
+          "id": "set3-ex3-q2",
+          "japanese": "大学のオンラインポータルを通じて申請を完了した。",
+          "sentence": "We completed the application ___ the university's online portal.",
+          "completedSentence": "We completed the application through the university's online portal."
+        },
+        {
+          "answer": "for",
+          "id": "set3-ex3-q3",
+          "japanese": "私たちは6人用のテーブルが必要である。",
+          "sentence": "We need a table ___ six people.",
+          "completedSentence": "We need a table for six people."
+        },
+        {
+          "answer": "against",
+          "id": "set3-ex3-q4",
+          "japanese": "私たちはBチームと対戦した。",
+          "sentence": "We played ___ Team B.",
+          "completedSentence": "We played against Team B."
+        },
+        {
+          "answer": "around",
+          "id": "set3-ex3-q5",
+          "japanese": "先生は教室を見回した。",
+          "sentence": "The teacher looked ___ the room.",
+          "completedSentence": "The teacher looked around the room."
+        },
+        {
+          "answer": "among",
+          "id": "set3-ex3-q6",
+          "japanese": "受賞者たちは賞を自分たちの間で分けた。",
+          "sentence": "The winners divided the prize ___ themselves.",
+          "completedSentence": "The winners divided the prize among themselves."
+        },
+        {
+          "answer": "without",
+          "id": "set3-ex3-q7",
+          "japanese": "彼女は助けを借りずに課題を終えた。",
+          "sentence": "She completed the task ___ assistance.",
+          "completedSentence": "She completed the task without assistance."
+        },
+        {
+          "answer": "with",
+          "id": "set3-ex3-q8",
+          "japanese": "彼女は姉と一緒に来た。",
+          "sentence": "She came ___ her sister.",
+          "completedSentence": "She came with her sister."
+        },
+        {
+          "answer": "to",
+          "id": "set3-ex3-q9",
+          "japanese": "鍵をアヤに渡すこと。",
+          "sentence": "Give the key ___ Aya.",
+          "completedSentence": "Give the key to Aya."
+        },
+        {
+          "answer": "about",
+          "id": "set3-ex3-q10",
+          "japanese": "予定について彼女に尋ねること。",
+          "sentence": "Ask her ___ the schedule.",
+          "completedSentence": "Ask her about the schedule."
+        },
+        {
+          "answer": "to",
+          "id": "set3-ex3-q11",
+          "japanese": "その道は海岸へ続いている。",
+          "sentence": "The road leads ___ the beach.",
+          "completedSentence": "The road leads to the beach."
+        },
+        {
+          "answer": "among",
+          "id": "set3-ex3-q12",
+          "japanese": "彼は自分のクラスメートの中で安心していた。",
+          "sentence": "He felt safe ___ his classmates.",
+          "completedSentence": "He felt safe among his classmates."
+        },
+        {
+          "answer": "through",
+          "id": "set3-ex3-q13",
+          "japanese": "公園の中を通って歩いた。",
+          "sentence": "We walked ___ the park.",
+          "completedSentence": "We walked through the park."
+        },
+        {
+          "answer": "without",
+          "id": "set3-ex3-q14",
+          "japanese": "許可なく立ち入ってはいけない。",
+          "sentence": "Do not enter ___ permission.",
+          "completedSentence": "Do not enter without permission."
+        },
+        {
+          "answer": "for",
+          "id": "set3-ex3-q15",
+          "japanese": "彼女は委員会のために報告書を準備した。",
+          "sentence": "She prepared a report ___ the committee.",
+          "completedSentence": "She prepared a report for the committee."
+        }
+      ],
+      "title": "Exercise 3",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set3-ex4",
+      "questions": [
+        {
+          "answer": "among",
+          "id": "set3-ex4-q1",
+          "japanese": "学生たちはプリントを自分たちの間で分けた。",
+          "sentence": "The students divided the worksheets ___ themselves.",
+          "completedSentence": "The students divided the worksheets among themselves."
+        },
+        {
+          "answer": "with",
+          "id": "set3-ex4-q2",
+          "japanese": "ペンで書くこと。",
+          "sentence": "Write ___ a pen.",
+          "completedSentence": "Write with a pen."
+        },
+        {
+          "answer": "for",
+          "id": "set3-ex4-q3",
+          "japanese": "この案内は新入生向けに書かれた。",
+          "sentence": "This guide was written ___ new students.",
+          "completedSentence": "This guide was written for new students."
+        },
+        {
+          "answer": "around",
+          "id": "set3-ex4-q4",
+          "japanese": "駅の周りに店がある。",
+          "sentence": "Shops are ___ the station.",
+          "completedSentence": "Shops are around the station."
+        },
+        {
+          "answer": "through",
+          "id": "set3-ex4-q5",
+          "japanese": "報告書を最後まで読むこと。",
+          "sentence": "Read ___ the report.",
+          "completedSentence": "Read through the report."
+        },
+        {
+          "answer": "for",
+          "id": "set3-ex4-q6",
+          "japanese": "大学はこれらの席を障害のある学生用に確保している。",
+          "sentence": "The university reserves these seats ___ students with disabilities.",
+          "completedSentence": "The university reserves these seats for students with disabilities."
+        },
+        {
+          "answer": "from",
+          "id": "set3-ex4-q7",
+          "japanese": "店は9時から開いている。",
+          "sentence": "The shop is open ___ 9:00.",
+          "completedSentence": "The shop is open from 9:00."
+        },
+        {
+          "answer": "against",
+          "id": "set3-ex4-q8",
+          "japanese": "彼女は新しい規則に反対である。",
+          "sentence": "She is ___ the new rule.",
+          "completedSentence": "She is against the new rule."
+        },
+        {
+          "answer": "to",
+          "id": "set3-ex4-q9",
+          "japanese": "彼は先生に用紙を手渡した。",
+          "sentence": "He handed the form ___ the teacher.",
+          "completedSentence": "He handed the form to the teacher."
+        },
+        {
+          "answer": "without",
+          "id": "set3-ex4-q10",
+          "japanese": "彼らは地図を持たずに旅行した。",
+          "sentence": "They traveled ___ a map.",
+          "completedSentence": "They traveled without a map."
+        },
+        {
+          "answer": "from",
+          "id": "set3-ex4-q11",
+          "japanese": "彼女は私からペンを借りた。",
+          "sentence": "She borrowed a pen ___ me.",
+          "completedSentence": "She borrowed a pen from me."
+        },
+        {
+          "answer": "without",
+          "id": "set3-ex4-q12",
+          "japanese": "会議は結論が出ないまま終わった。",
+          "sentence": "The meeting ended ___ a decision.",
+          "completedSentence": "The meeting ended without a decision."
+        },
+        {
+          "answer": "against",
+          "id": "set3-ex4-q13",
+          "japanese": "はしごは木に立てかけてあった。",
+          "sentence": "The ladder rested ___ the tree.",
+          "completedSentence": "The ladder rested against the tree."
+        },
+        {
+          "answer": "around",
+          "id": "set3-ex4-q14",
+          "japanese": "彼らはテーブルを囲んで座った。",
+          "sentence": "They sat ___ the table.",
+          "completedSentence": "They sat around the table."
+        },
+        {
+          "answer": "about",
+          "id": "set3-ex4-q15",
+          "japanese": "その映画は友情についての作品である。",
+          "sentence": "The film is ___ friendship.",
+          "completedSentence": "The film is about friendship."
+        }
+      ],
+      "title": "Exercise 4",
+      "version": "restructured-v1"
+    }
+  ],
+  "id": "set3",
+  "number": 3,
+  "shortTitle": "Relationships",
+  "title": "Source and Relationships",
+  "wordBank": [
+    "about",
+    "against",
+    "among",
+    "around",
+    "for",
+    "from",
+    "through",
+    "to",
+    "with",
+    "without"
+  ]
+}

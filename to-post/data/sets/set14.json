@@ -1,1 +1,816 @@
-{"id":"set14","number":14,"title":"Mixed Preposition Pairs","shortTitle":"Mixed Pairs","description":"Practice two prepositional phrases selected from Sets 1–5.","sourceSets":[1,2,3,4,5],"allowedPrepositions":["about","above","across","after","against","along","among","around","as","at","before","behind","below","beside","besides","between","beyond","by","despite","down","during","except","for","from","in","inside","into","like","near","of","off","on","onto","outside","over","past","since","through","throughout","to","toward","under","underneath","until","up","via","with","within","without","worth"],"wordBankStrategy":"exercise-specific","exercises":[{"id":"set14-ex1","title":"Exercise 1","version":"draft-2026-07-15-1","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":30,"starThresholds":{"threeStars":26,"twoStars":20,"oneStar":14},"wordBank":["across","after","at","beside","despite","for","from","into","near","on","outside","toward","via","with","worth"],"questions":[{"id":"set14-ex1-q1","sentence":"We met ___ noon ___ the station.","answers":["at","near"],"completedSentence":"We met at noon near the station.","japanese":"駅の近くで正午に会った。","points":2},{"id":"set14-ex1-q2","sentence":"She arrived ___ Monday ___ her sister.","answers":["on","with"],"completedSentence":"She arrived on Monday with her sister.","japanese":"彼女は月曜日に姉妹と一緒に到着した。","points":2},{"id":"set14-ex1-q3","sentence":"We ate ___ class ___ the library.","answers":["after","outside"],"completedSentence":"We ate after class outside the library.","japanese":"授業後、図書館の外で食事をした。","points":2},{"id":"set14-ex1-q4","sentence":"He practiced ___ an hour ___ the river.","answers":["for","beside"],"completedSentence":"He practiced for an hour beside the river.","japanese":"彼は川のそばで1時間練習した。","points":2},{"id":"set14-ex1-q5","sentence":"The dog ran ___ the field ___ the woods.","answers":["across","into"],"completedSentence":"The dog ran across the field into the woods.","japanese":"犬は野原を横切って森へ走り込んだ。","points":2},{"id":"set14-ex1-q6","sentence":"The package came ___ Osaka ___ Tokyo.","answers":["from","via"],"completedSentence":"The package came from Osaka via Tokyo.","japanese":"荷物は東京経由で大阪から届いた。","points":2},{"id":"set14-ex1-q7","sentence":"___ the rain, we continued ___ the station.","answers":["despite","toward"],"completedSentence":"despite the rain, we continued toward the station.","japanese":"雨にもかかわらず、駅の方へ進み続けた。","points":2},{"id":"set14-ex1-q8","sentence":"The film is ___ seeing ___ your classmates.","answers":["worth","with"],"completedSentence":"The film is worth seeing with your classmates.","japanese":"その映画はクラスメートと見る価値がある。","points":2},{"id":"set14-ex1-q9","sentence":"We waited ___ the café ___ noon.","answers":["outside","at"],"completedSentence":"We waited outside the café at noon.","japanese":"正午にカフェの外で待った。","points":2},{"id":"set14-ex1-q10","sentence":"She walked ___ the bridge ___ the park.","answers":["toward","across"],"completedSentence":"She walked toward the bridge across the park.","japanese":"彼女は公園を横切って橋の方へ歩いた。","points":2},{"id":"set14-ex1-q11","sentence":"The store opened ___ Friday ___ lunch.","answers":["on","after"],"completedSentence":"The store opened on Friday after lunch.","japanese":"その店は金曜日の昼食後に開店した。","points":2},{"id":"set14-ex1-q12","sentence":"The museum is ___ the station and ___ visiting.","answers":["near","worth"],"completedSentence":"The museum is near the station and worth visiting.","japanese":"その博物館は駅の近くにあり、訪れる価値がある。","points":2},{"id":"set14-ex1-q13","sentence":"We studied ___ two hours ___ the window.","answers":["for","beside"],"completedSentence":"We studied for two hours beside the window.","japanese":"窓のそばで2時間勉強した。","points":2},{"id":"set14-ex1-q14","sentence":"He moved ___ the room ___ the noise.","answers":["into","despite"],"completedSentence":"He moved into the room despite the noise.","japanese":"騒音にもかかわらず、彼は部屋の中へ移動した。","points":2},{"id":"set14-ex1-q15","sentence":"The message came ___ Kyoto ___ email.","answers":["from","via"],"completedSentence":"The message came from Kyoto via email.","japanese":"メッセージはメールで京都から届いた。","points":2}]},{"id":"set14-ex2","title":"Exercise 2","version":"draft-2026-07-15-2","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":30,"starThresholds":{"threeStars":26,"twoStars":20,"oneStar":14},"wordBank":["about","above","as","before","behind","between","by","during","of","off","onto","over","through","under","until"],"questions":[{"id":"set14-ex2-q1","sentence":"Finish the form ___ Friday ___ class.","answers":["by","before"],"completedSentence":"Finish the form by Friday before class.","japanese":"授業前の金曜日までに用紙を完成させること。","points":2},{"id":"set14-ex2-q2","sentence":"We stayed quiet ___ the exam ___ noon.","answers":["during","until"],"completedSentence":"We stayed quiet during the exam until noon.","japanese":"正午まで試験中は静かにしていた。","points":2},{"id":"set14-ex2-q3","sentence":"The clock hangs ___ the door ___ the counter.","answers":["above","behind"],"completedSentence":"The clock hangs above the door behind the counter.","japanese":"時計はカウンターの後ろにあるドアの上に掛かっている。","points":2},{"id":"set14-ex2-q4","sentence":"The bag is ___ the table ___ two chairs.","answers":["under","between"],"completedSentence":"The bag is under the table between two chairs.","japanese":"かばんはテーブルの下で二脚の椅子の間にある。","points":2},{"id":"set14-ex2-q5","sentence":"We studied ___ the culture ___ the region.","answers":["about","of"],"completedSentence":"We studied about the culture of the region.","japanese":"その地域の文化について学んだ。","points":2},{"id":"set14-ex2-q6","sentence":"The plane flew ___ the city ___ the clouds.","answers":["over","through"],"completedSentence":"The plane flew over the city through the clouds.","japanese":"飛行機は雲を通って町の上空を飛んだ。","points":2},{"id":"set14-ex2-q7","sentence":"She worked ___ a guide ___ summer.","answers":["as","during"],"completedSentence":"She worked as a guide during summer.","japanese":"彼女は夏の間ガイドとして働いた。","points":2},{"id":"set14-ex2-q8","sentence":"The cat jumped ___ the sofa ___ the floor.","answers":["off","onto"],"completedSentence":"The cat jumped off the sofa onto the floor.","japanese":"猫はソファーから床へ飛び降りた。","points":2},{"id":"set14-ex2-q9","sentence":"Submit the report ___ noon ___ the meeting.","answers":["by","before"],"completedSentence":"Submit the report by noon before the meeting.","japanese":"会議前の正午までにレポートを提出すること。","points":2},{"id":"set14-ex2-q10","sentence":"The shop ___ the station stayed open ___ midnight.","answers":["behind","until"],"completedSentence":"The shop behind the station stayed open until midnight.","japanese":"駅の後ろにある店は深夜まで営業していた。","points":2},{"id":"set14-ex2-q11","sentence":"A sign hangs ___ the desk ___ the windows.","answers":["above","between"],"completedSentence":"A sign hangs above the desk between the windows.","japanese":"標識は窓の間で机の上に掛かっている。","points":2},{"id":"set14-ex2-q12","sentence":"The road goes ___ the river ___ the valley.","answers":["over","through"],"completedSentence":"The road goes over the river through the valley.","japanese":"道路は川を越え、谷を通って続いている。","points":2},{"id":"set14-ex2-q13","sentence":"He spoke ___ team leader ___ the new rule.","answers":["as","about"],"completedSentence":"He spoke as team leader about the new rule.","japanese":"彼はチームリーダーとして新しい規則について話した。","points":2},{"id":"set14-ex2-q14","sentence":"The title ___ the book is ___ the picture.","answers":["of","under"],"completedSentence":"The title of the book is under the picture.","japanese":"その本の題名は写真の下にある。","points":2},{"id":"set14-ex2-q15","sentence":"The cup rolled ___ the shelf ___ the rug.","answers":["off","onto"],"completedSentence":"The cup rolled off the shelf onto the rug.","japanese":"カップは棚から敷物の上へ転がり落ちた。","points":2}]},{"id":"set14-ex3","title":"Exercise 3","version":"draft-2026-07-15-3","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":30,"starThresholds":{"threeStars":26,"twoStars":20,"oneStar":14},"wordBank":["against","along","among","around","below","beyond","down","in","inside","past","since","throughout","to","within","without"],"questions":[{"id":"set14-ex3-q1","sentence":"She has lived ___ Tokyo ___ 2022.","answers":["in","since"],"completedSentence":"She has lived in Tokyo since 2022.","japanese":"彼女は2022年から東京に住んでいる。","points":2},{"id":"set14-ex3-q2","sentence":"The road runs ___ the cliffs ___ the coast.","answers":["below","along"],"completedSentence":"The road runs below the cliffs along the coast.","japanese":"道路は崖の下を海岸に沿って続いている。","points":2},{"id":"set14-ex3-q3","sentence":"He stood ___ the students ___ the table.","answers":["among","around"],"completedSentence":"He stood among the students around the table.","japanese":"彼はテーブルを囲む学生たちの中に立っていた。","points":2},{"id":"set14-ex3-q4","sentence":"We walked ___ the station ___ umbrellas.","answers":["to","without"],"completedSentence":"We walked to the station without umbrellas.","japanese":"傘を持たずに駅へ歩いた。","points":2},{"id":"set14-ex3-q5","sentence":"The team voted ___ the plan ___ an hour.","answers":["against","within"],"completedSentence":"The team voted against the plan within an hour.","japanese":"チームは1時間以内にその計画に反対票を投じた。","points":2},{"id":"set14-ex3-q6","sentence":"Music played ___ the event ___ the hall.","answers":["throughout","inside"],"completedSentence":"Music played throughout the event inside the hall.","japanese":"ホールの中で行事中ずっと音楽が流れた。","points":2},{"id":"set14-ex3-q7","sentence":"The village lies ___ the river ___ the valley.","answers":["beyond","down"],"completedSentence":"The village lies beyond the river down the valley.","japanese":"村は川の向こうで谷を下った所にある。","points":2},{"id":"set14-ex3-q8","sentence":"The bus went ___ the school ___ the station.","answers":["past","to"],"completedSentence":"The bus went past the school to the station.","japanese":"バスは学校の前を通り過ぎて駅へ向かった。","points":2},{"id":"set14-ex3-q9","sentence":"She worked ___ the library ___ the afternoon.","answers":["in","throughout"],"completedSentence":"She worked in the library throughout the afternoon.","japanese":"彼女は午後ずっと図書館で働いた。","points":2},{"id":"set14-ex3-q10","sentence":"The temperature stayed ___ zero ___ Monday.","answers":["below","since"],"completedSentence":"The temperature stayed below zero since Monday.","japanese":"気温は月曜日から0度以下のままである。","points":2},{"id":"set14-ex3-q11","sentence":"We walked ___ the path ___ the gate.","answers":["along","beyond"],"completedSentence":"We walked along the path beyond the gate.","japanese":"門の向こうまで小道に沿って歩いた。","points":2},{"id":"set14-ex3-q12","sentence":"The dog ran ___ the house ___ the garden.","answers":["around","past"],"completedSentence":"The dog ran around the house past the garden.","japanese":"犬は家の周りを走り、庭の前を通り過ぎた。","points":2},{"id":"set14-ex3-q13","sentence":"___ the players, no one spoke ___ the coach.","answers":["among","against"],"completedSentence":"among the players, no one spoke against the coach.","japanese":"選手たちの中で、コーチに反対して話す者はいなかった。","points":2},{"id":"set14-ex3-q14","sentence":"He finished ___ ten minutes ___ help.","answers":["within","without"],"completedSentence":"He finished within ten minutes without help.","japanese":"彼は助けなしで10分以内に終えた。","points":2},{"id":"set14-ex3-q15","sentence":"Water flowed ___ the hill ___ the tunnel.","answers":["down","inside"],"completedSentence":"Water flowed down the hill inside the tunnel.","japanese":"水は丘を下り、トンネルの中を流れた。","points":2}]},{"id":"set14-ex4","title":"Exercise 4","version":"draft-2026-07-15-4","enabled":true,"answerOrder":"left-to-right","pointsPerBlank":1,"totalPoints":30,"starThresholds":{"threeStars":26,"twoStars":20,"oneStar":14},"wordBank":["along","at","before","besides","despite","except","from","inside","like","near","on","through","underneath","up","with"],"questions":[{"id":"set14-ex4-q1","sentence":"Everyone ___ Ken arrived ___ noon.","answers":["except","before"],"completedSentence":"Everyone except Ken arrived before noon.","japanese":"ケン以外は全員正午前に到着した。","points":2},{"id":"set14-ex4-q2","sentence":"The cloud looked ___ a ship ___ sunset.","answers":["like","at"],"completedSentence":"The cloud looked like a ship at sunset.","japanese":"その雲は日没時に船のように見えた。","points":2},{"id":"set14-ex4-q3","sentence":"___ English, she studies French ___ her sister.","answers":["besides","with"],"completedSentence":"besides English, she studies French with her sister.","japanese":"英語のほかに、彼女は姉妹とフランス語も勉強している。","points":2},{"id":"set14-ex4-q4","sentence":"The keys are ___ the book ___ the drawer.","answers":["underneath","inside"],"completedSentence":"The keys are underneath the book inside the drawer.","japanese":"鍵は引き出しの中で本の下にある。","points":2},{"id":"set14-ex4-q5","sentence":"We walked ___ the hill ___ the river.","answers":["up","along"],"completedSentence":"We walked up the hill along the river.","japanese":"川に沿って丘を上った。","points":2},{"id":"set14-ex4-q6","sentence":"The café ___ the station opened ___ Monday.","answers":["near","on"],"completedSentence":"The café near the station opened on Monday.","japanese":"駅の近くにあるカフェは月曜日に開店した。","points":2},{"id":"set14-ex4-q7","sentence":"The express came ___ Nagoya ___ Shizuoka.","answers":["from","through"],"completedSentence":"The express came from Nagoya through Shizuoka.","japanese":"急行列車は静岡を通って名古屋から来た。","points":2},{"id":"set14-ex4-q8","sentence":"___ the rain, we waited ___ the hall.","answers":["despite","inside"],"completedSentence":"despite the rain, we waited inside the hall.","japanese":"雨にもかかわらず、ホールの中で待った。","points":2},{"id":"set14-ex4-q9","sentence":"The cat climbed ___ the tree ___ noon.","answers":["up","at"],"completedSentence":"The cat climbed up the tree at noon.","japanese":"猫は正午に木を登った。","points":2},{"id":"set14-ex4-q10","sentence":"Everyone ___ Aya walked ___ the path.","answers":["except","along"],"completedSentence":"Everyone except Aya walked along the path.","japanese":"アヤ以外は全員小道に沿って歩いた。","points":2},{"id":"set14-ex4-q11","sentence":"The child moved ___ a dancer ___ confidence.","answers":["like","with"],"completedSentence":"The child moved like a dancer with confidence.","japanese":"その子どもは自信を持ってダンサーのように動いた。","points":2},{"id":"set14-ex4-q12","sentence":"___ the museum, the temple is ___ the station.","answers":["besides","near"],"completedSentence":"besides the museum, the temple is near the station.","japanese":"博物館のほかに、その寺も駅の近くにある。","points":2},{"id":"set14-ex4-q13","sentence":"The package came ___ Seoul ___ Friday.","answers":["from","on"],"completedSentence":"The package came from Seoul on Friday.","japanese":"荷物は金曜日にソウルから届いた。","points":2},{"id":"set14-ex4-q14","sentence":"The cable runs ___ the road ___ the tunnel.","answers":["underneath","through"],"completedSentence":"The cable runs underneath the road through the tunnel.","japanese":"ケーブルは道路の下を通り、トンネルを抜けている。","points":2},{"id":"set14-ex4-q15","sentence":"We left ___ lunch ___ the heat.","answers":["before","despite"],"completedSentence":"We left before lunch despite the heat.","japanese":"暑さにもかかわらず、昼食前に出発した。","points":2}]}]}
+{
+  "allowedPrepositions": [
+    "about",
+    "above",
+    "according to",
+    "across",
+    "after",
+    "against",
+    "along",
+    "among",
+    "around",
+    "as",
+    "at",
+    "before",
+    "behind",
+    "below",
+    "beside",
+    "besides",
+    "between",
+    "beyond",
+    "by",
+    "close to",
+    "despite",
+    "down",
+    "during",
+    "except",
+    "far from",
+    "for",
+    "from",
+    "in",
+    "in front of",
+    "in spite of",
+    "inside",
+    "instead of",
+    "into",
+    "like",
+    "near",
+    "next to",
+    "of",
+    "off",
+    "on",
+    "onto",
+    "out of",
+    "outside",
+    "over",
+    "past",
+    "regardless of",
+    "since",
+    "thanks to",
+    "through",
+    "throughout",
+    "to",
+    "toward",
+    "under",
+    "underneath",
+    "until",
+    "up",
+    "via",
+    "with",
+    "within",
+    "without",
+    "worth"
+  ],
+  "description": "Practice two prepositions with clearly differentiated meanings in each item, including multiword forms.",
+  "exercises": [
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set14-ex1",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "id": "set14-ex1-q1",
+          "sentence": "___ the schedule, our group arrived ___ the others.",
+          "answers": [
+            "according to",
+            "ahead of"
+          ],
+          "completedSentence": "According to the schedule, our group arrived ahead of the others.",
+          "japanese": "予定表によると、私たちのグループはほかのグループより先に到着した。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q2",
+          "sentence": "The students campaigned ___ the rule ___ an online petition.",
+          "answers": [
+            "against",
+            "by means of"
+          ],
+          "completedSentence": "The students campaigned against the rule by means of an online petition.",
+          "japanese": "学生たちはオンライン署名を使ってその規則に反対する運動をした。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q3",
+          "sentence": "___ our trip, we visited a temple ___ seeing.",
+          "answers": [
+            "during",
+            "worth"
+          ],
+          "completedSentence": "During our trip, we visited a temple worth seeing.",
+          "japanese": "旅行中、私たちは見る価値のある寺を訪れた。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q4",
+          "sentence": "___ helping at a café ___ the station, Aya received a free lunch.",
+          "answers": [
+            "in exchange for",
+            "near"
+          ],
+          "completedSentence": "In exchange for helping at a café near the station, Aya received a free lunch.",
+          "japanese": "駅の近くのカフェを手伝った見返りに、アヤは無料の昼食を受け取った。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q5",
+          "sentence": "___ the guidebook, the castle is ___ visiting.",
+          "answers": [
+            "according to",
+            "worth"
+          ],
+          "completedSentence": "According to the guidebook, the castle is worth visiting.",
+          "japanese": "ガイドブックによると、その城は訪れる価値がある。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q6",
+          "sentence": "The door can be opened ___ this code ___ an emergency.",
+          "answers": [
+            "by means of",
+            "in case of"
+          ],
+          "completedSentence": "The door can be opened by means of this code in case of an emergency.",
+          "japanese": "緊急時には、この暗証番号を使ってドアを開けることができる。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q7",
+          "sentence": "___ the entrance, a worker loaded the boxes ___ a cart.",
+          "answers": [
+            "near",
+            "onto"
+          ],
+          "completedSentence": "Near the entrance, a worker loaded the boxes onto a cart.",
+          "japanese": "入口の近くで、作業員が箱を台車の上に載せた。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q8",
+          "sentence": "___ the hike, carry a whistle ___ an emergency.",
+          "answers": [
+            "during",
+            "in case of"
+          ],
+          "completedSentence": "During the hike, carry a whistle in case of an emergency.",
+          "japanese": "ハイキング中は、緊急時に備えて笛を携帯すること。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q9",
+          "sentence": "___ the auction, an expert said the painting was ___ several million yen.",
+          "answers": [
+            "ahead of",
+            "worth"
+          ],
+          "completedSentence": "Ahead of the auction, an expert said the painting was worth several million yen.",
+          "japanese": "競売に先立ち、専門家はその絵には数百万円の価値があると述べた。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q10",
+          "sentence": "___ the rehearsal, staff moved the chairs ___ the stage.",
+          "answers": [
+            "during",
+            "onto"
+          ],
+          "completedSentence": "During the rehearsal, staff moved the chairs onto the stage.",
+          "japanese": "リハーサル中、職員は椅子をステージの上へ移した。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q11",
+          "sentence": "Keep the receipt ___ a problem with the laptop you received ___ your old one.",
+          "answers": [
+            "in case of",
+            "in exchange for"
+          ],
+          "completedSentence": "Keep the receipt in case of a problem with the laptop you received in exchange for your old one.",
+          "japanese": "古いパソコンと交換で受け取ったノートパソコンに問題があった場合に備え、領収書を保管すること。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q12",
+          "sentence": "___ the instructions, place the package ___ the scale.",
+          "answers": [
+            "according to",
+            "onto"
+          ],
+          "completedSentence": "According to the instructions, place the package onto the scale.",
+          "japanese": "説明書に従い、荷物をはかりの上に置くこと。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q13",
+          "sentence": "Researchers recorded heart rate ___ sensors ___ exercise.",
+          "answers": [
+            "by means of",
+            "during"
+          ],
+          "completedSentence": "Researchers recorded heart rate by means of sensors during exercise.",
+          "japanese": "研究者は運動中、センサーによって心拍数を記録した。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q14",
+          "sentence": "She received a watch ___ her old phone, and it was ___ 20,000 yen.",
+          "answers": [
+            "in exchange for",
+            "worth"
+          ],
+          "completedSentence": "She received a watch in exchange for her old phone, and it was worth 20,000 yen.",
+          "japanese": "彼女は古い携帯電話と引き換えに2万円の価値がある腕時計を受け取った。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex1-q15",
+          "sentence": "Workers lifted the equipment ___ a crane ___ the roof.",
+          "answers": [
+            "by means of",
+            "onto"
+          ],
+          "completedSentence": "Workers lifted the equipment by means of a crane onto the roof.",
+          "japanese": "作業員はクレーンを使って機材を屋根の上へ持ち上げた。",
+          "points": 2
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 14,
+        "twoStars": 20,
+        "threeStars": 26
+      },
+      "title": "Exercise 1",
+      "totalPoints": 30,
+      "version": "restructured-v1"
+    },
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set14-ex2",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "id": "set14-ex2-q1",
+          "sentence": "___ the results, Aya finished ___ the other students.",
+          "answers": [
+            "according to",
+            "ahead of"
+          ],
+          "completedSentence": "According to the results, Aya finished ahead of the other students.",
+          "japanese": "結果によると、アヤはほかの学生より先に終えた。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q2",
+          "sentence": "Residents protested ___ the plan ___ a letter-writing campaign.",
+          "answers": [
+            "against",
+            "by means of"
+          ],
+          "completedSentence": "Residents protested against the plan by means of a letter-writing campaign.",
+          "japanese": "住民たちは手紙を書く運動によってその計画に抗議した。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q3",
+          "sentence": "___ the festival, we saw a performance ___ watching.",
+          "answers": [
+            "during",
+            "worth"
+          ],
+          "completedSentence": "During the festival, we saw a performance worth watching.",
+          "japanese": "祭りの間、私たちは見る価値のある公演を見た。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q4",
+          "sentence": "___ working at a shop ___ campus, Ken received course credit.",
+          "answers": [
+            "in exchange for",
+            "near"
+          ],
+          "completedSentence": "In exchange for working at a shop near campus, Ken received course credit.",
+          "japanese": "大学の近くの店で働いた見返りに、ケンは単位を得た。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q5",
+          "sentence": "___ our teacher, this article is ___ reading carefully.",
+          "answers": [
+            "according to",
+            "worth"
+          ],
+          "completedSentence": "According to our teacher, this article is worth reading carefully.",
+          "japanese": "先生によると、この記事は注意して読む価値がある。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q6",
+          "sentence": "The alarm can be activated ___ this switch ___ a fire.",
+          "answers": [
+            "by means of",
+            "in case of"
+          ],
+          "completedSentence": "The alarm can be activated by means of this switch in case of a fire.",
+          "japanese": "火災時には、このスイッチで警報を作動させることができる。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q7",
+          "sentence": "___ the station, passengers stepped ___ a shuttle bus.",
+          "answers": [
+            "near",
+            "onto"
+          ],
+          "completedSentence": "Near the station, passengers stepped onto a shuttle bus.",
+          "japanese": "駅の近くで、乗客はシャトルバスに乗り込んだ。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q8",
+          "sentence": "___ the experiment, wear goggles ___ an accident.",
+          "answers": [
+            "during",
+            "in case of"
+          ],
+          "completedSentence": "During the experiment, wear goggles in case of an accident.",
+          "japanese": "実験中は、事故に備えて保護眼鏡を着用すること。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q9",
+          "sentence": "___ the sale, we learned that the camera was ___ the asking price.",
+          "answers": [
+            "ahead of",
+            "worth"
+          ],
+          "completedSentence": "Ahead of the sale, we learned that the camera was worth the asking price.",
+          "japanese": "販売前に、そのカメラは希望価格に見合うと分かった。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q10",
+          "sentence": "___ the storm, waves pushed debris ___ the road.",
+          "answers": [
+            "during",
+            "onto"
+          ],
+          "completedSentence": "During the storm, waves pushed debris onto the road.",
+          "japanese": "嵐の間、波ががれきを道路の上へ押し上げた。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q11",
+          "sentence": "Save the agreement ___ a dispute over the room provided ___ your work.",
+          "answers": [
+            "in case of",
+            "in exchange for"
+          ],
+          "completedSentence": "Save the agreement in case of a dispute over the room provided in exchange for your work.",
+          "japanese": "仕事の対価として提供された部屋をめぐる問題に備え、契約書を保管すること。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q12",
+          "sentence": "___ the diagram, move the red piece ___ the center square.",
+          "answers": [
+            "according to",
+            "onto"
+          ],
+          "completedSentence": "According to the diagram, move the red piece onto the center square.",
+          "japanese": "図によると、赤い駒を中央のマスへ移動させる。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q13",
+          "sentence": "The teacher collected answers ___ an app ___ class.",
+          "answers": [
+            "by means of",
+            "during"
+          ],
+          "completedSentence": "The teacher collected answers by means of an app during class.",
+          "japanese": "教師は授業中、アプリを使って回答を集めた。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q14",
+          "sentence": "He received a painting ___ his services, and it was ___ a fortune.",
+          "answers": [
+            "in exchange for",
+            "worth"
+          ],
+          "completedSentence": "He received a painting in exchange for his services, and it was worth a fortune.",
+          "japanese": "彼は仕事の対価として非常に価値の高い絵を受け取った。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex2-q15",
+          "sentence": "Staff moved the piano ___ a hydraulic lift ___ a platform.",
+          "answers": [
+            "by means of",
+            "onto"
+          ],
+          "completedSentence": "Staff moved the piano by means of a hydraulic lift onto a platform.",
+          "japanese": "職員は油圧リフトを使ってピアノを台の上へ移した。",
+          "points": 2
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 14,
+        "twoStars": 20,
+        "threeStars": 26
+      },
+      "title": "Exercise 2",
+      "totalPoints": 30,
+      "version": "restructured-v1"
+    },
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set14-ex3",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "id": "set14-ex3-q1",
+          "sentence": "___ the coach, our team is ___ its main rival.",
+          "answers": [
+            "according to",
+            "ahead of"
+          ],
+          "completedSentence": "According to the coach, our team is ahead of its main rival.",
+          "japanese": "コーチによると、私たちのチームは最大のライバルよりリードしている。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q2",
+          "sentence": "The workers argued ___ the change ___ a public statement.",
+          "answers": [
+            "against",
+            "by means of"
+          ],
+          "completedSentence": "The workers argued against the change by means of a public statement.",
+          "japanese": "労働者たちは声明を通じてその変更に反対した。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q3",
+          "sentence": "___ the tour, the guide showed us a painting ___ millions of yen.",
+          "answers": [
+            "during",
+            "worth"
+          ],
+          "completedSentence": "During the tour, the guide showed us a painting worth millions of yen.",
+          "japanese": "見学中、ガイドは数百万円の価値がある絵を見せてくれた。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q4",
+          "sentence": "___ guiding tourists at a hotel ___ the airport, Emi received free accommodation.",
+          "answers": [
+            "in exchange for",
+            "near"
+          ],
+          "completedSentence": "In exchange for guiding tourists at a hotel near the airport, Emi received free accommodation.",
+          "japanese": "空港近くのホテルで観光客を案内した見返りに、エミは無料の宿泊場所を提供された。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q5",
+          "sentence": "___ the expert, the old camera is ___ a lot of money.",
+          "answers": [
+            "according to",
+            "worth"
+          ],
+          "completedSentence": "According to the expert, the old camera is worth a lot of money.",
+          "japanese": "専門家によると、その古いカメラには高い価値がある。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q6",
+          "sentence": "The building can be entered ___ a side gate ___ a power failure.",
+          "answers": [
+            "by means of",
+            "in case of"
+          ],
+          "completedSentence": "The building can be entered by means of a side gate in case of a power failure.",
+          "japanese": "停電時には、横門を使って建物に入ることができる。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q7",
+          "sentence": "___ the stage, staff carried the instruments ___ a platform.",
+          "answers": [
+            "near",
+            "onto"
+          ],
+          "completedSentence": "Near the stage, staff carried the instruments onto a platform.",
+          "japanese": "ステージの近くで、職員は楽器を台の上へ運んだ。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q8",
+          "sentence": "___ the trip, keep this number ready ___ a problem.",
+          "answers": [
+            "during",
+            "in case of"
+          ],
+          "completedSentence": "During the trip, keep this number ready in case of a problem.",
+          "japanese": "旅行中は、問題が起きた場合に備えてこの番号を用意しておくこと。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q9",
+          "sentence": "___ the trip, we identified several museums ___ visiting.",
+          "answers": [
+            "ahead of",
+            "worth"
+          ],
+          "completedSentence": "Ahead of the trip, we identified several museums worth visiting.",
+          "japanese": "旅行前に、訪れる価値のある博物館をいくつか選んだ。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q10",
+          "sentence": "___ the game, the ball rolled ___ the field.",
+          "answers": [
+            "during",
+            "onto"
+          ],
+          "completedSentence": "During the game, the ball rolled onto the field.",
+          "japanese": "試合中、ボールが競技場の上へ転がり込んだ。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q11",
+          "sentence": "Carry the voucher ___ a problem with the meal offered ___ volunteering.",
+          "answers": [
+            "in case of",
+            "in exchange for"
+          ],
+          "completedSentence": "Carry the voucher in case of a problem with the meal offered in exchange for volunteering.",
+          "japanese": "ボランティアの対価として提供された食事に問題があった場合に備え、引換券を携帯すること。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q12",
+          "sentence": "___ the manual, load the paper ___ this tray.",
+          "answers": [
+            "according to",
+            "onto"
+          ],
+          "completedSentence": "According to the manual, load the paper onto this tray.",
+          "japanese": "取扱説明書に従い、用紙をこのトレイに載せること。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q13",
+          "sentence": "We communicated ___ hand signals ___ the noisy event.",
+          "answers": [
+            "by means of",
+            "during"
+          ],
+          "completedSentence": "We communicated by means of hand signals during the noisy event.",
+          "japanese": "騒がしい行事の間、私たちは手信号で意思疎通をした。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q14",
+          "sentence": "We received tickets ___ helping at the event, and they were ___ 5,000 yen each.",
+          "answers": [
+            "in exchange for",
+            "worth"
+          ],
+          "completedSentence": "We received tickets in exchange for helping at the event, and they were worth 5,000 yen each.",
+          "japanese": "私たちは行事を手伝った見返りに、1枚5,000円相当のチケットを受け取った。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex3-q15",
+          "sentence": "The boxes were raised ___ a pulley ___ the balcony.",
+          "answers": [
+            "by means of",
+            "onto"
+          ],
+          "completedSentence": "The boxes were raised by means of a pulley onto the balcony.",
+          "japanese": "箱は滑車を使ってバルコニーの上へ引き上げられた。",
+          "points": 2
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 14,
+        "twoStars": 20,
+        "threeStars": 26
+      },
+      "title": "Exercise 3",
+      "totalPoints": 30,
+      "version": "restructured-v1"
+    },
+    {
+      "answerOrder": "left-to-right",
+      "enabled": true,
+      "id": "set14-ex4",
+      "pointsPerBlank": 1,
+      "questions": [
+        {
+          "id": "set14-ex4-q1",
+          "sentence": "___ the timetable, the express train arrives ___ the local train.",
+          "answers": [
+            "according to",
+            "ahead of"
+          ],
+          "completedSentence": "According to the timetable, the express train arrives ahead of the local train.",
+          "japanese": "時刻表によると、急行列車は普通列車より先に到着する。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q2",
+          "sentence": "The group fought ___ the proposal ___ peaceful demonstrations.",
+          "answers": [
+            "against",
+            "by means of"
+          ],
+          "completedSentence": "The group fought against the proposal by means of peaceful demonstrations.",
+          "japanese": "その団体は平和的なデモによって提案に反対した。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q3",
+          "sentence": "___ the class, we discussed a book ___ reading twice.",
+          "answers": [
+            "during",
+            "worth"
+          ],
+          "completedSentence": "During the class, we discussed a book worth reading twice.",
+          "japanese": "授業中、私たちは二度読む価値のある本について話し合った。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q4",
+          "sentence": "___ cleaning a park ___ the river, the volunteers received meal vouchers.",
+          "answers": [
+            "in exchange for",
+            "near"
+          ],
+          "completedSentence": "In exchange for cleaning a park near the river, the volunteers received meal vouchers.",
+          "japanese": "川の近くの公園を清掃した見返りに、ボランティアは食事券を受け取った。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q5",
+          "sentence": "___ the reviews, the documentary is ___ watching.",
+          "answers": [
+            "according to",
+            "worth"
+          ],
+          "completedSentence": "According to the reviews, the documentary is worth watching.",
+          "japanese": "レビューによると、そのドキュメンタリーは見る価値がある。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q6",
+          "sentence": "Staff can contact security ___ this phone ___ an accident.",
+          "answers": [
+            "by means of",
+            "in case of"
+          ],
+          "completedSentence": "Staff can contact security by means of this phone in case of an accident.",
+          "japanese": "事故の場合、職員はこの電話で警備員に連絡できる。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q7",
+          "sentence": "___ the library, students lifted their bags ___ a bench.",
+          "answers": [
+            "near",
+            "onto"
+          ],
+          "completedSentence": "Near the library, students lifted their bags onto a bench.",
+          "japanese": "図書館の近くで、学生たちはかばんをベンチの上に置いた。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q8",
+          "sentence": "___ the storm, remain indoors ___ falling objects.",
+          "answers": [
+            "during",
+            "in case of"
+          ],
+          "completedSentence": "During the storm, remain indoors in case of falling objects.",
+          "japanese": "嵐の間は、落下物に備えて屋内にいること。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q9",
+          "sentence": "___ the meeting, I read the report because it was ___ discussing.",
+          "answers": [
+            "ahead of",
+            "worth"
+          ],
+          "completedSentence": "Ahead of the meeting, I read the report because it was worth discussing.",
+          "japanese": "会議に先立って、議論する価値があるため報告書を読んだ。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q10",
+          "sentence": "___ the move, workers lifted the sofa ___ the truck.",
+          "answers": [
+            "during",
+            "onto"
+          ],
+          "completedSentence": "During the move, workers lifted the sofa onto the truck.",
+          "japanese": "引っ越し中、作業員はソファーをトラックに載せた。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q11",
+          "sentence": "___ a dispute, keep a copy of the survey completed ___ the ticket.",
+          "answers": [
+            "in case of",
+            "in exchange for"
+          ],
+          "completedSentence": "In case of a dispute, keep a copy of the survey completed in exchange for the ticket.",
+          "japanese": "問題が生じた場合に備え、チケットと引き換えに回答した調査の写しを保管すること。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q12",
+          "sentence": "___ the coach, the players should step ___ the marked platform.",
+          "answers": [
+            "according to",
+            "onto"
+          ],
+          "completedSentence": "According to the coach, the players should step onto the marked platform.",
+          "japanese": "コーチによると、選手は印の付いた台の上に乗る必要がある。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q13",
+          "sentence": "The team tracked movement ___ cameras ___ the test.",
+          "answers": [
+            "by means of",
+            "during"
+          ],
+          "completedSentence": "The team tracked movement by means of cameras during the test.",
+          "japanese": "チームは実験中、カメラによって動きを追跡した。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q14",
+          "sentence": "Aya received a camera ___ her laptop, and it was ___ the trade.",
+          "answers": [
+            "in exchange for",
+            "worth"
+          ],
+          "completedSentence": "Aya received a camera in exchange for her laptop, and it was worth the trade.",
+          "japanese": "アヤはノートパソコンと引き換えにカメラを受け取り、その交換には価値があった。",
+          "points": 2
+        },
+        {
+          "id": "set14-ex4-q15",
+          "sentence": "The wheelchair was moved ___ a mechanical ramp ___ the bus.",
+          "answers": [
+            "by means of",
+            "onto"
+          ],
+          "completedSentence": "The wheelchair was moved by means of a mechanical ramp onto the bus.",
+          "japanese": "車いすは機械式スロープを使ってバスに載せられた。",
+          "points": 2
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 14,
+        "twoStars": 20,
+        "threeStars": 26
+      },
+      "title": "Exercise 4",
+      "totalPoints": 30,
+      "version": "restructured-v1"
+    }
+  ],
+  "id": "set14",
+  "number": 14,
+  "shortTitle": "Mixed Pairs 2",
+  "sourceSets": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "title": "Mixed Pairs 2",
+  "wordBankStrategy": "exercise-specific",
+  "wordBank": [
+    "according to",
+    "ahead of",
+    "against",
+    "by means of",
+    "during",
+    "in case of",
+    "in exchange for",
+    "near",
+    "onto",
+    "worth"
+  ]
+}

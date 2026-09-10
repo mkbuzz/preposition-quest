@@ -1,1 +1,497 @@
-{"id":"set8","number":8,"title":"Additional One-Word Prepositions","shortTitle":"More One-Word Forms","description":"Practice additional one-word prepositions used for position, comparison, movement, inclusion, exclusion, and rates.","wordBank":["beneath","opposite","out","round","than","unlike","upon","including","excluding","per"],"exercises":[{"id":"set8-ex1","title":"Exercise 1","version":"draft","enabled":true,"totalPoints":15,"starThresholds":{"threeStars":13,"twoStars":10,"oneStar":7},"questions":[{"id":"set8-ex1-q1","sentence":"___ Ken, Aya arrived early.","answer":"unlike","completedSentence":"Unlike Ken, Aya arrived early.","japanese":"ケンと違って、アヤは早く着いた。"},{"id":"set8-ex1-q2","sentence":"Tickets cost ¥1,000 ___ person.","answer":"per","completedSentence":"Tickets cost ¥1,000 per person.","japanese":"チケットは一人につき1,000円である。"},{"id":"set8-ex1-q3","sentence":"The cat slept ___ the table.","answer":"beneath","completedSentence":"The cat slept beneath the table.","japanese":"猫はテーブルの下で眠った。"},{"id":"set8-ex1-q4","sentence":"Ten students joined, ___ Aya.","answer":"including","completedSentence":"Ten students joined, including Aya.","japanese":"アヤを含めて10人の学生が参加した。"},{"id":"set8-ex1-q5","sentence":"This bag is heavier ___ mine.","answer":"than","completedSentence":"This bag is heavier than mine.","japanese":"このかばんは私のものより重い。"},{"id":"set8-ex1-q6","sentence":"She looked ___ the window.","answer":"out","completedSentence":"She looked out the window.","japanese":"彼女は窓の外を見た。"},{"id":"set8-ex1-q7","sentence":"The bank is ___ the station.","answer":"opposite","completedSentence":"The bank is opposite the station.","japanese":"銀行は駅の向かいにある。"},{"id":"set8-ex1-q8","sentence":"___ arrival, show your ID.","answer":"upon","completedSentence":"Upon arrival, show your ID.","japanese":"到着したら身分証を提示すること。"},{"id":"set8-ex1-q9","sentence":"We walked ___ the lake.","answer":"round","completedSentence":"We walked round the lake.","japanese":"湖の周りを歩いた。"},{"id":"set8-ex1-q10","sentence":"The price is ¥5,000, ___ tax.","answer":"excluding","completedSentence":"The price is ¥5,000, excluding tax.","japanese":"価格は税を除いて5,000円である。"},{"id":"set8-ex1-q11","sentence":"A river flows ___ the bridge.","answer":"beneath","completedSentence":"A river flows beneath the bridge.","japanese":"川は橋の下を流れている。"},{"id":"set8-ex1-q12","sentence":"We have three classes ___ week.","answer":"per","completedSentence":"We have three classes per week.","japanese":"週に3回授業がある。"},{"id":"set8-ex1-q13","sentence":"This book is ___ the others.","answer":"unlike","completedSentence":"This book is unlike the others.","japanese":"この本は他の本とは異なる。"},{"id":"set8-ex1-q14","sentence":"Payment is due ___ delivery.","answer":"upon","completedSentence":"Payment is due upon delivery.","japanese":"支払いは配達時に必要である。"},{"id":"set8-ex1-q15","sentence":"They sat ___ the table.","answer":"round","completedSentence":"They sat round the table.","japanese":"彼らはテーブルを囲んで座った。"}]},{"id":"set8-ex2","title":"Exercise 2","version":"draft","enabled":true,"totalPoints":15,"starThresholds":{"threeStars":13,"twoStars":10,"oneStar":7},"questions":[{"id":"set8-ex2-q1","sentence":"Sit ___ me.","answer":"opposite","completedSentence":"Sit opposite me.","japanese":"私の向かいに座ってほしい。"},{"id":"set8-ex2-q2","sentence":"The fee is ¥3,000, ___ tax.","answer":"including","completedSentence":"The fee is ¥3,000, including tax.","japanese":"料金は税込みで3,000円である。"},{"id":"set8-ex2-q3","sentence":"He ran ___ the door.","answer":"out","completedSentence":"He ran out the door.","japanese":"彼はドアから外へ走り出た。"},{"id":"set8-ex2-q4","sentence":"Ken is taller ___ me.","answer":"than","completedSentence":"Ken is taller than me.","japanese":"ケンは私より背が高い。"},{"id":"set8-ex2-q5","sentence":"A fence runs ___ the garden.","answer":"round","completedSentence":"A fence runs round the garden.","japanese":"庭の周りに柵がある。"},{"id":"set8-ex2-q6","sentence":"The course lasts 14 weeks, ___ holidays.","answer":"excluding","completedSentence":"The course lasts 14 weeks, excluding holidays.","japanese":"その授業は休暇を除いて14週間続く。"},{"id":"set8-ex2-q7","sentence":"The letter was ___ the books.","answer":"beneath","completedSentence":"The letter was beneath the books.","japanese":"手紙は本の下にあった。"},{"id":"set8-ex2-q8","sentence":"___ hearing the news, she called me.","answer":"upon","completedSentence":"Upon hearing the news, she called me.","japanese":"その知らせを聞くと、彼女は私に電話した。"},{"id":"set8-ex2-q9","sentence":"___ yesterday, today is sunny.","answer":"unlike","completedSentence":"Unlike yesterday, today is sunny.","japanese":"昨日と違って、今日は晴れている。"},{"id":"set8-ex2-q10","sentence":"The limit is two books ___ student.","answer":"per","completedSentence":"The limit is two books per student.","japanese":"一人の学生につき2冊までである。"},{"id":"set8-ex2-q11","sentence":"We visited three cities, ___ Kyoto.","answer":"including","completedSentence":"We visited three cities, including Kyoto.","japanese":"京都を含む3都市を訪れた。"},{"id":"set8-ex2-q12","sentence":"The ball flew ___ the window.","answer":"out","completedSentence":"The ball flew out the window.","japanese":"ボールが窓から外へ飛び出した。"},{"id":"set8-ex2-q13","sentence":"More ___ 20 students came.","answer":"than","completedSentence":"More than 20 students came.","japanese":"20人を超える学生が来た。"},{"id":"set8-ex2-q14","sentence":"Their house is ___ the park.","answer":"opposite","completedSentence":"Their house is opposite the park.","japanese":"彼らの家は公園の向かいにある。"},{"id":"set8-ex2-q15","sentence":"The total is ¥8,000, ___ shipping.","answer":"excluding","completedSentence":"The total is ¥8,000, excluding shipping.","japanese":"合計は送料を除いて8,000円である。"}]},{"id":"set8-ex3","title":"Exercise 3","version":"draft","enabled":true,"totalPoints":15,"starThresholds":{"threeStars":13,"twoStars":10,"oneStar":7},"questions":[{"id":"set8-ex3-q1","sentence":"___ entering the room, he sat down.","answer":"upon","completedSentence":"Upon entering the room, he sat down.","japanese":"部屋に入ると、彼は座った。"},{"id":"set8-ex3-q2","sentence":"The village lies ___ the mountain.","answer":"beneath","completedSentence":"The village lies beneath the mountain.","japanese":"村は山の下にある。"},{"id":"set8-ex3-q3","sentence":"The room costs ¥8,000 ___ night.","answer":"per","completedSentence":"The room costs ¥8,000 per night.","japanese":"その部屋は一泊につき8,000円である。"},{"id":"set8-ex3-q4","sentence":"His answer was ___ mine.","answer":"unlike","completedSentence":"His answer was unlike mine.","japanese":"彼の答えは私のものとは異なっていた。"},{"id":"set8-ex3-q5","sentence":"Everyone, ___ the teacher, laughed.","answer":"including","completedSentence":"Everyone, including the teacher, laughed.","japanese":"先生を含めて全員が笑った。"},{"id":"set8-ex3-q6","sentence":"The pharmacy is ___ the hospital.","answer":"opposite","completedSentence":"The pharmacy is opposite the hospital.","japanese":"薬局は病院の向かいにある。"},{"id":"set8-ex3-q7","sentence":"The road bends ___ the hill.","answer":"round","completedSentence":"The road bends round the hill.","japanese":"道は丘の周りを曲がっている。"},{"id":"set8-ex3-q8","sentence":"She arrived earlier ___ us.","answer":"than","completedSentence":"She arrived earlier than us.","japanese":"彼女は私たちより早く着いた。"},{"id":"set8-ex3-q9","sentence":"Twelve people came, ___ the guides.","answer":"excluding","completedSentence":"Twelve people came, excluding the guides.","japanese":"ガイドを除いて12人が来た。"},{"id":"set8-ex3-q10","sentence":"The cat jumped ___ the window.","answer":"out","completedSentence":"The cat jumped out the window.","japanese":"猫が窓から外へ飛び出した。"},{"id":"set8-ex3-q11","sentence":"Students get one point ___ answer.","answer":"per","completedSentence":"Students get one point per answer.","japanese":"一つの解答につき1点が与えられる。"},{"id":"set8-ex3-q12","sentence":"The form is available ___ request.","answer":"upon","completedSentence":"The form is available upon request.","japanese":"その用紙は希望すれば入手できる。"},{"id":"set8-ex3-q13","sentence":"She tied a scarf ___ her neck.","answer":"round","completedSentence":"She tied a scarf round her neck.","japanese":"彼女は首にスカーフを巻いた。"},{"id":"set8-ex3-q14","sentence":"The package contains five items, ___ batteries.","answer":"including","completedSentence":"The package contains five items, including batteries.","japanese":"電池を含めて、その商品には5点入っている。"},{"id":"set8-ex3-q15","sentence":"Sand moved ___ my feet.","answer":"beneath","completedSentence":"Sand moved beneath my feet.","japanese":"足元で砂が動いた。"}]},{"id":"set8-ex4","title":"Exercise 4","version":"draft","enabled":true,"totalPoints":15,"starThresholds":{"threeStars":13,"twoStars":10,"oneStar":7},"questions":[{"id":"set8-ex4-q1","sentence":"We walked ___ the gate.","answer":"out","completedSentence":"We walked out the gate.","japanese":"門から外へ歩いて出た。"},{"id":"set8-ex4-q2","sentence":"He stood ___ the door.","answer":"opposite","completedSentence":"He stood opposite the door.","japanese":"彼はドアの向かいに立っていた。"},{"id":"set8-ex4-q3","sentence":"We meet daily, ___ Sunday.","answer":"excluding","completedSentence":"We meet daily, excluding Sunday.","japanese":"日曜日を除いて毎日会う。"},{"id":"set8-ex4-q4","sentence":"We drove ___ the city.","answer":"round","completedSentence":"We drove round the city.","japanese":"町の周りを車で走った。"},{"id":"set8-ex4-q5","sentence":"She wore a sweater ___ her coat.","answer":"beneath","completedSentence":"She wore a sweater beneath her coat.","japanese":"彼女はコートの下にセーターを着ていた。"},{"id":"set8-ex4-q6","sentence":"The red bag is cheaper ___ the blue one.","answer":"than","completedSentence":"The red bag is cheaper than the blue one.","japanese":"赤いかばんは青いものより安い。"},{"id":"set8-ex4-q7","sentence":"The car travels 15 kilometers ___ liter.","answer":"per","completedSentence":"The car travels 15 kilometers per liter.","japanese":"その車は1リットルにつき15キロ走る。"},{"id":"set8-ex4-q8","sentence":"___ graduation, she moved to Tokyo.","answer":"upon","completedSentence":"Upon graduation, she moved to Tokyo.","japanese":"卒業すると、彼女は東京へ引っ越した。"},{"id":"set8-ex4-q9","sentence":"The class has 25 students, ___ two exchange students.","answer":"including","completedSentence":"The class has 25 students, including two exchange students.","japanese":"留学生2人を含めて、そのクラスには25人いる。"},{"id":"set8-ex4-q10","sentence":"___ my brother, I enjoy cooking.","answer":"unlike","completedSentence":"Unlike my brother, I enjoy cooking.","japanese":"兄と違って、私は料理が好きである。"},{"id":"set8-ex4-q11","sentence":"Smoke poured ___ the chimney.","answer":"out","completedSentence":"Smoke poured out the chimney.","japanese":"煙が煙突から外へ出た。"},{"id":"set8-ex4-q12","sentence":"The café is ___ the library.","answer":"opposite","completedSentence":"The café is opposite the library.","japanese":"カフェは図書館の向かいにある。"},{"id":"set8-ex4-q13","sentence":"It was colder ___ yesterday.","answer":"than","completedSentence":"It was colder than yesterday.","japanese":"昨日より寒かった。"},{"id":"set8-ex4-q14","sentence":"The lights turn on ___ sunset.","answer":"upon","completedSentence":"The lights turn on upon sunset.","japanese":"日没になると照明がつく。"},{"id":"set8-ex4-q15","sentence":"The second test was ___ the first.","answer":"unlike","completedSentence":"The second test was unlike the first.","japanese":"2回目の試験は1回目とは異なっていた。"}]}]}
+{
+  "description": "Practice multiword prepositions expressing priority, topic, cause, method, exception, responsibility, addition, exchange, support, and substitution.",
+  "exercises": [
+    {
+      "enabled": true,
+      "id": "set8-ex1",
+      "questions": [
+        {
+          "answer": "ahead of",
+          "completedSentence": "We arrived ahead of the other group.",
+          "id": "set8-ex1-q1",
+          "japanese": "他のグループより先に到着した。",
+          "sentence": "We arrived ___ the other group."
+        },
+        {
+          "answer": "because of",
+          "completedSentence": "The game was canceled because of the rain.",
+          "id": "set8-ex1-q2",
+          "japanese": "雨のため、試合は中止された。",
+          "sentence": "The game was canceled ___ the rain."
+        },
+        {
+          "answer": "as for",
+          "completedSentence": "As for the cost, we can discuss it later.",
+          "id": "set8-ex1-q3",
+          "japanese": "費用については、後で話し合うことができる。",
+          "sentence": "___ the cost, we can discuss it later."
+        },
+        {
+          "answer": "in addition to",
+          "completedSentence": "In addition to English, she studies Korean.",
+          "id": "set8-ex1-q4",
+          "japanese": "英語に加えて、彼女は韓国語も勉強している。",
+          "sentence": "___ English, she studies Korean."
+        },
+        {
+          "answer": "except for",
+          "completedSentence": "Everyone passed except for Ken.",
+          "id": "set8-ex1-q5",
+          "japanese": "ケンを除いて全員合格した。",
+          "sentence": "Everyone passed ___ Ken."
+        },
+        {
+          "answer": "in exchange for",
+          "completedSentence": "She received a ticket in exchange for helping at the event.",
+          "id": "set8-ex1-q6",
+          "japanese": "彼女は行事を手伝った見返りにチケットを受け取った。",
+          "sentence": "She received a ticket ___ helping at the event."
+        },
+        {
+          "answer": "by means of",
+          "completedSentence": "The device is controlled by means of a mobile app.",
+          "id": "set8-ex1-q7",
+          "japanese": "その装置はモバイルアプリによって操作される。",
+          "sentence": "The device is controlled ___ a mobile app."
+        },
+        {
+          "answer": "in place of",
+          "completedSentence": "Aya spoke in place of the team leader.",
+          "id": "set8-ex1-q8",
+          "japanese": "アヤがチームリーダーの代わりに話した。",
+          "sentence": "Aya spoke ___ the team leader."
+        },
+        {
+          "answer": "in charge of",
+          "completedSentence": "Ms. Sato is in charge of student orientation.",
+          "id": "set8-ex1-q9",
+          "japanese": "佐藤先生は新入生オリエンテーションを担当している。",
+          "sentence": "Ms. Sato is ___ student orientation."
+        },
+        {
+          "answer": "in favor of",
+          "completedSentence": "Most students voted in favor of the proposal.",
+          "id": "set8-ex1-q10",
+          "japanese": "ほとんどの学生がその提案に賛成票を投じた。",
+          "sentence": "Most students voted ___ the proposal."
+        },
+        {
+          "answer": "ahead of",
+          "completedSentence": "Our train arrived ahead of schedule.",
+          "id": "set8-ex1-q11",
+          "japanese": "私たちの列車は予定より早く到着した。",
+          "sentence": "Our train arrived ___ schedule."
+        },
+        {
+          "answer": "because of",
+          "completedSentence": "We left early because of the snow.",
+          "id": "set8-ex1-q12",
+          "japanese": "雪のため早く出発した。",
+          "sentence": "We left early ___ the snow."
+        },
+        {
+          "answer": "in place of",
+          "completedSentence": "Use yogurt in place of cream.",
+          "id": "set8-ex1-q13",
+          "japanese": "クリームの代わりにヨーグルトを使うこと。",
+          "sentence": "Use yogurt ___ cream."
+        },
+        {
+          "answer": "as for",
+          "completedSentence": "As for tomorrow, no classes are scheduled.",
+          "id": "set8-ex1-q14",
+          "japanese": "明日については、授業の予定はない。",
+          "sentence": "___ tomorrow, no classes are scheduled."
+        },
+        {
+          "answer": "except for",
+          "completedSentence": "The room was empty except for one chair.",
+          "id": "set8-ex1-q15",
+          "japanese": "その部屋には椅子が一脚ある以外、何もなかった。",
+          "sentence": "The room was empty ___ one chair."
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 7,
+        "threeStars": 13,
+        "twoStars": 10
+      },
+      "title": "Exercise 1",
+      "totalPoints": 15,
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set8-ex2",
+      "questions": [
+        {
+          "answer": "in exchange for",
+          "completedSentence": "I gave him my notes in exchange for his advice.",
+          "id": "set8-ex2-q1",
+          "japanese": "私は助言のお返しに彼にノートを渡した。",
+          "sentence": "I gave him my notes ___ his advice."
+        },
+        {
+          "answer": "by means of",
+          "completedSentence": "The researchers collected data by means of an online survey.",
+          "id": "set8-ex2-q2",
+          "japanese": "研究者たちはオンライン調査によってデータを収集した。",
+          "sentence": "The researchers collected data ___ an online survey."
+        },
+        {
+          "answer": "in charge of",
+          "completedSentence": "Who is in charge of this equipment?",
+          "id": "set8-ex2-q3",
+          "japanese": "この機器の管理担当者は誰ですか。",
+          "sentence": "Who is ___ this equipment?"
+        },
+        {
+          "answer": "in favor of",
+          "completedSentence": "The committee came out in favor of the new system.",
+          "id": "set8-ex2-q4",
+          "japanese": "委員会は新制度への支持を表明した。",
+          "sentence": "The committee came out ___ the new system."
+        },
+        {
+          "answer": "in addition to",
+          "completedSentence": "In addition to the textbook, bring a notebook.",
+          "id": "set8-ex2-q5",
+          "japanese": "教科書に加えて、ノートも持参すること。",
+          "sentence": "___ the textbook, bring a notebook."
+        },
+        {
+          "answer": "ahead of",
+          "completedSentence": "Ken finished ahead of everyone else.",
+          "id": "set8-ex2-q6",
+          "japanese": "ケンは他の全員より先に終えた。",
+          "sentence": "Ken finished ___ everyone else."
+        },
+        {
+          "answer": "as for",
+          "completedSentence": "As for the weather, it was sunny throughout the trip.",
+          "id": "set8-ex2-q7",
+          "japanese": "天気については、旅行中ずっと晴れていた。",
+          "sentence": "___ the weather, it was sunny throughout the trip."
+        },
+        {
+          "answer": "in place of",
+          "completedSentence": "We used a chair in place of a ladder.",
+          "id": "set8-ex2-q8",
+          "japanese": "はしごの代わりに椅子を使った。",
+          "sentence": "We used a chair ___ a ladder."
+        },
+        {
+          "answer": "because of",
+          "completedSentence": "The picnic ended early because of the heat.",
+          "id": "set8-ex2-q9",
+          "japanese": "暑さのため、ピクニックは早く終わった。",
+          "sentence": "The picnic ended early ___ the heat."
+        },
+        {
+          "answer": "except for",
+          "completedSentence": "All the lights were off except for one.",
+          "id": "set8-ex2-q10",
+          "japanese": "一つを除いて、すべての明かりが消えていた。",
+          "sentence": "All the lights were off ___ one."
+        },
+        {
+          "answer": "in exchange for",
+          "completedSentence": "The students worked in exchange for course credit.",
+          "id": "set8-ex2-q11",
+          "japanese": "学生たちは単位を得る代わりに作業をした。",
+          "sentence": "The students worked ___ course credit."
+        },
+        {
+          "answer": "by means of",
+          "completedSentence": "The door can be opened by means of this code.",
+          "id": "set8-ex2-q12",
+          "japanese": "そのドアはこの暗証番号を使って開けられる。",
+          "sentence": "The door can be opened ___ this code."
+        },
+        {
+          "answer": "in charge of",
+          "completedSentence": "Aya was in charge of booking the rooms.",
+          "id": "set8-ex2-q13",
+          "japanese": "アヤは部屋の予約を担当していた。",
+          "sentence": "Aya was ___ booking the rooms."
+        },
+        {
+          "answer": "in favor of",
+          "completedSentence": "She argued in favor of extending the deadline.",
+          "id": "set8-ex2-q14",
+          "japanese": "彼女は締め切りの延長を支持する意見を述べた。",
+          "sentence": "She argued ___ extending the deadline."
+        },
+        {
+          "answer": "in addition to",
+          "completedSentence": "In addition to the fee, students must buy a book.",
+          "id": "set8-ex2-q15",
+          "japanese": "料金に加えて、学生は本も購入しなければならない。",
+          "sentence": "___ the fee, students must buy a book."
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 7,
+        "threeStars": 13,
+        "twoStars": 10
+      },
+      "title": "Exercise 2",
+      "totalPoints": 15,
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set8-ex3",
+      "questions": [
+        {
+          "answer": "ahead of",
+          "completedSentence": "Our team moved ahead of theirs in the standings.",
+          "id": "set8-ex3-q1",
+          "japanese": "私たちのチームは順位表で相手チームを追い越した。",
+          "sentence": "Our team moved ___ theirs in the standings."
+        },
+        {
+          "answer": "in exchange for",
+          "completedSentence": "They offered free meals in exchange for volunteer work.",
+          "id": "set8-ex3-q2",
+          "japanese": "彼らはボランティア活動の対価として無料の食事を提供した。",
+          "sentence": "They offered free meals ___ volunteer work."
+        },
+        {
+          "answer": "in charge of",
+          "completedSentence": "The librarian is in charge of the archives.",
+          "id": "set8-ex3-q3",
+          "japanese": "その司書は文書保管庫を担当している。",
+          "sentence": "The librarian is ___ the archives."
+        },
+        {
+          "answer": "by means of",
+          "completedSentence": "Messages were transmitted by means of radio signals.",
+          "id": "set8-ex3-q4",
+          "japanese": "メッセージは無線信号によって送信された。",
+          "sentence": "Messages were transmitted ___ radio signals."
+        },
+        {
+          "answer": "because of",
+          "completedSentence": "We stayed inside because of the storm.",
+          "id": "set8-ex3-q5",
+          "japanese": "嵐のため、私たちは屋内にいた。",
+          "sentence": "We stayed inside ___ the storm."
+        },
+        {
+          "answer": "as for",
+          "completedSentence": "As for the final exam, it will be online.",
+          "id": "set8-ex3-q6",
+          "japanese": "期末試験については、オンラインで実施される。",
+          "sentence": "___ the final exam, it will be online."
+        },
+        {
+          "answer": "except for",
+          "completedSentence": "Everyone agreed except for Mika.",
+          "id": "set8-ex3-q7",
+          "japanese": "ミカを除いて全員が賛成した。",
+          "sentence": "Everyone agreed ___ Mika."
+        },
+        {
+          "answer": "in place of",
+          "completedSentence": "I used a towel in place of a pillow.",
+          "id": "set8-ex3-q8",
+          "japanese": "枕の代わりにタオルを使った。",
+          "sentence": "I used a towel ___ a pillow."
+        },
+        {
+          "answer": "in favor of",
+          "completedSentence": "Public opinion shifted in favor of the plan.",
+          "id": "set8-ex3-q9",
+          "japanese": "世論はその計画を支持する方向へ変化した。",
+          "sentence": "Public opinion shifted ___ the plan."
+        },
+        {
+          "answer": "in addition to",
+          "completedSentence": "In addition to grammar, the course teaches pronunciation.",
+          "id": "set8-ex3-q10",
+          "japanese": "文法に加えて、その授業では発音も扱う。",
+          "sentence": "___ grammar, the course teaches pronunciation."
+        },
+        {
+          "answer": "ahead of",
+          "completedSentence": "She is two places ahead of me in line.",
+          "id": "set8-ex3-q11",
+          "japanese": "彼女は列で私の二人前にいる。",
+          "sentence": "She is two places ___ me in line."
+        },
+        {
+          "answer": "in exchange for",
+          "completedSentence": "She taught English in exchange for accommodation.",
+          "id": "set8-ex3-q12",
+          "japanese": "彼女は宿泊場所を提供してもらう代わりに英語を教えた。",
+          "sentence": "She taught English ___ accommodation."
+        },
+        {
+          "answer": "in charge of",
+          "completedSentence": "Ken is in charge of collecting the forms.",
+          "id": "set8-ex3-q13",
+          "japanese": "ケンは用紙の回収を担当している。",
+          "sentence": "Ken is ___ collecting the forms."
+        },
+        {
+          "answer": "by means of",
+          "completedSentence": "The temperature is adjusted by means of this dial.",
+          "id": "set8-ex3-q14",
+          "japanese": "温度はこのダイヤルを使って調節する。",
+          "sentence": "The temperature is adjusted ___ this dial."
+        },
+        {
+          "answer": "because of",
+          "completedSentence": "The flight was late because of bad weather.",
+          "id": "set8-ex3-q15",
+          "japanese": "悪天候のため、飛行機が遅れた。",
+          "sentence": "The flight was late ___ bad weather."
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 7,
+        "threeStars": 13,
+        "twoStars": 10
+      },
+      "title": "Exercise 3",
+      "totalPoints": 15,
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set8-ex4",
+      "questions": [
+        {
+          "answer": "except for",
+          "completedSentence": "Everyone was ready except for Taro.",
+          "id": "set8-ex4-q1",
+          "japanese": "タロウを除いて全員準備ができていた。",
+          "sentence": "Everyone was ready ___ Taro."
+        },
+        {
+          "answer": "in place of",
+          "completedSentence": "Use the side door in place of the main entrance.",
+          "id": "set8-ex4-q2",
+          "japanese": "正面入口の代わりに横のドアを使うこと。",
+          "sentence": "Use the side door ___ the main entrance."
+        },
+        {
+          "answer": "as for",
+          "completedSentence": "As for your proposal, I need more time.",
+          "id": "set8-ex4-q3",
+          "japanese": "あなたの提案については、もう少し時間が必要である。",
+          "sentence": "___ your proposal, I need more time."
+        },
+        {
+          "answer": "in favor of",
+          "completedSentence": "Five members spoke in favor of the change.",
+          "id": "set8-ex4-q4",
+          "japanese": "5人の委員がその変更に賛成する発言をした。",
+          "sentence": "Five members spoke ___ the change."
+        },
+        {
+          "answer": "in addition to",
+          "completedSentence": "In addition to the regular class, we have a workshop.",
+          "id": "set8-ex4-q5",
+          "japanese": "通常授業に加えて、ワークショップもある。",
+          "sentence": "___ the regular class, we have a workshop."
+        },
+        {
+          "answer": "ahead of",
+          "completedSentence": "She submitted the report ahead of the deadline.",
+          "id": "set8-ex4-q6",
+          "japanese": "彼女は締め切りより前にレポートを提出した。",
+          "sentence": "She submitted the report ___ the deadline."
+        },
+        {
+          "answer": "because of",
+          "completedSentence": "The meeting ended early because of a power cut.",
+          "id": "set8-ex4-q7",
+          "japanese": "停電のため、会議は早く終了した。",
+          "sentence": "The meeting ended early ___ a power cut."
+        },
+        {
+          "answer": "in exchange for",
+          "completedSentence": "We received a discount in exchange for completing the survey.",
+          "id": "set8-ex4-q8",
+          "japanese": "私たちは調査に回答した見返りに割引を受けた。",
+          "sentence": "We received a discount ___ completing the survey."
+        },
+        {
+          "answer": "by means of",
+          "completedSentence": "They crossed the river by means of a small boat.",
+          "id": "set8-ex4-q9",
+          "japanese": "彼らは小舟を使って川を渡った。",
+          "sentence": "They crossed the river ___ a small boat."
+        },
+        {
+          "answer": "in charge of",
+          "completedSentence": "Our team is in charge of updating the website.",
+          "id": "set8-ex4-q10",
+          "japanese": "私たちのチームはウェブサイトの更新を担当している。",
+          "sentence": "Our team is ___ updating the website."
+        },
+        {
+          "answer": "except for",
+          "completedSentence": "No one complained except for one student.",
+          "id": "set8-ex4-q11",
+          "japanese": "一人の学生を除いて誰も不満を言わなかった。",
+          "sentence": "No one complained ___ one student."
+        },
+        {
+          "answer": "in place of",
+          "completedSentence": "We used paper cups in place of glasses.",
+          "id": "set8-ex4-q12",
+          "japanese": "グラスの代わりに紙コップを使った。",
+          "sentence": "We used paper cups ___ glasses."
+        },
+        {
+          "answer": "as for",
+          "completedSentence": "As for the next unit, it looks harder.",
+          "id": "set8-ex4-q13",
+          "japanese": "次の単元については、より難しそうである。",
+          "sentence": "___ the next unit, it looks harder."
+        },
+        {
+          "answer": "in favor of",
+          "completedSentence": "The judge ruled in favor of the student.",
+          "id": "set8-ex4-q14",
+          "japanese": "裁判官はその学生に有利な判決を下した。",
+          "sentence": "The judge ruled ___ the student."
+        },
+        {
+          "answer": "in addition to",
+          "completedSentence": "In addition to the report, submit the data file.",
+          "id": "set8-ex4-q15",
+          "japanese": "レポートに加えて、データファイルも提出すること。",
+          "sentence": "___ the report, submit the data file."
+        }
+      ],
+      "starThresholds": {
+        "oneStar": 7,
+        "threeStars": 13,
+        "twoStars": 10
+      },
+      "title": "Exercise 4",
+      "totalPoints": 15,
+      "version": "restructured-v1"
+    }
+  ],
+  "id": "set8",
+  "number": 8,
+  "shortTitle": "Multiword Forms 2",
+  "title": "Multiword Prepositions 2",
+  "wordBank": [
+    "ahead of",
+    "as for",
+    "because of",
+    "by means of",
+    "except for",
+    "in charge of",
+    "in addition to",
+    "in exchange for",
+    "in favor of",
+    "in place of"
+  ]
+}

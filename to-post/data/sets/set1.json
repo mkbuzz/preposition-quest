@@ -1,0 +1,473 @@
+{
+  "description": "Practice prepositions used for time, dates, duration, deadlines, and sequence.",
+  "exercises": [
+    {
+      "enabled": true,
+      "id": "set1-ex1",
+      "questions": [
+        {
+          "answer": "at",
+          "id": "set1-ex1-q1",
+          "japanese": "最初の授業は9時に始まる。",
+          "sentence": "My first class starts ___ 9:00.",
+          "completedSentence": "My first class starts at 9:00."
+        },
+        {
+          "answer": "on",
+          "id": "set1-ex1-q2",
+          "japanese": "月曜日に単語の小テストがある。",
+          "sentence": "We have a vocabulary quiz ___ Monday.",
+          "completedSentence": "We have a vocabulary quiz on Monday."
+        },
+        {
+          "answer": "in",
+          "id": "set1-ex1-q3",
+          "japanese": "大学祭は11月に行われる。",
+          "sentence": "The university festival is ___ November.",
+          "completedSentence": "The university festival is in November."
+        },
+        {
+          "answer": "by",
+          "id": "set1-ex1-q4",
+          "japanese": "金曜日の午後11時59分までに課題をアップロードすること。",
+          "sentence": "Upload the assignment ___ 11:59 p.m. on Friday.",
+          "completedSentence": "Upload the assignment by 11:59 p.m. on Friday."
+        },
+        {
+          "answer": "until",
+          "id": "set1-ex1-q5",
+          "japanese": "図書館が閉まるまで残っていた。",
+          "sentence": "I stayed ___ the library closed.",
+          "completedSentence": "I stayed until the library closed."
+        },
+        {
+          "answer": "for",
+          "id": "set1-ex1-q6",
+          "japanese": "2時間練習した。",
+          "sentence": "We practiced ___ two hours.",
+          "completedSentence": "We practiced for two hours."
+        },
+        {
+          "answer": "since",
+          "id": "set1-ex1-q7",
+          "japanese": "アヤは2024年からテニスをしている。",
+          "sentence": "Aya has played tennis ___ 2024.",
+          "completedSentence": "Aya has played tennis since 2024."
+        },
+        {
+          "answer": "during",
+          "id": "set1-ex1-q8",
+          "japanese": "試験中は話してはいけない。",
+          "sentence": "Students may not talk ___ the exam.",
+          "completedSentence": "Students may not talk during the exam."
+        },
+        {
+          "answer": "after",
+          "id": "set1-ex1-q9",
+          "japanese": "授業後に昼食を食べた。",
+          "sentence": "We ate lunch ___ class.",
+          "completedSentence": "We ate lunch after class."
+        },
+        {
+          "answer": "before",
+          "id": "set1-ex1-q10",
+          "japanese": "授業前に携帯電話の電源を切ること。",
+          "sentence": "Turn off your phone ___ class.",
+          "completedSentence": "Turn off your phone before class."
+        },
+        {
+          "answer": "at",
+          "id": "set1-ex1-q11",
+          "japanese": "正午に会いましょう。",
+          "sentence": "Let’s meet ___ noon.",
+          "completedSentence": "Let’s meet at noon."
+        },
+        {
+          "answer": "on",
+          "id": "set1-ex1-q12",
+          "japanese": "発表日は4月15日である。",
+          "sentence": "The presentation is ___ April 15.",
+          "completedSentence": "The presentation is on April 15."
+        },
+        {
+          "answer": "in",
+          "id": "set1-ex1-q13",
+          "japanese": "図書館は2025年に開館した。",
+          "sentence": "The library opened ___ 2025.",
+          "completedSentence": "The library opened in 2025."
+        },
+        {
+          "answer": "by",
+          "id": "set1-ex1-q14",
+          "japanese": "金曜日までに本を返すこと。",
+          "sentence": "Return the book ___ Friday.",
+          "completedSentence": "Return the book by Friday."
+        },
+        {
+          "answer": "until",
+          "id": "set1-ex1-q15",
+          "japanese": "バスが来るまで待った。",
+          "sentence": "We waited ___ the bus arrived.",
+          "completedSentence": "We waited until the bus arrived."
+        }
+      ],
+      "title": "Exercise 1",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set1-ex2",
+      "questions": [
+        {
+          "answer": "by",
+          "id": "set1-ex2-q1",
+          "japanese": "火曜日までに提出すること。",
+          "sentence": "Submit it ___ Tuesday.",
+          "completedSentence": "Submit it by Tuesday."
+        },
+        {
+          "answer": "during",
+          "id": "set1-ex2-q2",
+          "japanese": "授業中は話してはいけない。",
+          "sentence": "Do not talk ___ class.",
+          "completedSentence": "Do not talk during class."
+        },
+        {
+          "answer": "until",
+          "id": "set1-ex2-q3",
+          "japanese": "正午まで待った。",
+          "sentence": "We waited ___ noon.",
+          "completedSentence": "We waited until noon."
+        },
+        {
+          "answer": "for",
+          "id": "set1-ex2-q4",
+          "japanese": "1時間待った。",
+          "sentence": "We waited ___ an hour.",
+          "completedSentence": "We waited for an hour."
+        },
+        {
+          "answer": "on",
+          "id": "set1-ex2-q5",
+          "japanese": "試験は金曜日にある。",
+          "sentence": "The test is ___ Friday.",
+          "completedSentence": "The test is on Friday."
+        },
+        {
+          "answer": "in",
+          "id": "set1-ex2-q6",
+          "japanese": "学期は4月に始まる。",
+          "sentence": "The term begins ___ April.",
+          "completedSentence": "The term begins in April."
+        },
+        {
+          "answer": "before",
+          "id": "set1-ex2-q7",
+          "japanese": "昼食前に手を洗うこと。",
+          "sentence": "Wash your hands ___ lunch.",
+          "completedSentence": "Wash your hands before lunch."
+        },
+        {
+          "answer": "in",
+          "id": "set1-ex2-q8",
+          "japanese": "彼女は2005年に生まれた。",
+          "sentence": "She was born ___ 2005.",
+          "completedSentence": "She was born in 2005."
+        },
+        {
+          "answer": "for",
+          "id": "set1-ex2-q9",
+          "japanese": "彼は3時間勉強した。",
+          "sentence": "He studied ___ three hours.",
+          "completedSentence": "He studied for three hours."
+        },
+        {
+          "answer": "by",
+          "id": "set1-ex2-q10",
+          "japanese": "10時までに帰宅すること。",
+          "sentence": "Be home ___ 10:00.",
+          "completedSentence": "Be home by 10:00."
+        },
+        {
+          "answer": "since",
+          "id": "set1-ex2-q11",
+          "japanese": "2022年からここに住んでいる。",
+          "sentence": "I have lived here ___ 2022.",
+          "completedSentence": "I have lived here since 2022."
+        },
+        {
+          "answer": "after",
+          "id": "set1-ex2-q12",
+          "japanese": "授業後に会った。",
+          "sentence": "We met ___ class.",
+          "completedSentence": "We met after class."
+        },
+        {
+          "answer": "at",
+          "id": "set1-ex2-q13",
+          "japanese": "授業は10時に始まる。",
+          "sentence": "Class begins ___ 10:00.",
+          "completedSentence": "Class begins at 10:00."
+        },
+        {
+          "answer": "on",
+          "id": "set1-ex2-q14",
+          "japanese": "7月3日に会った。",
+          "sentence": "We met ___ July 3.",
+          "completedSentence": "We met on July 3."
+        },
+        {
+          "answer": "until",
+          "id": "set1-ex2-q15",
+          "japanese": "私が戻るまでここにいること。",
+          "sentence": "Stay here ___ I return.",
+          "completedSentence": "Stay here until I return."
+        }
+      ],
+      "title": "Exercise 2",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set1-ex3",
+      "questions": [
+        {
+          "answer": "before",
+          "id": "set1-ex3-q1",
+          "japanese": "正午前に到着した。",
+          "sentence": "We arrived ___ noon.",
+          "completedSentence": "We arrived before noon."
+        },
+        {
+          "answer": "in",
+          "id": "set1-ex3-q2",
+          "japanese": "夏に旅行する。",
+          "sentence": "We travel ___ summer.",
+          "completedSentence": "We travel in summer."
+        },
+        {
+          "answer": "for",
+          "id": "set1-ex3-q3",
+          "japanese": "そこに1年間住んだ。",
+          "sentence": "I lived there ___ a year.",
+          "completedSentence": "I lived there for a year."
+        },
+        {
+          "answer": "at",
+          "id": "set1-ex3-q4",
+          "japanese": "正午に会おう。",
+          "sentence": "Meet me ___ noon.",
+          "completedSentence": "Meet me at noon."
+        },
+        {
+          "answer": "until",
+          "id": "set1-ex3-q5",
+          "japanese": "店は9時まで開いている。",
+          "sentence": "The shop is open ___ 9:00.",
+          "completedSentence": "The shop is open until 9:00."
+        },
+        {
+          "answer": "by",
+          "id": "set1-ex3-q6",
+          "japanese": "正午までに小テストを終えること。",
+          "sentence": "Finish the quiz ___ noon.",
+          "completedSentence": "Finish the quiz by noon."
+        },
+        {
+          "answer": "at",
+          "id": "set1-ex3-q7",
+          "japanese": "店は9時に閉まる。",
+          "sentence": "The shop closes ___ 9:00.",
+          "completedSentence": "The shop closes at 9:00."
+        },
+        {
+          "answer": "since",
+          "id": "set1-ex3-q8",
+          "japanese": "彼女は月曜日から忙しい。",
+          "sentence": "She has been busy ___ Monday.",
+          "completedSentence": "She has been busy since Monday."
+        },
+        {
+          "answer": "after",
+          "id": "set1-ex3-q9",
+          "japanese": "夕食後に彼女に電話した。",
+          "sentence": "I called her ___ dinner.",
+          "completedSentence": "I called her after dinner."
+        },
+        {
+          "answer": "during",
+          "id": "set1-ex3-q10",
+          "japanese": "講義中にメモを取った。",
+          "sentence": "I took notes ___ the lecture.",
+          "completedSentence": "I took notes during the lecture."
+        },
+        {
+          "answer": "on",
+          "id": "set1-ex3-q11",
+          "japanese": "部活動は毎週水曜日にある。",
+          "sentence": "The club meets ___ Wednesdays.",
+          "completedSentence": "The club meets on Wednesdays."
+        },
+        {
+          "answer": "during",
+          "id": "set1-ex3-q12",
+          "japanese": "試合中に雨が降った。",
+          "sentence": "It rained ___ the game.",
+          "completedSentence": "It rained during the game."
+        },
+        {
+          "answer": "after",
+          "id": "set1-ex3-q13",
+          "japanese": "仕事の後に勉強した。",
+          "sentence": "He studied ___ work.",
+          "completedSentence": "He studied after work."
+        },
+        {
+          "answer": "before",
+          "id": "set1-ex3-q14",
+          "japanese": "授業前にその章を読むこと。",
+          "sentence": "Read the chapter ___ class.",
+          "completedSentence": "Read the chapter before class."
+        },
+        {
+          "answer": "until",
+          "id": "set1-ex3-q15",
+          "japanese": "彼女は真夜中まで勉強した。",
+          "sentence": "She studied ___ midnight.",
+          "completedSentence": "She studied until midnight."
+        }
+      ],
+      "title": "Exercise 3",
+      "version": "restructured-v1"
+    },
+    {
+      "enabled": true,
+      "id": "set1-ex4",
+      "questions": [
+        {
+          "answer": "since",
+          "id": "set1-ex4-q1",
+          "japanese": "5月から彼を知っている。",
+          "sentence": "We have known him ___ May.",
+          "completedSentence": "We have known him since May."
+        },
+        {
+          "answer": "by",
+          "id": "set1-ex4-q2",
+          "japanese": "金曜日までに鍵を返すこと。",
+          "sentence": "Return the key ___ Friday.",
+          "completedSentence": "Return the key by Friday."
+        },
+        {
+          "answer": "for",
+          "id": "set1-ex4-q3",
+          "japanese": "彼女は20分間練習した。",
+          "sentence": "She practiced ___ 20 minutes.",
+          "completedSentence": "She practiced for 20 minutes."
+        },
+        {
+          "answer": "until",
+          "id": "set1-ex4-q4",
+          "japanese": "10時まで寝ていた。",
+          "sentence": "I slept ___ 10:00.",
+          "completedSentence": "I slept until 10:00."
+        },
+        {
+          "answer": "at",
+          "id": "set1-ex4-q5",
+          "japanese": "6時30分に起きた。",
+          "sentence": "I woke up ___ 6:30.",
+          "completedSentence": "I woke up at 6:30."
+        },
+        {
+          "answer": "on",
+          "id": "set1-ex4-q6",
+          "japanese": "誕生日は日曜日である。",
+          "sentence": "My birthday is ___ Sunday.",
+          "completedSentence": "My birthday is on Sunday."
+        },
+        {
+          "answer": "after",
+          "id": "set1-ex4-q7",
+          "japanese": "会議後に出発した。",
+          "sentence": "We left ___ the meeting.",
+          "completedSentence": "We left after the meeting."
+        },
+        {
+          "answer": "at",
+          "id": "set1-ex4-q8",
+          "japanese": "列車は真夜中に到着する。",
+          "sentence": "The train arrives ___ midnight.",
+          "completedSentence": "The train arrives at midnight."
+        },
+        {
+          "answer": "during",
+          "id": "set1-ex4-q9",
+          "japanese": "彼女は飛行中に眠った。",
+          "sentence": "She slept ___ the flight.",
+          "completedSentence": "She slept during the flight."
+        },
+        {
+          "answer": "in",
+          "id": "set1-ex4-q10",
+          "japanese": "行事は10月にある。",
+          "sentence": "The event is ___ October.",
+          "completedSentence": "The event is in October."
+        },
+        {
+          "answer": "by",
+          "id": "set1-ex4-q11",
+          "japanese": "明日までに用紙を送ること。",
+          "sentence": "Send the form ___ tomorrow.",
+          "completedSentence": "Send the form by tomorrow."
+        },
+        {
+          "answer": "since",
+          "id": "set1-ex4-q12",
+          "japanese": "正午から雨が降り続いている。",
+          "sentence": "It has been raining ___ noon.",
+          "completedSentence": "It has been raining since noon."
+        },
+        {
+          "answer": "during",
+          "id": "set1-ex4-q13",
+          "japanese": "昼食中に電話が鳴った。",
+          "sentence": "My phone rang ___ lunch.",
+          "completedSentence": "My phone rang during lunch."
+        },
+        {
+          "answer": "for",
+          "id": "set1-ex4-q14",
+          "japanese": "店は2日間休業していた。",
+          "sentence": "The shop was closed ___ two days.",
+          "completedSentence": "The shop was closed for two days."
+        },
+        {
+          "answer": "before",
+          "id": "set1-ex4-q15",
+          "japanese": "夕食前に電話してほしい。",
+          "sentence": "Call me ___ dinner.",
+          "completedSentence": "Call me before dinner."
+        }
+      ],
+      "title": "Exercise 4",
+      "version": "restructured-v1"
+    }
+  ],
+  "id": "set1",
+  "number": 1,
+  "shortTitle": "Time",
+  "title": "Time Prepositions",
+  "wordBank": [
+    "after",
+    "at",
+    "before",
+    "by",
+    "during",
+    "for",
+    "in",
+    "on",
+    "since",
+    "until"
+  ]
+}
