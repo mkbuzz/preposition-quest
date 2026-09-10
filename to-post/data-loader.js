@@ -2,7 +2,7 @@
 
 (() => {
   const nativeFetch = window.fetch.bind(window);
-  const BUILD_VERSION = "11";
+  const BUILD_VERSION = "12";
   const LIVE_TARGET = new URL("../data/exercises.json", window.location.href);
   const ADDITIONAL_TARGET = new URL("data/additional-sets.json", window.location.href);
 
@@ -85,6 +85,7 @@
     return {
       schemaVersion: "to-post-direct-json-v2",
       label: "TO-POST",
+      appTitle: "Preposition Quest",
       sets
     };
   }
